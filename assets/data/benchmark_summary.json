@@ -1,0 +1,111 @@
+{
+  "boundary": {
+    "claim_scope": "Tests task-conditioned post-JTD refinement and VIVERE storage, not raw-space replacement of the original JTD.",
+    "input_to_this_gate": "Official Qwen2.5-0.5B phrase rows after the preserved 896D-to-32D Gate 2B-Q JTD.",
+    "raw_official_qwen_states_available": false
+  },
+  "claims": [
+    "MACSL-owned VIVERE cards reduced phrase-bank storage 2.60\u00d7 versus full 32D rows.",
+    "The compressed recipient retained approximately 3.04% active conditional expert capacity per token.",
+    "The reference Python reconstruction path was not faster; native fused reconstruction remains an engineering gate."
+  ],
+  "criteria": {
+    "actual_phrase_bank_compression_at_least_2x": true,
+    "additive_quality_beyond_centering_replicates_in_4_of_5_seeds": false,
+    "centered_macsl_vivere_beats_raw_official_full_nll": true,
+    "compressed_macsl_matches_centered_within_0_1_percent_nll": true,
+    "conditional_activity_below_25_percent": true,
+    "macsl_owned_cards_beat_global_vivere_compression": true,
+    "reference_runtime_faster_than_centered_bank": false,
+    "theoretical_bf16_compression_at_least_2x": true
+  },
+  "full_architecture": [
+    {
+      "conditional_active_fraction": 0.03041728940892998,
+      "exact_hit_accuracy_mean": 0.0732420091324201,
+      "id": "official_raw32",
+      "label": "Official 32D rows",
+      "latency_median_ms_mean": 7.590369599984115,
+      "nll_mean": 6.889205434918404,
+      "nll_std": 0.07584678138994112,
+      "perplexity_mean": 983.8933116574556,
+      "phrase_bank_bytes": 668852,
+      "sparse_accuracy_mean": 0.129248046875
+    },
+    {
+      "conditional_active_fraction": 0.03041728940892998,
+      "exact_hit_accuracy_mean": 0.11817351598173516,
+      "id": "official_centered32",
+      "label": "Centered official 32D",
+      "latency_median_ms_mean": 7.7591288000803615,
+      "nll_mean": 6.85034726858139,
+      "nll_std": 0.07385745926981946,
+      "perplexity_mean": 946.2515545009961,
+      "phrase_bank_bytes": 668863,
+      "sparse_accuracy_mean": 0.14501953125
+    },
+    {
+      "conditional_active_fraction": 0.03041728940892998,
+      "exact_hit_accuracy_mean": 0.11214611872146119,
+      "id": "centered_global_vivere32_r8",
+      "label": "Global VIVERE rank-8",
+      "latency_median_ms_mean": 7.807196200064936,
+      "nll_mean": 6.856687304377556,
+      "nll_std": 0.07810959054539901,
+      "perplexity_mean": 952.5243212533608,
+      "phrase_bank_bytes": 227607,
+      "sparse_accuracy_mean": 0.1421875
+    },
+    {
+      "conditional_active_fraction": 0.03041728940892998,
+      "exact_hit_accuracy_mean": 0.11908675799086758,
+      "id": "centered_macsl_vivere32_r8",
+      "label": "MACSL + VIVERE rank-8",
+      "latency_median_ms_mean": 7.98756019985376,
+      "nll_mean": 6.849365827441216,
+      "nll_std": 0.07617337594176686,
+      "perplexity_mean": 945.4591281770557,
+      "phrase_bank_bytes": 257352,
+      "sparse_accuracy_mean": 0.144384765625
+    },
+    {
+      "conditional_active_fraction": 0.03041728940892998,
+      "exact_hit_accuracy_mean": 0.1189041095890411,
+      "id": "centered_macsl_vivere32_r12",
+      "label": "MACSL + VIVERE rank-12",
+      "latency_median_ms_mean": 7.829281400063337,
+      "nll_mean": 6.850739151239395,
+      "nll_std": 0.07434290486867574,
+      "perplexity_mean": 946.6505298823056,
+      "phrase_bank_bytes": 297548,
+      "sparse_accuracy_mean": 0.14443359375
+    }
+  ],
+  "gate": "Gate 2C-VM32",
+  "headline": {
+    "active_conditional_fraction": 0.03041728940892998,
+    "active_vocabulary_fraction": 0.125,
+    "definition_rows": 5000,
+    "local_cards_vs_global_mean_nll_advantage": 0.007321476936340332,
+    "local_cards_vs_global_seed_count": 5,
+    "local_cards_vs_global_seed_wins": 4,
+    "nll_improvement_vs_raw": 0.03983960747718829,
+    "perplexity_reduction_vs_raw": 0.039063364924855515,
+    "phrase_bank_compression_ratio": 2.5989772762597534,
+    "phrase_rows": 2000
+  },
+  "schema_version": 1,
+  "seeds": [
+    7,
+    42,
+    314,
+    1618,
+    2718
+  ],
+  "status": "PARTIAL",
+  "subverdicts": {
+    "additive_quality_beyond_simple_centering": "NOT_ESTABLISHED",
+    "quality_and_compression": "PASS",
+    "runtime_speed": "FAIL"
+  }
+}

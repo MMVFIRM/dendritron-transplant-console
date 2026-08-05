@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: Dendritron Transplant Console
+type: software
+version: 1.0.0
+date-released: 2026-08-04
+message: "Please cite this repository and its retained provenance record when using the demo or benchmark artifacts."
+authors:
+  - family-names: Aragon
+    given-names: Richard
+license: MIT
+repository-code: "https://github.com/OWNER/dendritron-transplant-console"
+keywords:
+  - Dendritron
+  - sparse inference
+  - recurrent mixture of experts
+  - donor-state transplantation

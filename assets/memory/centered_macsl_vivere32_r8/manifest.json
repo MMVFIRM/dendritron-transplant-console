@@ -1,0 +1,521 @@
+{
+  "card_count": 16,
+  "files": {
+    "card_ids": {
+      "bytes": 4128,
+      "path": "card_ids.npy",
+      "sha256": "8900cd346ef37aa1b6310000ba1d38b2455be16e7f5080e0b65ce93a5b48dd24"
+    },
+    "early_bases": {
+      "bytes": 8320,
+      "path": "early_bases.npy",
+      "sha256": "af9b8fd9a50ac7679faeae8c3c51713e6d54376b122ea0cc800116e40dad2033"
+    },
+    "early_coefficients": {
+      "bytes": 32128,
+      "path": "early_coefficients.npy",
+      "sha256": "0a87878d0f010aac7c5c2edf72c958790060bcf59e4cc4334951d9cdfd1b6b07"
+    },
+    "early_means": {
+      "bytes": 1152,
+      "path": "early_means.npy",
+      "sha256": "a7d2893eae1698f3bdc15903e7af660396391560afb5a1e901b706f847b48c09"
+    },
+    "keys": {
+      "bytes": 155913,
+      "path": "keys.jsonl",
+      "sha256": "32dbedb012d6a89a6a3b0a5be6d9107df1a55ac4c287011c94b500db2b37cfee"
+    },
+    "late_bases": {
+      "bytes": 8320,
+      "path": "late_bases.npy",
+      "sha256": "20773809cd6f910bd4fd36796d83e5076ac0ad94d553ea97b3500d153d9f4bd7"
+    },
+    "late_coefficients": {
+      "bytes": 32128,
+      "path": "late_coefficients.npy",
+      "sha256": "27743b3834054d9415b75a4d84d19bd3d3d96feeb23635817c6b2d7578531a6c"
+    },
+    "late_means": {
+      "bytes": 1152,
+      "path": "late_means.npy",
+      "sha256": "23972f448cc53d034a9b70ae5a8279e0e8dcbd24e4917af844a25b1e9853919c"
+    }
+  },
+  "kind": "vivere_phrase_bank",
+  "metadata": {
+    "active_card_fraction": 0.0625,
+    "boundary": "Centered official geometry is the universal base; MACSL owns local compression cards.",
+    "card_utilization_entropy": 0.8371691592855953,
+    "selection": {
+      "card_count": 16,
+      "fit_seconds": 0.12906624199968064,
+      "local_ridge": 30.0,
+      "residual_rank": 8,
+      "shrinkage_prior": 50.0,
+      "top_k": 1,
+      "validation_mean_mse": 0.27778612077236176
+    },
+    "train_card_counts": [
+      99,
+      115,
+      19,
+      99,
+      37,
+      142,
+      430,
+      12,
+      104,
+      22,
+      75,
+      18,
+      15,
+      125,
+      54,
+      34
+    ],
+    "trials": [
+      {
+        "card_count": 4,
+        "fit_seconds": 0.030912972999885824,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.28886252641677856
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.049557875000118656,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2884515970945358
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.0285285479999402,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2879474610090256
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.03296239999963291,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2879199832677841
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.04960896100010359,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.29496167600154877
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.030528622000019823,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2939046621322632
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.04937956000003396,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2920658141374588
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.03030115299998215,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.29173439741134644
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.02592950300004304,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2920687794685364
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.05021932900035608,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2909575551748276
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.0258357640000213,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2902745306491852
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.025716386000112834,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.28982512652873993
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.059426829000130965,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.30329033732414246
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.037866961999952764,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.3013646900653839
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.05838289699977395,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2969744801521301
+      },
+      {
+        "card_count": 4,
+        "fit_seconds": 0.040397956000106205,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.29614318907260895
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.06739062000042395,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2831708788871765
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.08109646799994152,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.28280526399612427
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.05142644299985477,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2828206419944763
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.07481243499978518,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.28326377272605896
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.08360522900011347,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2918764501810074
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.08762836999994761,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.29080013930797577
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.06524544100011553,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.28930553793907166
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.08909235700002682,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2891888916492462
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.06447220099971673,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.28343304991722107
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.04458034500021313,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2827241122722626
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.063759391000076,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2823462188243866
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.04336142200008908,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.28281156718730927
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.06736809699987134,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.29113587737083435
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.06706829100039613,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2894826978445053
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.04662778800002343,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.28796835243701935
+      },
+      {
+        "card_count": 8,
+        "fit_seconds": 0.0673316719999093,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2877208888530731
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.09546129699992889,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2798822820186615
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.08699154299984002,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2803183048963547
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.07521940000015093,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2803988754749298
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.07950602399978379,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.2817147374153137
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.1089775139998892,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.28157441318035126
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.10675957600005859,
+        "local_ridge": 30.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.28258030116558075
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.10794776200009437,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2827446758747101
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.10886173100016094,
+        "local_ridge": 100.0,
+        "residual_rank": 4,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2841445803642273
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.12906624199968064,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.27778612077236176
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.13380273500024487,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.27864545583724976
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.16483573699997578,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.27842916548252106
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.14744281599996611,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 1,
+        "validation_mean_mse": 0.28016021847724915
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.09994454299976496,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.28265662491321564
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.09840000700023666,
+        "local_ridge": 30.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.283607080578804
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.09546459200009849,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 50.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2828528732061386
+      },
+      {
+        "card_count": 16,
+        "fit_seconds": 0.09309800300025017,
+        "local_ridge": 100.0,
+        "residual_rank": 8,
+        "shrinkage_prior": 100.0,
+        "top_k": 2,
+        "validation_mean_mse": 0.2843426764011383
+      }
+    ]
+  },
+  "orders": [
+    2,
+    3
+  ],
+  "rank": 8,
+  "rows": 2000,
+  "schema_version": 1,
+  "theoretical_bf16_payload_bytes": 86432,
+  "width": 32
+}

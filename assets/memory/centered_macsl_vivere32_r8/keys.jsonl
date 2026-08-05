@@ -1,0 +1,2000 @@
+{"row":0,"token_ids":[16,16],"order":2,"text":"> >","frequency":605}
+{"row":1,"token_ids":[9,10],"order":2,"text":"( )","frequency":587}
+{"row":2,"token_ids":[15,6],"order":2,"text":"of the","frequency":578}
+{"row":3,"token_ids":[5,6],"order":2,"text":". the","frequency":469}
+{"row":4,"token_ids":[5,19],"order":2,"text":". if","frequency":463}
+{"row":5,"token_ids":[10,5],"order":2,"text":") .","frequency":391}
+{"row":6,"token_ids":[14,6],"order":2,"text":"to the","frequency":358}
+{"row":7,"token_ids":[5,26],"order":2,"text":". this","frequency":332}
+{"row":8,"token_ids":[19,6],"order":2,"text":"if the","frequency":329}
+{"row":9,"token_ids":[22,6],"order":2,"text":"in the","frequency":325}
+{"row":10,"token_ids":[27,6],"order":2,"text":"return the","frequency":300}
+{"row":11,"token_ids":[13,8],"order":2,"text":"is a","frequency":258}
+{"row":12,"token_ids":[11,54],"order":2,"text":"' s","frequency":244}
+{"row":13,"token_ids":[7,18],"order":2,"text":", and","frequency":226}
+{"row":14,"token_ids":[27,8],"order":2,"text":"return a","frequency":216}
+{"row":15,"token_ids":[12,12],"order":2,"text":"- -","frequency":205}
+{"row":16,"token_ids":[20,6],"order":2,"text":"for the","frequency":204}
+{"row":17,"token_ids":[9,11],"order":2,"text":"( '","frequency":180}
+{"row":18,"token_ids":[11,10],"order":2,"text":"' )","frequency":179}
+{"row":19,"token_ids":[7,6],"order":2,"text":", the","frequency":178}
+{"row":20,"token_ids":[57,15],"order":2,"text":"list of","frequency":178}
+{"row":21,"token_ids":[10,7],"order":2,"text":") ,","frequency":172}
+{"row":22,"token_ids":[13,6],"order":2,"text":"is the","frequency":165}
+{"row":23,"token_ids":[5,5],"order":2,"text":". .","frequency":162}
+{"row":24,"token_ids":[21,21],"order":2,"text":"` `","frequency":162}
+{"row":25,"token_ids":[14,24],"order":2,"text":"to be","frequency":161}
+{"row":26,"token_ids":[15,8],"order":2,"text":"of a","frequency":151}
+{"row":27,"token_ids":[55,24],"order":2,"text":"can be","frequency":151}
+{"row":28,"token_ids":[39,6],"order":2,"text":"from the","frequency":149}
+{"row":29,"token_ids":[43,24],"order":2,"text":"will be","frequency":146}
+{"row":30,"token_ids":[7,28],"order":2,"text":", or","frequency":144}
+{"row":31,"token_ids":[8,57],"order":2,"text":"a list","frequency":142}
+{"row":32,"token_ids":[8,42],"order":2,"text":"a string","frequency":141}
+{"row":33,"token_ids":[40,5],"order":2,"text":"object .","frequency":139}
+{"row":34,"token_ids":[56,19],"order":2,"text":"true if","frequency":136}
+{"row":35,"token_ids":[6,107],"order":2,"text":"the current","frequency":133}
+{"row":36,"token_ids":[33,8],"order":2,"text":"as a","frequency":133}
+{"row":37,"token_ids":[31,6],"order":2,"text":"with the","frequency":131}
+{"row":38,"token_ids":[14,8],"order":2,"text":"to a","frequency":129}
+{"row":39,"token_ids":[13,41],"order":2,"text":"is not","frequency":124}
+{"row":40,"token_ids":[20,8],"order":2,"text":"for a","frequency":122}
+{"row":41,"token_ids":[70,15],"order":2,"text":"number of","frequency":120}
+{"row":42,"token_ids":[51,6],"order":2,"text":"on the","frequency":117}
+{"row":43,"token_ids":[26,13],"order":2,"text":"this is","frequency":114}
+{"row":44,"token_ids":[11,7],"order":2,"text":"' ,","frequency":113}
+{"row":45,"token_ids":[11,113],"order":2,"text":"' t","frequency":111}
+{"row":46,"token_ids":[34,13],"order":2,"text":"it is","frequency":110}
+{"row":47,"token_ids":[36,6],"order":2,"text":"by the","frequency":110}
+{"row":48,"token_ids":[52,8],"order":2,"text":"returns a","frequency":110}
+{"row":49,"token_ids":[30,30],"order":2,"text":"= =","frequency":109}
+{"row":50,"token_ids":[10,10],"order":2,"text":") )","frequency":107}
+{"row":51,"token_ids":[18,27],"order":2,"text":"and return","frequency":107}
+{"row":52,"token_ids":[22,8],"order":2,"text":"in a","frequency":106}
+{"row":53,"token_ids":[10,12],"order":2,"text":") -","frequency":105}
+{"row":54,"token_ids":[6,61],"order":2,"text":"the given","frequency":104}
+{"row":55,"token_ids":[25,25],"order":2,"text":"* *","frequency":98}
+{"row":56,"token_ids":[27,56],"order":2,"text":"return true","frequency":98}
+{"row":57,"token_ids":[8,105],"order":2,"text":"a new","frequency":97}
+{"row":58,"token_ids":[49,9],"order":2,"text":"decimal (","frequency":97}
+{"row":59,"token_ids":[5,52],"order":2,"text":". returns","frequency":96}
+{"row":60,"token_ids":[5,27],"order":2,"text":". return","frequency":95}
+{"row":61,"token_ids":[19,34],"order":2,"text":"if it","frequency":95}
+{"row":62,"token_ids":[24,58],"order":2,"text":"be used","frequency":95}
+{"row":63,"token_ids":[12,16],"order":2,"text":"- >","frequency":92}
+{"row":64,"token_ids":[11,5],"order":2,"text":"' .","frequency":91}
+{"row":65,"token_ids":[6,85],"order":2,"text":"the specified","frequency":90}
+{"row":66,"token_ids":[8,38],"order":2,"text":"a file","frequency":89}
+{"row":67,"token_ids":[7,112],"order":2,"text":", but","frequency":88}
+{"row":68,"token_ids":[52,6],"order":2,"text":"returns the","frequency":88}
+{"row":69,"token_ids":[103,5],"order":2,"text":"e .","frequency":88}
+{"row":70,"token_ids":[13,29],"order":2,"text":"is an","frequency":87}
+{"row":71,"token_ids":[90,5],"order":2,"text":"self .","frequency":87}
+{"row":72,"token_ids":[5,34],"order":2,"text":". it","frequency":86}
+{"row":73,"token_ids":[6,38],"order":2,"text":"the file","frequency":86}
+{"row":74,"token_ids":[6,141],"order":2,"text":"the same","frequency":86}
+{"row":75,"token_ids":[79,24],"order":2,"text":"should be","frequency":86}
+{"row":76,"token_ids":[18,6],"order":2,"text":"and the","frequency":82}
+{"row":77,"token_ids":[26,63],"order":2,"text":"this method","frequency":81}
+{"row":78,"token_ids":[7,11],"order":2,"text":", '","frequency":79}
+{"row":79,"token_ids":[58,14],"order":2,"text":"used to","frequency":78}
+{"row":80,"token_ids":[5,8],"order":2,"text":". a","frequency":77}
+{"row":81,"token_ids":[60,6],"order":2,"text":"set the","frequency":77}
+{"row":82,"token_ids":[111,24],"order":2,"text":"must be","frequency":77}
+{"row":83,"token_ids":[5,16],"order":2,"text":". >","frequency":76}
+{"row":84,"token_ids":[10,16],"order":2,"text":") >","frequency":76}
+{"row":85,"token_ids":[24,8],"order":2,"text":"be a","frequency":76}
+{"row":86,"token_ids":[7,34],"order":2,"text":", it","frequency":75}
+{"row":87,"token_ids":[32,6],"order":2,"text":"that the","frequency":75}
+{"row":88,"token_ids":[6,66],"order":2,"text":"the default","frequency":74}
+{"row":89,"token_ids":[39,8],"order":2,"text":"from a","frequency":74}
+{"row":90,"token_ids":[10,17],"order":2,"text":") :","frequency":73}
+{"row":91,"token_ids":[23,7],"order":2,"text":"\" ,","frequency":73}
+{"row":92,"token_ids":[6,46],"order":2,"text":"the name","frequency":72}
+{"row":93,"token_ids":[6,44],"order":2,"text":"the value","frequency":71}
+{"row":94,"token_ids":[25,13],"order":2,"text":"* is","frequency":71}
+{"row":95,"token_ids":[31,8],"order":2,"text":"with a","frequency":71}
+{"row":96,"token_ids":[38,5],"order":2,"text":"file .","frequency":71}
+{"row":97,"token_ids":[88,24],"order":2,"text":"may be","frequency":71}
+{"row":98,"token_ids":[128,8],"order":2,"text":"create a","frequency":71}
+{"row":99,"token_ids":[174,12],"order":2,"text":"non -","frequency":71}
+{"row":100,"token_ids":[26,101],"order":2,"text":"this widget","frequency":70}
+{"row":101,"token_ids":[6,130],"order":2,"text":"the first","frequency":69}
+{"row":102,"token_ids":[17,6],"order":2,"text":": the","frequency":69}
+{"row":103,"token_ids":[42,5],"order":2,"text":"string .","frequency":69}
+{"row":104,"token_ids":[48,20],"order":2,"text":"class for","frequency":69}
+{"row":105,"token_ids":[5,157],"order":2,"text":". g","frequency":68}
+{"row":106,"token_ids":[6,70],"order":2,"text":"the number","frequency":68}
+{"row":107,"token_ids":[15,26],"order":2,"text":"of this","frequency":67}
+{"row":108,"token_ids":[62,6],"order":2,"text":"when the","frequency":67}
+{"row":109,"token_ids":[5,20],"order":2,"text":". for","frequency":66}
+{"row":110,"token_ids":[6,142],"order":2,"text":"the result","frequency":66}
+{"row":111,"token_ids":[46,15],"order":2,"text":"name of","frequency":66}
+{"row":112,"token_ids":[7,53],"order":2,"text":", which","frequency":65}
+{"row":113,"token_ids":[8,195],"order":2,"text":"a single","frequency":65}
+{"row":114,"token_ids":[12,124],"order":2,"text":"- like","frequency":65}
+{"row":115,"token_ids":[157,5],"order":2,"text":"g .","frequency":65}
+{"row":116,"token_ids":[26,59],"order":2,"text":"this function","frequency":64}
+{"row":117,"token_ids":[28,8],"order":2,"text":"or a","frequency":64}
+{"row":118,"token_ids":[225,5],"order":2,"text":"sys .","frequency":64}
+{"row":119,"token_ids":[10,18],"order":2,"text":") and","frequency":63}
+{"row":120,"token_ids":[13,109],"order":2,"text":"is returned","frequency":63}
+{"row":121,"token_ids":[173,14],"order":2,"text":"defaults to","frequency":63}
+{"row":122,"token_ids":[26,48],"order":2,"text":"this class","frequency":61}
+{"row":123,"token_ids":[110,6],"order":2,"text":"using the","frequency":61}
+{"row":124,"token_ids":[47,10],"order":2,"text":"] )","frequency":60}
+{"row":125,"token_ids":[5,274],"order":2,"text":". py","frequency":59}
+{"row":126,"token_ids":[17,8],"order":2,"text":": a","frequency":59}
+{"row":127,"token_ids":[8,131],"order":2,"text":"a tuple","frequency":58}
+{"row":128,"token_ids":[44,13],"order":2,"text":"value is","frequency":58}
+{"row":129,"token_ids":[65,7],"order":2,"text":"none ,","frequency":58}
+{"row":130,"token_ids":[118,6],"order":2,"text":"get the","frequency":58}
+{"row":131,"token_ids":[122,5],"order":2,"text":"extendedcontext .","frequency":58}
+{"row":132,"token_ids":[172,48],"order":2,"text":"base class","frequency":58}
+{"row":133,"token_ids":[5,9],"order":2,"text":". (","frequency":57}
+{"row":134,"token_ids":[28,65],"order":2,"text":"or none","frequency":57}
+{"row":135,"token_ids":[13,58],"order":2,"text":"is used","frequency":56}
+{"row":136,"token_ids":[13,75],"order":2,"text":"is called","frequency":56}
+{"row":137,"token_ids":[5,62],"order":2,"text":". when","frequency":55}
+{"row":138,"token_ids":[9,49],"order":2,"text":"( decimal","frequency":54}
+{"row":139,"token_ids":[24,75],"order":2,"text":"be called","frequency":54}
+{"row":140,"token_ids":[27,29],"order":2,"text":"return an","frequency":54}
+{"row":141,"token_ids":[5,329],"order":2,"text":". txt","frequency":53}
+{"row":142,"token_ids":[33,6],"order":2,"text":"as the","frequency":53}
+{"row":143,"token_ids":[48,5],"order":2,"text":"class .","frequency":53}
+{"row":144,"token_ids":[6,72],"order":2,"text":"the module","frequency":52}
+{"row":145,"token_ids":[16,122],"order":2,"text":"> extendedcontext","frequency":52}
+{"row":146,"token_ids":[5,11],"order":2,"text":". '","frequency":51}
+{"row":147,"token_ids":[7,23],"order":2,"text":", \"","frequency":51}
+{"row":148,"token_ids":[138,237],"order":2,"text":"event loop","frequency":51}
+{"row":149,"token_ids":[5,25],"order":2,"text":". *","frequency":50}
+{"row":150,"token_ids":[5,224],"order":2,"text":". note","frequency":50}
+{"row":151,"token_ids":[53,13],"order":2,"text":"which is","frequency":50}
+{"row":152,"token_ids":[124,40],"order":2,"text":"like object","frequency":50}
+{"row":153,"token_ids":[11,13],"order":2,"text":"' is","frequency":49}
+{"row":154,"token_ids":[29,165],"order":2,"text":"an integer","frequency":49}
+{"row":155,"token_ids":[46,5],"order":2,"text":"name .","frequency":49}
+{"row":156,"token_ids":[67,5],"order":2,"text":"path .","frequency":49}
+{"row":157,"token_ids":[131,15],"order":2,"text":"tuple of","frequency":49}
+{"row":158,"token_ids":[6,83],"order":2,"text":"the message","frequency":48}
+{"row":159,"token_ids":[7,8],"order":2,"text":", a","frequency":48}
+{"row":160,"token_ids":[7,19],"order":2,"text":", if","frequency":48}
+{"row":161,"token_ids":[208,41],"order":2,"text":"does not","frequency":48}
+{"row":162,"token_ids":[340,8],"order":2,"text":"construct a","frequency":48}
+{"row":163,"token_ids":[7,121],"order":2,"text":", then","frequency":47}
+{"row":164,"token_ids":[12,241],"order":2,"text":"- specific","frequency":47}
+{"row":165,"token_ids":[19,8],"order":2,"text":"if a","frequency":47}
+{"row":166,"token_ids":[6,67],"order":2,"text":"the path","frequency":46}
+{"row":167,"token_ids":[21,5],"order":2,"text":"` .","frequency":46}
+{"row":168,"token_ids":[21,13],"order":2,"text":"` is","frequency":46}
+{"row":169,"token_ids":[9,8],"order":2,"text":"( a","frequency":45}
+{"row":170,"token_ids":[10,30],"order":2,"text":") =","frequency":45}
+{"row":171,"token_ids":[13,56],"order":2,"text":"is true","frequency":45}
+{"row":172,"token_ids":[10,13],"order":2,"text":") is","frequency":44}
+{"row":173,"token_ids":[20,26],"order":2,"text":"for this","frequency":44}
+{"row":174,"token_ids":[26,72],"order":2,"text":"this module","frequency":44}
+{"row":175,"token_ids":[5,21],"order":2,"text":". `","frequency":43}
+{"row":176,"token_ids":[7,27],"order":2,"text":", return","frequency":43}
+{"row":177,"token_ids":[11,31],"order":2,"text":"' with","frequency":43}
+{"row":178,"token_ids":[40,7],"order":2,"text":"object ,","frequency":43}
+{"row":179,"token_ids":[65,19],"order":2,"text":"none if","frequency":43}
+{"row":180,"token_ids":[76,5],"order":2,"text":"instance .","frequency":43}
+{"row":181,"token_ids":[10,63],"order":2,"text":") method","frequency":42}
+{"row":182,"token_ids":[17,16],"order":2,"text":": >","frequency":42}
+{"row":183,"token_ids":[44,5],"order":2,"text":"value .","frequency":42}
+{"row":184,"token_ids":[5,145],"order":2,"text":". example","frequency":41}
+{"row":185,"token_ids":[17,17],"order":2,"text":": :","frequency":41}
+{"row":186,"token_ids":[34,5],"order":2,"text":"it .","frequency":41}
+{"row":187,"token_ids":[63,13],"order":2,"text":"method is","frequency":41}
+{"row":188,"token_ids":[91,6],"order":2,"text":"at the","frequency":41}
+{"row":189,"token_ids":[329,11],"order":2,"text":"txt '","frequency":41}
+{"row":190,"token_ids":[5,137],"order":2,"text":". each","frequency":40}
+{"row":191,"token_ids":[17,12],"order":2,"text":": -","frequency":40}
+{"row":192,"token_ids":[19,80],"order":2,"text":"if no","frequency":40}
+{"row":193,"token_ids":[27,44],"order":2,"text":"return value","frequency":40}
+{"row":194,"token_ids":[38,7],"order":2,"text":"file ,","frequency":40}
+{"row":195,"token_ids":[42,7],"order":2,"text":"string ,","frequency":40}
+{"row":196,"token_ids":[224,32],"order":2,"text":"note that","frequency":40}
+{"row":197,"token_ids":[254,5],"order":2,"text":"os .","frequency":40}
+{"row":198,"token_ids":[326,51],"order":2,"text":"based on","frequency":40}
+{"row":199,"token_ids":[6,257],"order":2,"text":"the future","frequency":39}
+{"row":200,"token_ids":[7,26],"order":2,"text":", this","frequency":39}
+{"row":201,"token_ids":[58,36],"order":2,"text":"used by","frequency":39}
+{"row":202,"token_ids":[59,5],"order":2,"text":"function .","frequency":39}
+{"row":203,"token_ids":[101,5],"order":2,"text":"widget .","frequency":39}
+{"row":204,"token_ids":[416,11],"order":2,"text":"doesn '","frequency":39}
+{"row":205,"token_ids":[5,17],"order":2,"text":". :","frequency":38}
+{"row":206,"token_ids":[5,102],"order":2,"text":". optional","frequency":38}
+{"row":207,"token_ids":[6,102],"order":2,"text":"the optional","frequency":38}
+{"row":208,"token_ids":[10,11],"order":2,"text":") '","frequency":38}
+{"row":209,"token_ids":[21,7],"order":2,"text":"` ,","frequency":38}
+{"row":210,"token_ids":[23,10],"order":2,"text":"\" )","frequency":38}
+{"row":211,"token_ids":[29,94],"order":2,"text":"an exception","frequency":38}
+{"row":212,"token_ids":[44,15],"order":2,"text":"value of","frequency":38}
+{"row":213,"token_ids":[89,15],"order":2,"text":"one of","frequency":38}
+{"row":214,"token_ids":[5,67],"order":2,"text":". path","frequency":37}
+{"row":215,"token_ids":[6,11],"order":2,"text":"the '","frequency":37}
+{"row":216,"token_ids":[6,40],"order":2,"text":"the object","frequency":37}
+{"row":217,"token_ids":[6,59],"order":2,"text":"the function","frequency":37}
+{"row":218,"token_ids":[6,152],"order":2,"text":"the server","frequency":37}
+{"row":219,"token_ids":[11,12],"order":2,"text":"' -","frequency":37}
+{"row":220,"token_ids":[39,11],"order":2,"text":"from '","frequency":37}
+{"row":221,"token_ids":[61,7],"order":2,"text":"given ,","frequency":37}
+{"row":222,"token_ids":[68,13],"order":2,"text":"argument is","frequency":37}
+{"row":223,"token_ids":[175,13],"order":2,"text":"there is","frequency":37}
+{"row":224,"token_ids":[426,14],"order":2,"text":"according to","frequency":37}
+{"row":225,"token_ids":[5,147],"order":2,"text":". otherwise","frequency":36}
+{"row":226,"token_ids":[5,178],"order":2,"text":". see","frequency":36}
+{"row":227,"token_ids":[6,285],"order":2,"text":"the next","frequency":36}
+{"row":228,"token_ids":[7,25],"order":2,"text":", *","frequency":36}
+{"row":229,"token_ids":[9,66],"order":2,"text":"( default","frequency":36}
+{"row":230,"token_ids":[29,40],"order":2,"text":"an object","frequency":36}
+{"row":231,"token_ids":[29,149],"order":2,"text":"an empty","frequency":36}
+{"row":232,"token_ids":[72,5],"order":2,"text":"module .","frequency":36}
+{"row":233,"token_ids":[75,62],"order":2,"text":"called when","frequency":36}
+{"row":234,"token_ids":[82,158],"order":2,"text":"python character","frequency":36}
+{"row":235,"token_ids":[106,5],"order":2,"text":"values .","frequency":36}
+{"row":236,"token_ids":[158,258],"order":2,"text":"character mapping","frequency":36}
+{"row":237,"token_ids":[258,288],"order":2,"text":"mapping codec","frequency":36}
+{"row":238,"token_ids":[6,42],"order":2,"text":"the string","frequency":35}
+{"row":239,"token_ids":[6,57],"order":2,"text":"the list","frequency":35}
+{"row":240,"token_ids":[6,240],"order":2,"text":"the queue","frequency":35}
+{"row":241,"token_ids":[7,45],"order":2,"text":", [","frequency":35}
+{"row":242,"token_ids":[9,20],"order":2,"text":"( for","frequency":35}
+{"row":243,"token_ids":[9,103],"order":2,"text":"( e","frequency":35}
+{"row":244,"token_ids":[11,17],"order":2,"text":"' :","frequency":35}
+{"row":245,"token_ids":[13,170],"order":2,"text":"is raised","frequency":35}
+{"row":246,"token_ids":[14,29],"order":2,"text":"to an","frequency":35}
+{"row":247,"token_ids":[16,100],"order":2,"text":"> c","frequency":35}
+{"row":248,"token_ids":[28,6],"order":2,"text":"or the","frequency":35}
+{"row":249,"token_ids":[29,102],"order":2,"text":"an optional","frequency":35}
+{"row":250,"token_ids":[41,24],"order":2,"text":"not be","frequency":35}
+{"row":251,"token_ids":[46,7],"order":2,"text":"name ,","frequency":35}
+{"row":252,"token_ids":[58,20],"order":2,"text":"used for","frequency":35}
+{"row":253,"token_ids":[81,5],"order":2,"text":"arguments .","frequency":35}
+{"row":254,"token_ids":[133,8],"order":2,"text":"into a","frequency":35}
+{"row":255,"token_ids":[274,5],"order":2,"text":"py .","frequency":35}
+{"row":256,"token_ids":[10,14],"order":2,"text":") to","frequency":34}
+{"row":257,"token_ids":[14,77],"order":2,"text":"to use","frequency":34}
+{"row":258,"token_ids":[15,50],"order":2,"text":"of all","frequency":34}
+{"row":259,"token_ids":[19,175],"order":2,"text":"if there","frequency":34}
+{"row":260,"token_ids":[81,17],"order":2,"text":"arguments :","frequency":34}
+{"row":261,"token_ids":[152,5],"order":2,"text":"server .","frequency":34}
+{"row":262,"token_ids":[215,15],"order":2,"text":"instead of","frequency":34}
+{"row":263,"token_ids":[6,331],"order":2,"text":"the following","frequency":33}
+{"row":264,"token_ids":[7,31],"order":2,"text":", with","frequency":33}
+{"row":265,"token_ids":[31,565],"order":2,"text":"with gencodec","frequency":33}
+{"row":266,"token_ids":[50,6],"order":2,"text":"all the","frequency":33}
+{"row":267,"token_ids":[52,17],"order":2,"text":"returns :","frequency":33}
+{"row":268,"token_ids":[63,5],"order":2,"text":"method .","frequency":33}
+{"row":269,"token_ids":[87,11],"order":2,"text":"b '","frequency":33}
+{"row":270,"token_ids":[144,5],"order":2,"text":"objects .","frequency":33}
+{"row":271,"token_ids":[145,17],"order":2,"text":"example :","frequency":33}
+{"row":272,"token_ids":[337,39],"order":2,"text":"generated from","frequency":33}
+{"row":273,"token_ids":[565,5],"order":2,"text":"gencodec .","frequency":33}
+{"row":274,"token_ids":[6,21],"order":2,"text":"the `","frequency":32}
+{"row":275,"token_ids":[6,68],"order":2,"text":"the argument","frequency":32}
+{"row":276,"token_ids":[6,69],"order":2,"text":"the data","frequency":32}
+{"row":277,"token_ids":[6,138],"order":2,"text":"the event","frequency":32}
+{"row":278,"token_ids":[6,181],"order":2,"text":"the source","frequency":32}
+{"row":279,"token_ids":[19,129],"order":2,"text":"if you","frequency":32}
+{"row":280,"token_ids":[20,145],"order":2,"text":"for example","frequency":32}
+{"row":281,"token_ids":[23,5],"order":2,"text":"\" .","frequency":32}
+{"row":282,"token_ids":[34,43],"order":2,"text":"it will","frequency":32}
+{"row":283,"token_ids":[38,12],"order":2,"text":"file -","frequency":32}
+{"row":284,"token_ids":[56,7],"order":2,"text":"true ,","frequency":32}
+{"row":285,"token_ids":[60,14],"order":2,"text":"set to","frequency":32}
+{"row":286,"token_ids":[77,6],"order":2,"text":"use the","frequency":32}
+{"row":287,"token_ids":[96,535],"order":2,"text":"\\ x00","frequency":32}
+{"row":288,"token_ids":[139,273],"order":2,"text":"context manager","frequency":32}
+{"row":289,"token_ids":[150,5],"order":2,"text":"time .","frequency":32}
+{"row":290,"token_ids":[163,17],"order":2,"text":"args :","frequency":32}
+{"row":291,"token_ids":[171,15],"order":2,"text":"version of","frequency":32}
+{"row":292,"token_ids":[6,27],"order":2,"text":"the return","frequency":31}
+{"row":293,"token_ids":[6,82],"order":2,"text":"the python","frequency":31}
+{"row":294,"token_ids":[6,260],"order":2,"text":"the parent","frequency":31}
+{"row":295,"token_ids":[7,77],"order":2,"text":", use","frequency":31}
+{"row":296,"token_ids":[9,6],"order":2,"text":"( the","frequency":31}
+{"row":297,"token_ids":[19,26],"order":2,"text":"if this","frequency":31}
+{"row":298,"token_ids":[67,13],"order":2,"text":"path is","frequency":31}
+{"row":299,"token_ids":[69,5],"order":2,"text":"data .","frequency":31}
+{"row":300,"token_ids":[83,5],"order":2,"text":"message .","frequency":31}
+{"row":301,"token_ids":[141,33],"order":2,"text":"same as","frequency":31}
+{"row":302,"token_ids":[6,104],"order":2,"text":"the header","frequency":30}
+{"row":303,"token_ids":[8,11],"order":2,"text":"a '","frequency":30}
+{"row":304,"token_ids":[20,50],"order":2,"text":"for all","frequency":30}
+{"row":305,"token_ids":[36,66],"order":2,"text":"by default","frequency":30}
+{"row":306,"token_ids":[52,29],"order":2,"text":"returns an","frequency":30}
+{"row":307,"token_ids":[65,5],"order":2,"text":"none .","frequency":30}
+{"row":308,"token_ids":[84,5],"order":2,"text":"bytes .","frequency":30}
+{"row":309,"token_ids":[92,7],"order":2,"text":"x ,","frequency":30}
+{"row":310,"token_ids":[184,14],"order":2,"text":"up to","frequency":30}
+{"row":311,"token_ids":[237,5],"order":2,"text":"loop .","frequency":30}
+{"row":312,"token_ids":[378,24],"order":2,"text":"cannot be","frequency":30}
+{"row":313,"token_ids":[5,14],"order":2,"text":". to","frequency":29}
+{"row":314,"token_ids":[5,77],"order":2,"text":". use","frequency":29}
+{"row":315,"token_ids":[5,81],"order":2,"text":". arguments","frequency":29}
+{"row":316,"token_ids":[6,191],"order":2,"text":"the input","frequency":29}
+{"row":317,"token_ids":[6,436],"order":2,"text":"the underlying","frequency":29}
+{"row":318,"token_ids":[8,199],"order":2,"text":"a dictionary","frequency":29}
+{"row":319,"token_ids":[22,26],"order":2,"text":"in this","frequency":29}
+{"row":320,"token_ids":[30,126],"order":2,"text":"= <","frequency":29}
+{"row":321,"token_ids":[34,11],"order":2,"text":"it '","frequency":29}
+{"row":322,"token_ids":[35,41],"order":2,"text":"are not","frequency":29}
+{"row":323,"token_ids":[85,7],"order":2,"text":"specified ,","frequency":29}
+{"row":324,"token_ids":[98,261],"order":2,"text":"has been","frequency":29}
+{"row":325,"token_ids":[109,5],"order":2,"text":"returned .","frequency":29}
+{"row":326,"token_ids":[109,36],"order":2,"text":"returned by","frequency":29}
+{"row":327,"token_ids":[121,6],"order":2,"text":"then the","frequency":29}
+{"row":328,"token_ids":[147,7],"order":2,"text":"otherwise ,","frequency":29}
+{"row":329,"token_ids":[256,12],"order":2,"text":"content -","frequency":29}
+{"row":330,"token_ids":[280,5],"order":2,"text":"io .","frequency":29}
+{"row":331,"token_ids":[5,263],"order":2,"text":". raises","frequency":28}
+{"row":332,"token_ids":[6,23],"order":2,"text":"the \"","frequency":28}
+{"row":333,"token_ids":[6,148],"order":2,"text":"the address","frequency":28}
+{"row":334,"token_ids":[7,103],"order":2,"text":", e","frequency":28}
+{"row":335,"token_ids":[8,255],"order":2,"text":"a callable","frequency":28}
+{"row":336,"token_ids":[9,23],"order":2,"text":"( \"","frequency":28}
+{"row":337,"token_ids":[11,18],"order":2,"text":"' and","frequency":28}
+{"row":338,"token_ids":[12,8],"order":2,"text":"- a","frequency":28}
+{"row":339,"token_ids":[13,61],"order":2,"text":"is given","frequency":28}
+{"row":340,"token_ids":[13,85],"order":2,"text":"is specified","frequency":28}
+{"row":341,"token_ids":[18,8],"order":2,"text":"and a","frequency":28}
+{"row":342,"token_ids":[37,37],"order":2,"text":"/ /","frequency":28}
+{"row":343,"token_ids":[38,40],"order":2,"text":"file object","frequency":28}
+{"row":344,"token_ids":[48,7],"order":2,"text":"class ,","frequency":28}
+{"row":345,"token_ids":[116,5],"order":2,"text":"false .","frequency":28}
+{"row":346,"token_ids":[218,15],"order":2,"text":"sequence of","frequency":28}
+{"row":347,"token_ids":[377,6],"order":2,"text":"sets the","frequency":28}
+{"row":348,"token_ids":[5,80],"order":2,"text":". no","frequency":27}
+{"row":349,"token_ids":[5,163],"order":2,"text":". args","frequency":27}
+{"row":350,"token_ids":[6,48],"order":2,"text":"the class","frequency":27}
+{"row":351,"token_ids":[6,99],"order":2,"text":"the turtle","frequency":27}
+{"row":352,"token_ids":[6,169],"order":2,"text":"the socket","frequency":27}
+{"row":353,"token_ids":[7,33],"order":2,"text":", as","frequency":27}
+{"row":354,"token_ids":[8,59],"order":2,"text":"a function","frequency":27}
+{"row":355,"token_ids":[8,67],"order":2,"text":"a path","frequency":27}
+{"row":356,"token_ids":[10,21],"order":2,"text":") `","frequency":27}
+{"row":357,"token_ids":[10,28],"order":2,"text":") or","frequency":27}
+{"row":358,"token_ids":[13,65],"order":2,"text":"is none","frequency":27}
+{"row":359,"token_ids":[16,5],"order":2,"text":"> .","frequency":27}
+{"row":360,"token_ids":[32,35],"order":2,"text":"that are","frequency":27}
+{"row":361,"token_ids":[59,13],"order":2,"text":"function is","frequency":27}
+{"row":362,"token_ids":[64,7],"order":2,"text":"1 ,","frequency":27}
+{"row":363,"token_ids":[74,147],"order":2,"text":"; otherwise","frequency":27}
+{"row":364,"token_ids":[104,5],"order":2,"text":"header .","frequency":27}
+{"row":365,"token_ids":[215,5],"order":2,"text":"instead .","frequency":27}
+{"row":366,"token_ids":[260,351],"order":2,"text":"parent master","frequency":27}
+{"row":367,"token_ids":[6,94],"order":2,"text":"the exception","frequency":26}
+{"row":368,"token_ids":[7,205],"order":2,"text":", y","frequency":26}
+{"row":369,"token_ids":[9,45],"order":2,"text":"( [","frequency":26}
+{"row":370,"token_ids":[9,730],"order":2,"text":"( typ","frequency":26}
+{"row":371,"token_ids":[12,22],"order":2,"text":"- in","frequency":26}
+{"row":372,"token_ids":[20,29],"order":2,"text":"for an","frequency":26}
+{"row":373,"token_ids":[28,29],"order":2,"text":"or an","frequency":26}
+{"row":374,"token_ids":[29,140],"order":2,"text":"an error","frequency":26}
+{"row":375,"token_ids":[40,14],"order":2,"text":"object to","frequency":26}
+{"row":376,"token_ids":[45,69],"order":2,"text":"[ data","frequency":26}
+{"row":377,"token_ids":[51,8],"order":2,"text":"on a","frequency":26}
+{"row":378,"token_ids":[58,33],"order":2,"text":"used as","frequency":26}
+{"row":379,"token_ids":[76,16],"order":2,"text":"instance >","frequency":26}
+{"row":380,"token_ids":[78,5],"order":2,"text":"type .","frequency":26}
+{"row":381,"token_ids":[126,30],"order":2,"text":"< =","frequency":26}
+{"row":382,"token_ids":[126,76],"order":2,"text":"< instance","frequency":26}
+{"row":383,"token_ids":[133,6],"order":2,"text":"into the","frequency":26}
+{"row":384,"token_ids":[145,9],"order":2,"text":"example (","frequency":26}
+{"row":385,"token_ids":[209,5],"order":2,"text":"index .","frequency":26}
+{"row":386,"token_ids":[229,15],"order":2,"text":"end of","frequency":26}
+{"row":387,"token_ids":[351,5],"order":2,"text":"master .","frequency":26}
+{"row":388,"token_ids":[535,96],"order":2,"text":"x00 \\","frequency":26}
+{"row":389,"token_ids":[730,7],"order":2,"text":"typ ,","frequency":26}
+{"row":390,"token_ids":[7,183],"order":2,"text":", so","frequency":25}
+{"row":391,"token_ids":[7,560],"order":2,"text":", cursor","frequency":25}
+{"row":392,"token_ids":[8,83],"order":2,"text":"a message","frequency":25}
+{"row":393,"token_ids":[8,84],"order":2,"text":"a bytes","frequency":25}
+{"row":394,"token_ids":[9,28],"order":2,"text":"( or","frequency":25}
+{"row":395,"token_ids":[9,87],"order":2,"text":"( b","frequency":25}
+{"row":396,"token_ids":[9,90],"order":2,"text":"( self","frequency":25}
+{"row":397,"token_ids":[11,11],"order":2,"text":"' '","frequency":25}
+{"row":398,"token_ids":[17,37],"order":2,"text":": /","frequency":25}
+{"row":399,"token_ids":[18,11],"order":2,"text":"and '","frequency":25}
+{"row":400,"token_ids":[19,21],"order":2,"text":"if `","frequency":25}
+{"row":401,"token_ids":[19,90],"order":2,"text":"if self","frequency":25}
+{"row":402,"token_ids":[20,137],"order":2,"text":"for each","frequency":25}
+{"row":403,"token_ids":[30,11],"order":2,"text":"= '","frequency":25}
+{"row":404,"token_ids":[36,8],"order":2,"text":"by a","frequency":25}
+{"row":405,"token_ids":[45,7],"order":2,"text":"[ ,","frequency":25}
+{"row":406,"token_ids":[46,13],"order":2,"text":"name is","frequency":25}
+{"row":407,"token_ids":[52,56],"order":2,"text":"returns true","frequency":25}
+{"row":408,"token_ids":[65,10],"order":2,"text":"none )","frequency":25}
+{"row":409,"token_ids":[71,7],"order":2,"text":"0 ,","frequency":25}
+{"row":410,"token_ids":[76,15],"order":2,"text":"instance of","frequency":25}
+{"row":411,"token_ids":[84,40],"order":2,"text":"bytes object","frequency":25}
+{"row":412,"token_ids":[129,55],"order":2,"text":"you can","frequency":25}
+{"row":413,"token_ids":[142,13],"order":2,"text":"result is","frequency":25}
+{"row":414,"token_ids":[147,27],"order":2,"text":"otherwise return","frequency":25}
+{"row":415,"token_ids":[166,13],"order":2,"text":"option is","frequency":25}
+{"row":416,"token_ids":[169,5],"order":2,"text":"socket .","frequency":25}
+{"row":417,"token_ids":[200,15],"order":2,"text":"implementation of","frequency":25}
+{"row":418,"token_ids":[250,12],"order":2,"text":"xml -","frequency":25}
+{"row":419,"token_ids":[531,14],"order":2,"text":"need to","frequency":25}
+{"row":420,"token_ids":[560,7],"order":2,"text":"cursor ,","frequency":25}
+{"row":421,"token_ids":[5,10],"order":2,"text":". )","frequency":24}
+{"row":422,"token_ids":[5,12],"order":2,"text":". -","frequency":24}
+{"row":423,"token_ids":[5,525],"order":2,"text":". bytesio","frequency":24}
+{"row":424,"token_ids":[6,252],"order":2,"text":"the last","frequency":24}
+{"row":425,"token_ids":[8,48],"order":2,"text":"a class","frequency":24}
+{"row":426,"token_ids":[8,159],"order":2,"text":"a directory","frequency":24}
+{"row":427,"token_ids":[10,20],"order":2,"text":") for","frequency":24}
+{"row":428,"token_ids":[12,663],"order":2,"text":"- rpc","frequency":24}
+{"row":429,"token_ids":[14,128],"order":2,"text":"to create","frequency":24}
+{"row":430,"token_ids":[18,52],"order":2,"text":"and returns","frequency":24}
+{"row":431,"token_ids":[25,5],"order":2,"text":"* .","frequency":24}
+{"row":432,"token_ids":[32,43],"order":2,"text":"that will","frequency":24}
+{"row":433,"token_ids":[40,20],"order":2,"text":"object for","frequency":24}
+{"row":434,"token_ids":[45,11],"order":2,"text":"[ '","frequency":24}
+{"row":435,"token_ids":[58,5],"order":2,"text":"used .","frequency":24}
+{"row":436,"token_ids":[62,8],"order":2,"text":"when a","frequency":24}
+{"row":437,"token_ids":[64,10],"order":2,"text":"1 )","frequency":24}
+{"row":438,"token_ids":[66,10],"order":2,"text":"default )","frequency":24}
+{"row":439,"token_ids":[68,5],"order":2,"text":"argument .","frequency":24}
+{"row":440,"token_ids":[69,47],"order":2,"text":"data ]","frequency":24}
+{"row":441,"token_ids":[71,5],"order":2,"text":"0 .","frequency":24}
+{"row":442,"token_ids":[76,217],"order":2,"text":"instance named","frequency":24}
+{"row":443,"token_ids":[78,15],"order":2,"text":"type of","frequency":24}
+{"row":444,"token_ids":[87,10],"order":2,"text":"b )","frequency":24}
+{"row":445,"token_ids":[181,120],"order":2,"text":"source code","frequency":24}
+{"row":446,"token_ids":[214,6],"order":2,"text":"after the","frequency":24}
+{"row":447,"token_ids":[400,9],"order":2,"text":"counter (","frequency":24}
+{"row":448,"token_ids":[5,50],"order":2,"text":". all","frequency":23}
+{"row":449,"token_ids":[5,103],"order":2,"text":". e","frequency":23}
+{"row":450,"token_ids":[6,167],"order":2,"text":"the output","frequency":23}
+{"row":451,"token_ids":[6,316],"order":2,"text":"the form","frequency":23}
+{"row":452,"token_ids":[7,21],"order":2,"text":", `","frequency":23}
+{"row":453,"token_ids":[7,22],"order":2,"text":", in","frequency":23}
+{"row":454,"token_ids":[7,52],"order":2,"text":", returns","frequency":23}
+{"row":455,"token_ids":[7,110],"order":2,"text":", using","frequency":23}
+{"row":456,"token_ids":[8,5],"order":2,"text":"a .","frequency":23}
+{"row":457,"token_ids":[8,70],"order":2,"text":"a number","frequency":23}
+{"row":458,"token_ids":[8,82],"order":2,"text":"a python","frequency":23}
+{"row":459,"token_ids":[8,139],"order":2,"text":"a context","frequency":23}
+{"row":460,"token_ids":[9,41],"order":2,"text":"( not","frequency":23}
+{"row":461,"token_ids":[9,46],"order":2,"text":"( name","frequency":23}
+{"row":462,"token_ids":[10,49],"order":2,"text":") decimal","frequency":23}
+{"row":463,"token_ids":[11,14],"order":2,"text":"' to","frequency":23}
+{"row":464,"token_ids":[17,468],"order":2,"text":": param","frequency":23}
+{"row":465,"token_ids":[28,11],"order":2,"text":"or '","frequency":23}
+{"row":466,"token_ids":[29,328],"order":2,"text":"an iterable","frequency":23}
+{"row":467,"token_ids":[32,13],"order":2,"text":"that is","frequency":23}
+{"row":468,"token_ids":[40,13],"order":2,"text":"object is","frequency":23}
+{"row":469,"token_ids":[58,22],"order":2,"text":"used in","frequency":23}
+{"row":470,"token_ids":[59,14],"order":2,"text":"function to","frequency":23}
+{"row":471,"token_ids":[87,23],"order":2,"text":"b \"","frequency":23}
+{"row":472,"token_ids":[120,5],"order":2,"text":"code .","frequency":23}
+{"row":473,"token_ids":[216,81],"order":2,"text":"keyword arguments","frequency":23}
+{"row":474,"token_ids":[219,189],"order":2,"text":"standard options","frequency":23}
+{"row":475,"token_ids":[227,41],"order":2,"text":"do not","frequency":23}
+{"row":476,"token_ids":[240,5],"order":2,"text":"queue .","frequency":23}
+{"row":477,"token_ids":[268,6],"order":2,"text":"close the","frequency":23}
+{"row":478,"token_ids":[405,172],"order":2,"text":"abstract base","frequency":23}
+{"row":479,"token_ids":[432,15],"order":2,"text":"representation of","frequency":23}
+{"row":480,"token_ids":[525,9],"order":2,"text":"bytesio (","frequency":23}
+{"row":481,"token_ids":[801,37],"order":2,"text":"vendors /","frequency":23}
+{"row":482,"token_ids":[5,219],"order":2,"text":". standard","frequency":22}
+{"row":483,"token_ids":[6,247],"order":2,"text":"the parser","frequency":22}
+{"row":484,"token_ids":[6,267],"order":2,"text":"the buffer","frequency":22}
+{"row":485,"token_ids":[6,403],"order":2,"text":"the second","frequency":22}
+{"row":486,"token_ids":[7,753],"order":2,"text":", takefocus","frequency":22}
+{"row":487,"token_ids":[9,19],"order":2,"text":"( if","frequency":22}
+{"row":488,"token_ids":[9,280],"order":2,"text":"( io","frequency":22}
+{"row":489,"token_ids":[11,71],"order":2,"text":"' 0","frequency":22}
+{"row":490,"token_ids":[13,116],"order":2,"text":"is false","frequency":22}
+{"row":491,"token_ids":[15,29],"order":2,"text":"of an","frequency":22}
+{"row":492,"token_ids":[15,69],"order":2,"text":"of data","frequency":22}
+{"row":493,"token_ids":[15,84],"order":2,"text":"of bytes","frequency":22}
+{"row":494,"token_ids":[17,5],"order":2,"text":": .","frequency":22}
+{"row":495,"token_ids":[27,65],"order":2,"text":"return none","frequency":22}
+{"row":496,"token_ids":[29,76],"order":2,"text":"an instance","frequency":22}
+{"row":497,"token_ids":[34,14],"order":2,"text":"it to","frequency":22}
+{"row":498,"token_ids":[57,5],"order":2,"text":"list .","frequency":22}
+{"row":499,"token_ids":[67,14],"order":2,"text":"path to","frequency":22}
+{"row":500,"token_ids":[99,5],"order":2,"text":"turtle .","frequency":22}
+{"row":501,"token_ids":[100,5],"order":2,"text":"c .","frequency":22}
+{"row":502,"token_ids":[131,9],"order":2,"text":"tuple (","frequency":22}
+{"row":503,"token_ids":[139,5],"order":2,"text":"context .","frequency":22}
+{"row":504,"token_ids":[148,13],"order":2,"text":"address is","frequency":22}
+{"row":505,"token_ids":[159,5],"order":2,"text":"directory .","frequency":22}
+{"row":506,"token_ids":[168,5],"order":2,"text":"process .","frequency":22}
+{"row":507,"token_ids":[226,35],"order":2,"text":"they are","frequency":22}
+{"row":508,"token_ids":[336,15],"order":2,"text":"part of","frequency":22}
+{"row":509,"token_ids":[422,6],"order":2,"text":"representing the","frequency":22}
+{"row":510,"token_ids":[704,11],"order":2,"text":"isn '","frequency":22}
+{"row":511,"token_ids":[746,37],"order":2,"text":"mappings /","frequency":22}
+{"row":512,"token_ids":[5,22],"order":2,"text":". in","frequency":21}
+{"row":513,"token_ids":[5,36],"order":2,"text":". by","frequency":21}
+{"row":514,"token_ids":[5,540],"order":2,"text":". com","frequency":21}
+{"row":515,"token_ids":[6,73],"order":2,"text":"the line","frequency":21}
+{"row":516,"token_ids":[6,132],"order":2,"text":"the format","frequency":21}
+{"row":517,"token_ids":[6,219],"order":2,"text":"the standard","frequency":21}
+{"row":518,"token_ids":[6,253],"order":2,"text":"the internal","frequency":21}
+{"row":519,"token_ids":[6,390],"order":2,"text":"the mock","frequency":21}
+{"row":520,"token_ids":[8,7],"order":2,"text":"a ,","frequency":21}
+{"row":521,"token_ids":[8,61],"order":2,"text":"a given","frequency":21}
+{"row":522,"token_ids":[8,218],"order":2,"text":"a sequence","frequency":21}
+{"row":523,"token_ids":[9,92],"order":2,"text":"( x","frequency":21}
+{"row":524,"token_ids":[10,108],"order":2,"text":") #","frequency":21}
+{"row":525,"token_ids":[12,78],"order":2,"text":"- type","frequency":21}
+{"row":526,"token_ids":[13,22],"order":2,"text":"is in","frequency":21}
+{"row":527,"token_ids":[13,60],"order":2,"text":"is set","frequency":21}
+{"row":528,"token_ids":[13,149],"order":2,"text":"is empty","frequency":21}
+{"row":529,"token_ids":[14,11],"order":2,"text":"to '","frequency":21}
+{"row":530,"token_ids":[14,23],"order":2,"text":"to \"","frequency":21}
+{"row":531,"token_ids":[14,118],"order":2,"text":"to get","frequency":21}
+{"row":532,"token_ids":[17,11],"order":2,"text":": '","frequency":21}
+{"row":533,"token_ids":[19,11],"order":2,"text":"if '","frequency":21}
+{"row":534,"token_ids":[19,29],"order":2,"text":"if an","frequency":21}
+{"row":535,"token_ids":[27,116],"order":2,"text":"return false","frequency":21}
+{"row":536,"token_ids":[38,13],"order":2,"text":"file is","frequency":21}
+{"row":537,"token_ids":[43,41],"order":2,"text":"will not","frequency":21}
+{"row":538,"token_ids":[44,7],"order":2,"text":"value ,","frequency":21}
+{"row":539,"token_ids":[60,5],"order":2,"text":"set .","frequency":21}
+{"row":540,"token_ids":[61,8],"order":2,"text":"given a","frequency":21}
+{"row":541,"token_ids":[64,5],"order":2,"text":"1 .","frequency":21}
+{"row":542,"token_ids":[82,5],"order":2,"text":"python .","frequency":21}
+{"row":543,"token_ids":[101,12],"order":2,"text":"widget -","frequency":21}
+{"row":544,"token_ids":[123,5],"order":2,"text":"command .","frequency":21}
+{"row":545,"token_ids":[125,5],"order":2,"text":"mode .","frequency":21}
+{"row":546,"token_ids":[132,5],"order":2,"text":"format .","frequency":21}
+{"row":547,"token_ids":[142,15],"order":2,"text":"result of","frequency":21}
+{"row":548,"token_ids":[161,8],"order":2,"text":"either a","frequency":21}
+{"row":549,"token_ids":[170,62],"order":2,"text":"raised when","frequency":21}
+{"row":550,"token_ids":[177,14],"order":2,"text":"passed to","frequency":21}
+{"row":551,"token_ids":[203,395],"order":2,"text":"information about","frequency":21}
+{"row":552,"token_ids":[234,22],"order":2,"text":"defined in","frequency":21}
+{"row":553,"token_ids":[265,15],"order":2,"text":"copy of","frequency":21}
+{"row":554,"token_ids":[365,12],"order":2,"text":"quoted -","frequency":21}
+{"row":555,"token_ids":[5,129],"order":2,"text":". you","frequency":20}
+{"row":556,"token_ids":[6,78],"order":2,"text":"the type","frequency":20}
+{"row":557,"token_ids":[6,105],"order":2,"text":"the new","frequency":20}
+{"row":558,"token_ids":[6,168],"order":2,"text":"the process","frequency":20}
+{"row":559,"token_ids":[6,249],"order":2,"text":"the user","frequency":20}
+{"row":560,"token_ids":[6,341],"order":2,"text":"the operand","frequency":20}
+{"row":561,"token_ids":[6,386],"order":2,"text":"the archive","frequency":20}
+{"row":562,"token_ids":[7,29],"order":2,"text":", an","frequency":20}
+{"row":563,"token_ids":[7,192],"order":2,"text":", where","frequency":20}
+{"row":564,"token_ids":[8,21],"order":2,"text":"a `","frequency":20}
+{"row":565,"token_ids":[8,44],"order":2,"text":"a value","frequency":20}
+{"row":566,"token_ids":[9,53],"order":2,"text":"( which","frequency":20}
+{"row":567,"token_ids":[11,746],"order":2,"text":"' mappings","frequency":20}
+{"row":568,"token_ids":[12,228],"order":2,"text":"- level","frequency":20}
+{"row":569,"token_ids":[17,21],"order":2,"text":": `","frequency":20}
+{"row":570,"token_ids":[19,25],"order":2,"text":"if *","frequency":20}
+{"row":571,"token_ids":[25,9],"order":2,"text":"* (","frequency":20}
+{"row":572,"token_ids":[30,65],"order":2,"text":"= none","frequency":20}
+{"row":573,"token_ids":[32,55],"order":2,"text":"that can","frequency":20}
+{"row":574,"token_ids":[42,14],"order":2,"text":"string to","frequency":20}
+{"row":575,"token_ids":[44,10],"order":2,"text":"value )","frequency":20}
+{"row":576,"token_ids":[46,11],"order":2,"text":"name '","frequency":20}
+{"row":577,"token_ids":[47,5],"order":2,"text":"] .","frequency":20}
+{"row":578,"token_ids":[71,11],"order":2,"text":"0 '","frequency":20}
+{"row":579,"token_ids":[73,70],"order":2,"text":"line number","frequency":20}
+{"row":580,"token_ids":[75,31],"order":2,"text":"called with","frequency":20}
+{"row":581,"token_ids":[118,8],"order":2,"text":"get a","frequency":20}
+{"row":582,"token_ids":[127,14],"order":2,"text":"call to","frequency":20}
+{"row":583,"token_ids":[149,42],"order":2,"text":"empty string","frequency":20}
+{"row":584,"token_ids":[170,5],"order":2,"text":"raised .","frequency":20}
+{"row":585,"token_ids":[183,32],"order":2,"text":"so that","frequency":20}
+{"row":586,"token_ids":[204,5],"order":2,"text":"package .","frequency":20}
+{"row":587,"token_ids":[232,5],"order":2,"text":"stream .","frequency":20}
+{"row":588,"token_ids":[242,32],"order":2,"text":"such that","frequency":20}
+{"row":589,"token_ids":[242,33],"order":2,"text":"such as","frequency":20}
+{"row":590,"token_ids":[275,5],"order":2,"text":"state .","frequency":20}
+{"row":591,"token_ids":[394,14],"order":2,"text":"want to","frequency":20}
+{"row":592,"token_ids":[396,14],"order":2,"text":"added to","frequency":20}
+{"row":593,"token_ids":[672,47],"order":2,"text":"cfws ]","frequency":20}
+{"row":594,"token_ids":[5,151],"order":2,"text":". raise","frequency":19}
+{"row":595,"token_ids":[6,150],"order":2,"text":"the time","frequency":19}
+{"row":596,"token_ids":[6,243],"order":2,"text":"the connection","frequency":19}
+{"row":597,"token_ids":[6,286],"order":2,"text":"the window","frequency":19}
+{"row":598,"token_ids":[6,318],"order":2,"text":"the root","frequency":19}
+{"row":599,"token_ids":[6,388],"order":2,"text":"the corresponding","frequency":19}
+{"row":600,"token_ids":[7,5],"order":2,"text":", .","frequency":19}
+{"row":601,"token_ids":[7,44],"order":2,"text":", value","frequency":19}
+{"row":602,"token_ids":[7,50],"order":2,"text":", all","frequency":19}
+{"row":603,"token_ids":[12,64],"order":2,"text":"- 1","frequency":19}
+{"row":604,"token_ids":[12,73],"order":2,"text":"- line","frequency":19}
+{"row":605,"token_ids":[13,161],"order":2,"text":"is either","frequency":19}
+{"row":606,"token_ids":[13,571],"order":2,"text":"is omitted","frequency":19}
+{"row":607,"token_ids":[14,26],"order":2,"text":"to this","frequency":19}
+{"row":608,"token_ids":[17,45],"order":2,"text":": [","frequency":19}
+{"row":609,"token_ids":[18,50],"order":2,"text":"and all","frequency":19}
+{"row":610,"token_ids":[19,65],"order":2,"text":"if none","frequency":19}
+{"row":611,"token_ids":[19,86],"order":2,"text":"if any","frequency":19}
+{"row":612,"token_ids":[19,125],"order":2,"text":"if mode","frequency":19}
+{"row":613,"token_ids":[20,458],"order":2,"text":"for reading","frequency":19}
+{"row":614,"token_ids":[29,359],"order":2,"text":"an iterator","frequency":19}
+{"row":615,"token_ids":[34,98],"order":2,"text":"it has","frequency":19}
+{"row":616,"token_ids":[45,672],"order":2,"text":"[ cfws","frequency":19}
+{"row":617,"token_ids":[48,13],"order":2,"text":"class is","frequency":19}
+{"row":618,"token_ids":[48,14],"order":2,"text":"class to","frequency":19}
+{"row":619,"token_ids":[53,55],"order":2,"text":"which can","frequency":19}
+{"row":620,"token_ids":[59,20],"order":2,"text":"function for","frequency":19}
+{"row":621,"token_ids":[68,7],"order":2,"text":"argument ,","frequency":19}
+{"row":622,"token_ids":[81,35],"order":2,"text":"arguments are","frequency":19}
+{"row":623,"token_ids":[87,5],"order":2,"text":"b .","frequency":19}
+{"row":624,"token_ids":[93,7],"order":2,"text":"text ,","frequency":19}
+{"row":625,"token_ids":[149,5],"order":2,"text":"empty .","frequency":19}
+{"row":626,"token_ids":[178,6],"order":2,"text":"see the","frequency":19}
+{"row":627,"token_ids":[190,5],"order":2,"text":"i .","frequency":19}
+{"row":628,"token_ids":[190,37],"order":2,"text":"i /","frequency":19}
+{"row":629,"token_ids":[213,5],"order":2,"text":"order .","frequency":19}
+{"row":630,"token_ids":[241,189],"order":2,"text":"specific options","frequency":19}
+{"row":631,"token_ids":[295,5],"order":2,"text":"screen .","frequency":19}
+{"row":632,"token_ids":[302,5],"order":2,"text":"record .","frequency":19}
+{"row":633,"token_ids":[363,5],"order":2,"text":"logger .","frequency":19}
+{"row":634,"token_ids":[372,8],"order":2,"text":"send a","frequency":19}
+{"row":635,"token_ids":[650,11],"order":2,"text":"don '","frequency":19}
+{"row":636,"token_ids":[6,25],"order":2,"text":"the *","frequency":18}
+{"row":637,"token_ids":[6,101],"order":2,"text":"the widget","frequency":18}
+{"row":638,"token_ids":[6,106],"order":2,"text":"the values","frequency":18}
+{"row":639,"token_ids":[6,109],"order":2,"text":"the returned","frequency":18}
+{"row":640,"token_ids":[6,123],"order":2,"text":"the command","frequency":18}
+{"row":641,"token_ids":[6,135],"order":2,"text":"the other","frequency":18}
+{"row":642,"token_ids":[6,159],"order":2,"text":"the directory","frequency":18}
+{"row":643,"token_ids":[6,186],"order":2,"text":"the test","frequency":18}
+{"row":644,"token_ids":[6,217],"order":2,"text":"the named","frequency":18}
+{"row":645,"token_ids":[6,256],"order":2,"text":"the content","frequency":18}
+{"row":646,"token_ids":[6,322],"order":2,"text":"the constructor","frequency":18}
+{"row":647,"token_ids":[6,467],"order":2,"text":"the original","frequency":18}
+{"row":648,"token_ids":[7,14],"order":2,"text":", to","frequency":18}
+{"row":649,"token_ids":[7,49],"order":2,"text":", decimal","frequency":18}
+{"row":650,"token_ids":[8,104],"order":2,"text":"a header","frequency":18}
+{"row":651,"token_ids":[8,399],"order":2,"text":"a coroutine","frequency":18}
+{"row":652,"token_ids":[8,555],"order":2,"text":"a ttk","frequency":18}
+{"row":653,"token_ids":[8,646],"order":2,"text":"a boolean","frequency":18}
+{"row":654,"token_ids":[9,100],"order":2,"text":"( c","frequency":18}
+{"row":655,"token_ids":[11,16],"order":2,"text":"' >","frequency":18}
+{"row":656,"token_ids":[12,6],"order":2,"text":"- the","frequency":18}
+{"row":657,"token_ids":[12,131],"order":2,"text":"- tuple","frequency":18}
+{"row":658,"token_ids":[12,397],"order":2,"text":"- bit","frequency":18}
+{"row":659,"token_ids":[13,14],"order":2,"text":"is to","frequency":18}
+{"row":660,"token_ids":[15,179],"order":2,"text":"of strings","frequency":18}
+{"row":661,"token_ids":[16,239],"order":2,"text":"> import","frequency":18}
+{"row":662,"token_ids":[17,19],"order":2,"text":": if","frequency":18}
+{"row":663,"token_ids":[17,25],"order":2,"text":": *","frequency":18}
+{"row":664,"token_ids":[17,29],"order":2,"text":": an","frequency":18}
+{"row":665,"token_ids":[19,61],"order":2,"text":"if given","frequency":18}
+{"row":666,"token_ids":[22,53],"order":2,"text":"in which","frequency":18}
+{"row":667,"token_ids":[24,29],"order":2,"text":"be an","frequency":18}
+{"row":668,"token_ids":[32,8],"order":2,"text":"that a","frequency":18}
+{"row":669,"token_ids":[32,34],"order":2,"text":"that it","frequency":18}
+{"row":670,"token_ids":[37,466],"order":2,"text":"/ o","frequency":18}
+{"row":671,"token_ids":[38,14],"order":2,"text":"file to","frequency":18}
+{"row":672,"token_ids":[40,28],"order":2,"text":"object or","frequency":18}
+{"row":673,"token_ids":[47,47],"order":2,"text":"] ]","frequency":18}
+{"row":674,"token_ids":[50,284],"order":2,"text":"all items","frequency":18}
+{"row":675,"token_ids":[56,5],"order":2,"text":"true .","frequency":18}
+{"row":676,"token_ids":[60,15],"order":2,"text":"set of","frequency":18}
+{"row":677,"token_ids":[66,7],"order":2,"text":"default ,","frequency":18}
+{"row":678,"token_ids":[68,17],"order":2,"text":"argument :","frequency":18}
+{"row":679,"token_ids":[70,7],"order":2,"text":"number ,","frequency":18}
+{"row":680,"token_ids":[75,5],"order":2,"text":"called .","frequency":18}
+{"row":681,"token_ids":[114,8],"order":2,"text":"have a","frequency":18}
+{"row":682,"token_ids":[125,7],"order":2,"text":"mode ,","frequency":18}
+{"row":683,"token_ids":[148,5],"order":2,"text":"address .","frequency":18}
+{"row":684,"token_ids":[187,5],"order":2,"text":"thread .","frequency":18}
+{"row":685,"token_ids":[199,5],"order":2,"text":"dictionary .","frequency":18}
+{"row":686,"token_ids":[201,17],"order":2,"text":"attributes :","frequency":18}
+{"row":687,"token_ids":[209,15],"order":2,"text":"index of","frequency":18}
+{"row":688,"token_ids":[212,5],"order":2,"text":"request .","frequency":18}
+{"row":689,"token_ids":[223,5],"order":2,"text":"files .","frequency":18}
+{"row":690,"token_ids":[235,5],"order":2,"text":"interface .","frequency":18}
+{"row":691,"token_ids":[246,5],"order":2,"text":"found .","frequency":18}
+{"row":692,"token_ids":[270,5],"order":2,"text":"frame .","frequency":18}
+{"row":693,"token_ids":[276,6],"order":2,"text":"until the","frequency":18}
+{"row":694,"token_ids":[322,5],"order":2,"text":"constructor .","frequency":18}
+{"row":695,"token_ids":[328,15],"order":2,"text":"iterable of","frequency":18}
+{"row":696,"token_ids":[428,15],"order":2,"text":"contents of","frequency":18}
+{"row":697,"token_ids":[6,93],"order":2,"text":"the text","frequency":17}
+{"row":698,"token_ids":[6,158],"order":2,"text":"the character","frequency":17}
+{"row":699,"token_ids":[6,229],"order":2,"text":"the end","frequency":17}
+{"row":700,"token_ids":[6,295],"order":2,"text":"the screen","frequency":17}
+{"row":701,"token_ids":[6,302],"order":2,"text":"the record","frequency":17}
+{"row":702,"token_ids":[7,20],"order":2,"text":", for","frequency":17}
+{"row":703,"token_ids":[8,99],"order":2,"text":"a turtle","frequency":17}
+{"row":704,"token_ids":[8,123],"order":2,"text":"a command","frequency":17}
+{"row":705,"token_ids":[10,15],"order":2,"text":") of","frequency":17}
+{"row":706,"token_ids":[11,28],"order":2,"text":"' or","frequency":17}
+{"row":707,"token_ids":[11,87],"order":2,"text":"' b","frequency":17}
+{"row":708,"token_ids":[14,50],"order":2,"text":"to all","frequency":17}
+{"row":709,"token_ids":[14,334],"order":2,"text":"to make","frequency":17}
+{"row":710,"token_ids":[15,9],"order":2,"text":"of (","frequency":17}
+{"row":711,"token_ids":[15,21],"order":2,"text":"of `","frequency":17}
+{"row":712,"token_ids":[15,93],"order":2,"text":"of text","frequency":17}
+{"row":713,"token_ids":[20,77],"order":2,"text":"for use","frequency":17}
+{"row":714,"token_ids":[38,46],"order":2,"text":"file name","frequency":17}
+{"row":715,"token_ids":[41,8],"order":2,"text":"not a","frequency":17}
+{"row":716,"token_ids":[41,61],"order":2,"text":"not given","frequency":17}
+{"row":717,"token_ids":[42,15],"order":2,"text":"string of","frequency":17}
+{"row":718,"token_ids":[42,20],"order":2,"text":"string for","frequency":17}
+{"row":719,"token_ids":[42,28],"order":2,"text":"string or","frequency":17}
+{"row":720,"token_ids":[44,20],"order":2,"text":"value for","frequency":17}
+{"row":721,"token_ids":[48,53],"order":2,"text":"class which","frequency":17}
+{"row":722,"token_ids":[61,33],"order":2,"text":"given as","frequency":17}
+{"row":723,"token_ids":[69,14],"order":2,"text":"data to","frequency":17}
+{"row":724,"token_ids":[82,11],"order":2,"text":"python '","frequency":17}
+{"row":725,"token_ids":[84,12],"order":2,"text":"bytes -","frequency":17}
+{"row":726,"token_ids":[89,28],"order":2,"text":"one or","frequency":17}
+{"row":727,"token_ids":[90,10],"order":2,"text":"self )","frequency":17}
+{"row":728,"token_ids":[90,13],"order":2,"text":"self is","frequency":17}
+{"row":729,"token_ids":[94,5],"order":2,"text":"exception .","frequency":17}
+{"row":730,"token_ids":[101,31],"order":2,"text":"widget with","frequency":17}
+{"row":731,"token_ids":[114,6],"order":2,"text":"have the","frequency":17}
+{"row":732,"token_ids":[116,7],"order":2,"text":"false ,","frequency":17}
+{"row":733,"token_ids":[117,9],"order":2,"text":"read (","frequency":17}
+{"row":734,"token_ids":[118,9],"order":2,"text":"get (","frequency":17}
+{"row":735,"token_ids":[175,35],"order":2,"text":"there are","frequency":17}
+{"row":736,"token_ids":[179,5],"order":2,"text":"strings .","frequency":17}
+{"row":737,"token_ids":[203,5],"order":2,"text":"information .","frequency":17}
+{"row":738,"token_ids":[220,6],"order":2,"text":"whether the","frequency":17}
+{"row":739,"token_ids":[235,20],"order":2,"text":"interface for","frequency":17}
+{"row":740,"token_ids":[271,6],"order":2,"text":"containing the","frequency":17}
+{"row":741,"token_ids":[304,20],"order":2,"text":"wait for","frequency":17}
+{"row":742,"token_ids":[373,6],"order":2,"text":"through the","frequency":17}
+{"row":743,"token_ids":[382,14],"order":2,"text":"helper to","frequency":17}
+{"row":744,"token_ids":[388,14],"order":2,"text":"corresponding to","frequency":17}
+{"row":745,"token_ids":[509,569],"order":2,"text":"shared memory","frequency":17}
+{"row":746,"token_ids":[601,12],"order":2,"text":"built -","frequency":17}
+{"row":747,"token_ids":[629,8],"order":2,"text":"creates a","frequency":17}
+{"row":748,"token_ids":[5,33],"order":2,"text":". as","frequency":16}
+{"row":749,"token_ids":[6,63],"order":2,"text":"the method","frequency":16}
+{"row":750,"token_ids":[6,139],"order":2,"text":"the context","frequency":16}
+{"row":751,"token_ids":[6,164],"order":2,"text":"the filename","frequency":16}
+{"row":752,"token_ids":[6,197],"order":2,"text":"the two","frequency":16}
+{"row":753,"token_ids":[6,289],"order":2,"text":"the system","frequency":16}
+{"row":754,"token_ids":[6,641],"order":2,"text":"the selection","frequency":16}
+{"row":755,"token_ids":[6,670],"order":2,"text":"the caller","frequency":16}
+{"row":756,"token_ids":[6,683],"order":2,"text":"the main","frequency":16}
+{"row":757,"token_ids":[7,87],"order":2,"text":", b","frequency":16}
+{"row":758,"token_ids":[7,147],"order":2,"text":", otherwise","frequency":16}
+{"row":759,"token_ids":[7,348],"order":2,"text":", width","frequency":16}
+{"row":760,"token_ids":[7,366],"order":2,"text":", style","frequency":16}
+{"row":761,"token_ids":[7,595],"order":2,"text":", returning","frequency":16}
+{"row":762,"token_ids":[8,72],"order":2,"text":"a module","frequency":16}
+{"row":763,"token_ids":[8,550],"order":2,"text":"a regular","frequency":16}
+{"row":764,"token_ids":[9,190],"order":2,"text":"( i","frequency":16}
+{"row":765,"token_ids":[10,45],"order":2,"text":") [","frequency":16}
+{"row":766,"token_ids":[10,56],"order":2,"text":") true","frequency":16}
+{"row":767,"token_ids":[11,804],"order":2,"text":"' 192.0","frequency":16}
+{"row":768,"token_ids":[13,80],"order":2,"text":"is no","frequency":16}
+{"row":769,"token_ids":[15,23],"order":2,"text":"of \"","frequency":16}
+{"row":770,"token_ids":[18,121],"order":2,"text":"and then","frequency":16}
+{"row":771,"token_ids":[24,60],"order":2,"text":"be set","frequency":16}
+{"row":772,"token_ids":[26,55],"order":2,"text":"this can","frequency":16}
+{"row":773,"token_ids":[27,50],"order":2,"text":"return all","frequency":16}
+{"row":774,"token_ids":[28,211],"order":2,"text":"or more","frequency":16}
+{"row":775,"token_ids":[29,138],"order":2,"text":"an event","frequency":16}
+{"row":776,"token_ids":[29,143],"order":2,"text":"an item","frequency":16}
+{"row":777,"token_ids":[29,153],"order":2,"text":"an int","frequency":16}
+{"row":778,"token_ids":[34,79],"order":2,"text":"it should","frequency":16}
+{"row":779,"token_ids":[35,6],"order":2,"text":"are the","frequency":16}
+{"row":780,"token_ids":[35,58],"order":2,"text":"are used","frequency":16}
+{"row":781,"token_ids":[38,11],"order":2,"text":"file '","frequency":16}
+{"row":782,"token_ids":[38,22],"order":2,"text":"file in","frequency":16}
+{"row":783,"token_ids":[40,32],"order":2,"text":"object that","frequency":16}
+{"row":784,"token_ids":[47,7],"order":2,"text":"] ,","frequency":16}
+{"row":785,"token_ids":[59,28],"order":2,"text":"function or","frequency":16}
+{"row":786,"token_ids":[59,32],"order":2,"text":"function that","frequency":16}
+{"row":787,"token_ids":[61,36],"order":2,"text":"given by","frequency":16}
+{"row":788,"token_ids":[62,29],"order":2,"text":"when an","frequency":16}
+{"row":789,"token_ids":[72,13],"order":2,"text":"module is","frequency":16}
+{"row":790,"token_ids":[84,7],"order":2,"text":"bytes ,","frequency":16}
+{"row":791,"token_ids":[98,80],"order":2,"text":"has no","frequency":16}
+{"row":792,"token_ids":[102,68],"order":2,"text":"optional argument","frequency":16}
+{"row":793,"token_ids":[109,33],"order":2,"text":"returned as","frequency":16}
+{"row":794,"token_ids":[113,24],"order":2,"text":"t be","frequency":16}
+{"row":795,"token_ids":[114,261],"order":2,"text":"have been","frequency":16}
+{"row":796,"token_ids":[163,7],"order":2,"text":"args ,","frequency":16}
+{"row":797,"token_ids":[165,7],"order":2,"text":"integer ,","frequency":16}
+{"row":798,"token_ids":[182,7],"order":2,"text":"3 ,","frequency":16}
+{"row":799,"token_ids":[189,48],"order":2,"text":"options class","frequency":16}
+{"row":800,"token_ids":[207,25],"order":2,"text":"10 *","frequency":16}
+{"row":801,"token_ids":[211,196],"order":2,"text":"more than","frequency":16}
+{"row":802,"token_ids":[222,6],"order":2,"text":"before the","frequency":16}
+{"row":803,"token_ids":[230,5],"order":2,"text":"functions .","frequency":16}
+{"row":804,"token_ids":[244,5],"order":2,"text":"handler .","frequency":16}
+{"row":805,"token_ids":[279,20],"order":2,"text":"support for","frequency":16}
+{"row":806,"token_ids":[395,6],"order":2,"text":"about the","frequency":16}
+{"row":807,"token_ids":[501,14],"order":2,"text":"equivalent to","frequency":16}
+{"row":808,"token_ids":[579,31],"order":2,"text":"associated with","frequency":16}
+{"row":809,"token_ids":[763,51],"order":2,"text":"depending on","frequency":16}
+{"row":810,"token_ids":[5,51],"order":2,"text":". on","frequency":15}
+{"row":811,"token_ids":[5,86],"order":2,"text":". any","frequency":15}
+{"row":812,"token_ids":[6,172],"order":2,"text":"the base","frequency":15}
+{"row":813,"token_ids":[6,342],"order":2,"text":"the stack","frequency":15}
+{"row":814,"token_ids":[6,434],"order":2,"text":"the pattern","frequency":15}
+{"row":815,"token_ids":[6,450],"order":2,"text":"the application","frequency":15}
+{"row":816,"token_ids":[8,9],"order":2,"text":"a (","frequency":15}
+{"row":817,"token_ids":[8,174],"order":2,"text":"a non","frequency":15}
+{"row":818,"token_ids":[8,244],"order":2,"text":"a handler","frequency":15}
+{"row":819,"token_ids":[8,312],"order":2,"text":"a dict","frequency":15}
+{"row":820,"token_ids":[10,19],"order":2,"text":") if","frequency":15}
+{"row":821,"token_ids":[11,37],"order":2,"text":"' /","frequency":15}
+{"row":822,"token_ids":[11,47],"order":2,"text":"' ]","frequency":15}
+{"row":823,"token_ids":[11,96],"order":2,"text":"' \\","frequency":15}
+{"row":824,"token_ids":[13,325],"order":2,"text":"is already","frequency":15}
+{"row":825,"token_ids":[18,21],"order":2,"text":"and `","frequency":15}
+{"row":826,"token_ids":[23,28],"order":2,"text":"\" or","frequency":15}
+{"row":827,"token_ids":[29,250],"order":2,"text":"an xml","frequency":15}
+{"row":828,"token_ids":[29,418],"order":2,"text":"an existing","frequency":15}
+{"row":829,"token_ids":[30,56],"order":2,"text":"= true","frequency":15}
+{"row":830,"token_ids":[33,29],"order":2,"text":"as an","frequency":15}
+{"row":831,"token_ids":[33,694],"order":2,"text":"as well","frequency":15}
+{"row":832,"token_ids":[34,55],"order":2,"text":"it can","frequency":15}
+{"row":833,"token_ids":[37,1095],"order":2,"text":"/ micsft","frequency":15}
+{"row":834,"token_ids":[42,13],"order":2,"text":"string is","frequency":15}
+{"row":835,"token_ids":[45,64],"order":2,"text":"[ 1","frequency":15}
+{"row":836,"token_ids":[45,71],"order":2,"text":"[ 0","frequency":15}
+{"row":837,"token_ids":[46,9],"order":2,"text":"name (","frequency":15}
+{"row":838,"token_ids":[56,16],"order":2,"text":"true >","frequency":15}
+{"row":839,"token_ids":[60,7],"order":2,"text":"set ,","frequency":15}
+{"row":840,"token_ids":[66,17],"order":2,"text":"default :","frequency":15}
+{"row":841,"token_ids":[69,7],"order":2,"text":"data ,","frequency":15}
+{"row":842,"token_ids":[73,15],"order":2,"text":"line of","frequency":15}
+{"row":843,"token_ids":[78,7],"order":2,"text":"type ,","frequency":15}
+{"row":844,"token_ids":[78,104],"order":2,"text":"type header","frequency":15}
+{"row":845,"token_ids":[85,36],"order":2,"text":"specified by","frequency":15}
+{"row":846,"token_ids":[91,209],"order":2,"text":"at index","frequency":15}
+{"row":847,"token_ids":[96,160],"order":2,"text":"\\ n","frequency":15}
+{"row":848,"token_ids":[101,22],"order":2,"text":"widget in","frequency":15}
+{"row":849,"token_ids":[165,5],"order":2,"text":"integer .","frequency":15}
+{"row":850,"token_ids":[186,19],"order":2,"text":"test if","frequency":15}
+{"row":851,"token_ids":[193,8],"order":2,"text":"add a","frequency":15}
+{"row":852,"token_ids":[210,13],"order":2,"text":"size is","frequency":15}
+{"row":853,"token_ids":[234,36],"order":2,"text":"defined by","frequency":15}
+{"row":854,"token_ids":[239,280],"order":2,"text":"import io","frequency":15}
+{"row":855,"token_ids":[264,5],"order":2,"text":"available .","frequency":15}
+{"row":856,"token_ids":[267,5],"order":2,"text":"buffer .","frequency":15}
+{"row":857,"token_ids":[273,5],"order":2,"text":"manager .","frequency":15}
+{"row":858,"token_ids":[297,6],"order":2,"text":"contains the","frequency":15}
+{"row":859,"token_ids":[304,276],"order":2,"text":"wait until","frequency":15}
+{"row":860,"token_ids":[366,7],"order":2,"text":"style ,","frequency":15}
+{"row":861,"token_ids":[386,5],"order":2,"text":"archive .","frequency":15}
+{"row":862,"token_ids":[398,6],"order":2,"text":"change the","frequency":15}
+{"row":863,"token_ids":[481,5],"order":2,"text":"mailbox .","frequency":15}
+{"row":864,"token_ids":[494,7],"order":2,"text":"year ,","frequency":15}
+{"row":865,"token_ids":[804,5],"order":2,"text":"192.0 .","frequency":15}
+{"row":866,"token_ids":[1095,37],"order":2,"text":"micsft /","frequency":15}
+{"row":867,"token_ids":[5,7],"order":2,"text":". ,","frequency":14}
+{"row":868,"token_ids":[5,23],"order":2,"text":". \"","frequency":14}
+{"row":869,"token_ids":[5,29],"order":2,"text":". an","frequency":14}
+{"row":870,"token_ids":[5,46],"order":2,"text":". name","frequency":14}
+{"row":871,"token_ids":[6,189],"order":2,"text":"the options","frequency":14}
+{"row":872,"token_ids":[6,204],"order":2,"text":"the package","frequency":14}
+{"row":873,"token_ids":[6,232],"order":2,"text":"the stream","frequency":14}
+{"row":874,"token_ids":[6,259],"order":2,"text":"the most","frequency":14}
+{"row":875,"token_ids":[6,353],"order":2,"text":"the transport","frequency":14}
+{"row":876,"token_ids":[7,64],"order":2,"text":", 1","frequency":14}
+{"row":877,"token_ids":[7,344],"order":2,"text":", except","frequency":14}
+{"row":878,"token_ids":[8,164],"order":2,"text":"a filename","frequency":14}
+{"row":879,"token_ids":[8,204],"order":2,"text":"a package","frequency":14}
+{"row":880,"token_ids":[8,265],"order":2,"text":"a copy","frequency":14}
+{"row":881,"token_ids":[8,319],"order":2,"text":"a subclass","frequency":14}
+{"row":882,"token_ids":[9,38],"order":2,"text":"( file","frequency":14}
+{"row":883,"token_ids":[10,51],"order":2,"text":") on","frequency":14}
+{"row":884,"token_ids":[11,9],"order":2,"text":"' (","frequency":14}
+{"row":885,"token_ids":[11,301],"order":2,"text":"' r","frequency":14}
+{"row":886,"token_ids":[12,321],"order":2,"text":"- 8","frequency":14}
+{"row":887,"token_ids":[14,5],"order":2,"text":"to .","frequency":14}
+{"row":888,"token_ids":[14,65],"order":2,"text":"to none","frequency":14}
+{"row":889,"token_ids":[14,508],"order":2,"text":"to provide","frequency":14}
+{"row":890,"token_ids":[16,99],"order":2,"text":"> turtle","frequency":14}
+{"row":891,"token_ids":[19,41],"order":2,"text":"if not","frequency":14}
+{"row":892,"token_ids":[21,10],"order":2,"text":"` )","frequency":14}
+{"row":893,"token_ids":[21,46],"order":2,"text":"` name","frequency":14}
+{"row":894,"token_ids":[22,29],"order":2,"text":"in an","frequency":14}
+{"row":895,"token_ids":[22,185],"order":2,"text":"in case","frequency":14}
+{"row":896,"token_ids":[22,213],"order":2,"text":"in order","frequency":14}
+{"row":897,"token_ids":[24,6],"order":2,"text":"be the","frequency":14}
+{"row":898,"token_ids":[24,161],"order":2,"text":"be either","frequency":14}
+{"row":899,"token_ids":[26,67],"order":2,"text":"this path","frequency":14}
+{"row":900,"token_ids":[27,9],"order":2,"text":"return (","frequency":14}
+{"row":901,"token_ids":[29,717],"order":2,"text":"an absolute","frequency":14}
+{"row":902,"token_ids":[30,23],"order":2,"text":"= \"","frequency":14}
+{"row":903,"token_ids":[33,20],"order":2,"text":"as for","frequency":14}
+{"row":904,"token_ids":[34,111],"order":2,"text":"it must","frequency":14}
+{"row":905,"token_ids":[51,320],"order":2,"text":"on windows","frequency":14}
+{"row":906,"token_ids":[53,35],"order":2,"text":"which are","frequency":14}
+{"row":907,"token_ids":[67,11],"order":2,"text":"path '","frequency":14}
+{"row":908,"token_ids":[71,10],"order":2,"text":"0 )","frequency":14}
+{"row":909,"token_ids":[72,46],"order":2,"text":"module name","frequency":14}
+{"row":910,"token_ids":[73,5],"order":2,"text":"line .","frequency":14}
+{"row":911,"token_ids":[74,6],"order":2,"text":"; the","frequency":14}
+{"row":912,"token_ids":[80,68],"order":2,"text":"no argument","frequency":14}
+{"row":913,"token_ids":[81,7],"order":2,"text":"arguments ,","frequency":14}
+{"row":914,"token_ids":[83,7],"order":2,"text":"message ,","frequency":14}
+{"row":915,"token_ids":[91,259],"order":2,"text":"at most","frequency":14}
+{"row":916,"token_ids":[94,13],"order":2,"text":"exception is","frequency":14}
+{"row":917,"token_ids":[98,6],"order":2,"text":"has the","frequency":14}
+{"row":918,"token_ids":[98,8],"order":2,"text":"has a","frequency":14}
+{"row":919,"token_ids":[100,10],"order":2,"text":"c )","frequency":14}
+{"row":920,"token_ids":[100,30],"order":2,"text":"c =","frequency":14}
+{"row":921,"token_ids":[106,35],"order":2,"text":"values are","frequency":14}
+{"row":922,"token_ids":[115,12],"order":2,"text":"2 -","frequency":14}
+{"row":923,"token_ids":[120,40],"order":2,"text":"code object","frequency":14}
+{"row":924,"token_ids":[125,30],"order":2,"text":"mode =","frequency":14}
+{"row":925,"token_ids":[128,29],"order":2,"text":"create an","frequency":14}
+{"row":926,"token_ids":[138,5],"order":2,"text":"event .","frequency":14}
+{"row":927,"token_ids":[151,8],"order":2,"text":"raise a","frequency":14}
+{"row":928,"token_ids":[162,5],"order":2,"text":"methods .","frequency":14}
+{"row":929,"token_ids":[167,5],"order":2,"text":"output .","frequency":14}
+{"row":930,"token_ids":[176,15],"order":2,"text":"names of","frequency":14}
+{"row":931,"token_ids":[177,22],"order":2,"text":"passed in","frequency":14}
+{"row":932,"token_ids":[188,5],"order":2,"text":"characters .","frequency":14}
+{"row":933,"token_ids":[202,5],"order":2,"text":"element .","frequency":14}
+{"row":934,"token_ids":[210,15],"order":2,"text":"size of","frequency":14}
+{"row":935,"token_ids":[213,14],"order":2,"text":"order to","frequency":14}
+{"row":936,"token_ids":[224,17],"order":2,"text":"note :","frequency":14}
+{"row":937,"token_ids":[243,5],"order":2,"text":"connection .","frequency":14}
+{"row":938,"token_ids":[280,16],"order":2,"text":"io >","frequency":14}
+{"row":939,"token_ids":[286,5],"order":2,"text":"window .","frequency":14}
+{"row":940,"token_ids":[338,6],"order":2,"text":"specifies the","frequency":14}
+{"row":941,"token_ids":[407,5],"order":2,"text":"directly .","frequency":14}
+{"row":942,"token_ids":[417,14],"order":2,"text":"equal to","frequency":14}
+{"row":943,"token_ids":[453,14],"order":2,"text":"expected to","frequency":14}
+{"row":944,"token_ids":[487,5],"order":2,"text":"immediately .","frequency":14}
+{"row":945,"token_ids":[523,36],"order":2,"text":"written by","frequency":14}
+{"row":946,"token_ids":[540,10],"order":2,"text":"com )","frequency":14}
+{"row":947,"token_ids":[622,14],"order":2,"text":"try to","frequency":14}
+{"row":948,"token_ids":[740,7],"order":2,"text":"however ,","frequency":14}
+{"row":949,"token_ids":[5,206],"order":2,"text":". we","frequency":13}
+{"row":950,"token_ids":[5,281],"order":2,"text":". these","frequency":13}
+{"row":951,"token_ids":[6,515],"order":2,"text":"the maximum","frequency":13}
+{"row":952,"token_ids":[6,795],"order":2,"text":"the resulting","frequency":13}
+{"row":953,"token_ids":[7,38],"order":2,"text":", file","frequency":13}
+{"row":954,"token_ids":[7,61],"order":2,"text":", given","frequency":13}
+{"row":955,"token_ids":[7,206],"order":2,"text":", we","frequency":13}
+{"row":956,"token_ids":[7,893],"order":2,"text":", y1","frequency":13}
+{"row":957,"token_ids":[8,25],"order":2,"text":"a *","frequency":13}
+{"row":958,"token_ids":[8,115],"order":2,"text":"a 2","frequency":13}
+{"row":959,"token_ids":[8,127],"order":2,"text":"a call","frequency":13}
+{"row":960,"token_ids":[8,257],"order":2,"text":"a future","frequency":13}
+{"row":961,"token_ids":[10,31],"order":2,"text":") with","frequency":13}
+{"row":962,"token_ids":[11,8],"order":2,"text":"' a","frequency":13}
+{"row":963,"token_ids":[11,25],"order":2,"text":"' *","frequency":13}
+{"row":964,"token_ids":[11,46],"order":2,"text":"' name","frequency":13}
+{"row":965,"token_ids":[11,375],"order":2,"text":"' foo","frequency":13}
+{"row":966,"token_ids":[12,57],"order":2,"text":"- list","frequency":13}
+{"row":967,"token_ids":[14,227],"order":2,"text":"to do","frequency":13}
+{"row":968,"token_ids":[15,11],"order":2,"text":"of '","frequency":13}
+{"row":969,"token_ids":[15,180],"order":2,"text":"of lines","frequency":13}
+{"row":970,"token_ids":[17,42],"order":2,"text":": string","frequency":13}
+{"row":971,"token_ids":[17,48],"order":2,"text":": class","frequency":13}
+{"row":972,"token_ids":[18,43],"order":2,"text":"and will","frequency":13}
+{"row":973,"token_ids":[21,18],"order":2,"text":"` and","frequency":13}
+{"row":974,"token_ids":[22,11],"order":2,"text":"in '","frequency":13}
+{"row":975,"token_ids":[22,21],"order":2,"text":"in `","frequency":13}
+{"row":976,"token_ids":[23,9],"order":2,"text":"\" (","frequency":13}
+{"row":977,"token_ids":[23,96],"order":2,"text":"\" \\","frequency":13}
+{"row":978,"token_ids":[24,177],"order":2,"text":"be passed","frequency":13}
+{"row":979,"token_ids":[25,163],"order":2,"text":"* args","frequency":13}
+{"row":980,"token_ids":[26,94],"order":2,"text":"this exception","frequency":13}
+{"row":981,"token_ids":[28,19],"order":2,"text":"or if","frequency":13}
+{"row":982,"token_ids":[28,23],"order":2,"text":"or \"","frequency":13}
+{"row":983,"token_ids":[30,45],"order":2,"text":"= [","frequency":13}
+{"row":984,"token_ids":[30,87],"order":2,"text":"= b","frequency":13}
+{"row":985,"token_ids":[32,79],"order":2,"text":"that should","frequency":13}
+{"row":986,"token_ids":[34,416],"order":2,"text":"it doesn","frequency":13}
+{"row":987,"token_ids":[37,801],"order":2,"text":"/ vendors","frequency":13}
+{"row":988,"token_ids":[38,581],"order":2,"text":"file descriptor","frequency":13}
+{"row":989,"token_ids":[40,31],"order":2,"text":"object with","frequency":13}
+{"row":990,"token_ids":[41,22],"order":2,"text":"not in","frequency":13}
+{"row":991,"token_ids":[42,10],"order":2,"text":"string )","frequency":13}
+{"row":992,"token_ids":[42,22],"order":2,"text":"string in","frequency":13}
+{"row":993,"token_ids":[42,47],"order":2,"text":"string ]","frequency":13}
+{"row":994,"token_ids":[45,42],"order":2,"text":"[ string","frequency":13}
+{"row":995,"token_ids":[48,32],"order":2,"text":"class that","frequency":13}
+{"row":996,"token_ids":[50,15],"order":2,"text":"all of","frequency":13}
+{"row":997,"token_ids":[54,5],"order":2,"text":"s .","frequency":13}
+{"row":998,"token_ids":[55,11],"order":2,"text":"can '","frequency":13}
+{"row":999,"token_ids":[58,62],"order":2,"text":"used when","frequency":13}
+{"row":1000,"token_ids":[16,16,16],"order":3,"text":"> > >","frequency":298}
+{"row":1001,"token_ids":[8,57,15],"order":3,"text":"a list of","frequency":115}
+{"row":1002,"token_ids":[9,10,5],"order":3,"text":"( ) .","frequency":106}
+{"row":1003,"token_ids":[5,19,6],"order":3,"text":". if the","frequency":102}
+{"row":1004,"token_ids":[27,56,19],"order":3,"text":"return true if","frequency":89}
+{"row":1005,"token_ids":[49,9,11],"order":3,"text":"decimal ( '","frequency":89}
+{"row":1006,"token_ids":[5,5,5],"order":3,"text":". . .","frequency":81}
+{"row":1007,"token_ids":[5,16,16],"order":3,"text":". > >","frequency":76}
+{"row":1008,"token_ids":[10,16,16],"order":3,"text":") > >","frequency":71}
+{"row":1009,"token_ids":[56,19,6],"order":3,"text":"true if the","frequency":71}
+{"row":1010,"token_ids":[10,12,16],"order":3,"text":") - >","frequency":70}
+{"row":1011,"token_ids":[5,26,13],"order":3,"text":". this is","frequency":69}
+{"row":1012,"token_ids":[103,5,157],"order":3,"text":"e . g","frequency":68}
+{"row":1013,"token_ids":[5,157,5],"order":3,"text":". g .","frequency":65}
+{"row":1014,"token_ids":[6,70,15],"order":3,"text":"the number of","frequency":60}
+{"row":1015,"token_ids":[9,49,9],"order":3,"text":"( decimal (","frequency":54}
+{"row":1016,"token_ids":[11,10,10],"order":3,"text":"' ) )","frequency":54}
+{"row":1017,"token_ids":[30,30,30],"order":3,"text":"= = =","frequency":54}
+{"row":1018,"token_ids":[9,10,7],"order":3,"text":"( ) ,","frequency":53}
+{"row":1019,"token_ids":[11,7,11],"order":3,"text":"' , '","frequency":53}
+{"row":1020,"token_ids":[16,16,122],"order":3,"text":"> > extendedcontext","frequency":52}
+{"row":1021,"token_ids":[16,122,5],"order":3,"text":"> extendedcontext .","frequency":52}
+{"row":1022,"token_ids":[12,12,12],"order":3,"text":"- - -","frequency":51}
+{"row":1023,"token_ids":[12,124,40],"order":3,"text":"- like object","frequency":49}
+{"row":1024,"token_ids":[6,46,15],"order":3,"text":"the name of","frequency":48}
+{"row":1025,"token_ids":[25,25,25],"order":3,"text":"* * *","frequency":45}
+{"row":1026,"token_ids":[23,7,23],"order":3,"text":"\" , \"","frequency":44}
+{"row":1027,"token_ids":[17,16,16],"order":3,"text":": > >","frequency":42}
+{"row":1028,"token_ids":[27,8,57],"order":3,"text":"return a list","frequency":42}
+{"row":1029,"token_ids":[5,26,63],"order":3,"text":". this method","frequency":41}
+{"row":1030,"token_ids":[5,329,11],"order":3,"text":". txt '","frequency":41}
+{"row":1031,"token_ids":[24,58,14],"order":3,"text":"be used to","frequency":40}
+{"row":1032,"token_ids":[9,10,63],"order":3,"text":"( ) method","frequency":39}
+{"row":1033,"token_ids":[46,15,6],"order":3,"text":"name of the","frequency":39}
+{"row":1034,"token_ids":[416,11,113],"order":3,"text":"doesn ' t","frequency":39}
+{"row":1035,"token_ids":[172,48,20],"order":3,"text":"base class for","frequency":38}
+{"row":1036,"token_ids":[82,158,258],"order":3,"text":"python character mapping","frequency":36}
+{"row":1037,"token_ids":[158,258,288],"order":3,"text":"character mapping codec","frequency":36}
+{"row":1038,"token_ids":[9,103,5],"order":3,"text":"( e .","frequency":35}
+{"row":1039,"token_ids":[16,16,100],"order":3,"text":"> > c","frequency":35}
+{"row":1040,"token_ids":[5,224,32],"order":3,"text":". note that","frequency":34}
+{"row":1041,"token_ids":[5,274,5],"order":3,"text":". py .","frequency":34}
+{"row":1042,"token_ids":[11,10,16],"order":3,"text":"' ) >","frequency":33}
+{"row":1043,"token_ids":[11,31,565],"order":3,"text":"' with gencodec","frequency":33}
+{"row":1044,"token_ids":[31,565,5],"order":3,"text":"with gencodec .","frequency":33}
+{"row":1045,"token_ids":[55,24,58],"order":3,"text":"can be used","frequency":33}
+{"row":1046,"token_ids":[329,11,31],"order":3,"text":"txt ' with","frequency":33}
+{"row":1047,"token_ids":[337,39,11],"order":3,"text":"generated from '","frequency":33}
+{"row":1048,"token_ids":[565,5,274],"order":3,"text":"gencodec . py","frequency":33}
+{"row":1049,"token_ids":[8,131,15],"order":3,"text":"a tuple of","frequency":32}
+{"row":1050,"token_ids":[19,34,13],"order":3,"text":"if it is","frequency":30}
+{"row":1051,"token_ids":[5,27,6],"order":3,"text":". return the","frequency":29}
+{"row":1052,"token_ids":[7,28,65],"order":3,"text":", or none","frequency":29}
+{"row":1053,"token_ids":[9,10,18],"order":3,"text":"( ) and","frequency":29}
+{"row":1054,"token_ids":[26,63,13],"order":3,"text":"this method is","frequency":29}
+{"row":1055,"token_ids":[28,65,19],"order":3,"text":"or none if","frequency":29}
+{"row":1056,"token_ids":[34,11,54],"order":3,"text":"it ' s","frequency":29}
+{"row":1057,"token_ids":[38,12,124],"order":3,"text":"file - like","frequency":29}
+{"row":1058,"token_ids":[26,101,5],"order":3,"text":"this widget .","frequency":28}
+{"row":1059,"token_ids":[5,26,59],"order":3,"text":". this function","frequency":27}
+{"row":1060,"token_ids":[5,52,17],"order":3,"text":". returns :","frequency":27}
+{"row":1061,"token_ids":[7,18,6],"order":3,"text":", and the","frequency":27}
+{"row":1062,"token_ids":[15,26,101],"order":3,"text":"of this widget","frequency":27}
+{"row":1063,"token_ids":[47,10,30],"order":3,"text":"] ) =","frequency":27}
+{"row":1064,"token_ids":[111,24,8],"order":3,"text":"must be a","frequency":27}
+{"row":1065,"token_ids":[5,19,34],"order":3,"text":". if it","frequency":26}
+{"row":1066,"token_ids":[5,20,145],"order":3,"text":". for example","frequency":26}
+{"row":1067,"token_ids":[5,52,8],"order":3,"text":". returns a","frequency":26}
+{"row":1068,"token_ids":[5,147,7],"order":3,"text":". otherwise ,","frequency":26}
+{"row":1069,"token_ids":[5,163,17],"order":3,"text":". args :","frequency":26}
+{"row":1070,"token_ids":[7,45,69],"order":3,"text":", [ data","frequency":26}
+{"row":1071,"token_ids":[9,20,8],"order":3,"text":"( for a","frequency":26}
+{"row":1072,"token_ids":[9,730,7],"order":3,"text":"( typ ,","frequency":26}
+{"row":1073,"token_ids":[10,5,19],"order":3,"text":") . if","frequency":26}
+{"row":1074,"token_ids":[10,30,126],"order":3,"text":") = <","frequency":26}
+{"row":1075,"token_ids":[13,109,5],"order":3,"text":"is returned .","frequency":26}
+{"row":1076,"token_ids":[30,126,76],"order":3,"text":"= < instance","frequency":26}
+{"row":1077,"token_ids":[76,16,5],"order":3,"text":"instance > .","frequency":26}
+{"row":1078,"token_ids":[96,535,96],"order":3,"text":"\\ x00 \\","frequency":26}
+{"row":1079,"token_ids":[126,76,16],"order":3,"text":"< instance >","frequency":26}
+{"row":1080,"token_ids":[730,7,45],"order":3,"text":"typ , [","frequency":26}
+{"row":1081,"token_ids":[5,19,8],"order":3,"text":". if a","frequency":25}
+{"row":1082,"token_ids":[6,27,44],"order":3,"text":"the return value","frequency":25}
+{"row":1083,"token_ids":[7,560,7],"order":3,"text":", cursor ,","frequency":25}
+{"row":1084,"token_ids":[10,5,6],"order":3,"text":") . the","frequency":25}
+{"row":1085,"token_ids":[18,27,6],"order":3,"text":"and return the","frequency":25}
+{"row":1086,"token_ids":[92,7,205],"order":3,"text":"x , y","frequency":25}
+{"row":1087,"token_ids":[260,351,5],"order":3,"text":"parent master .","frequency":25}
+{"row":1088,"token_ids":[7,103,5],"order":3,"text":", e .","frequency":24}
+{"row":1089,"token_ids":[45,69,47],"order":3,"text":"[ data ]","frequency":24}
+{"row":1090,"token_ids":[69,47,10],"order":3,"text":"data ] )","frequency":24}
+{"row":1091,"token_ids":[145,9,20],"order":3,"text":"example ( for","frequency":24}
+{"row":1092,"token_ids":[280,5,525],"order":3,"text":"io . bytesio","frequency":24}
+{"row":1093,"token_ids":[5,9,730],"order":3,"text":". ( typ","frequency":23}
+{"row":1094,"token_ids":[5,17,468],"order":3,"text":". : param","frequency":23}
+{"row":1095,"token_ids":[5,103,5],"order":3,"text":". e .","frequency":23}
+{"row":1096,"token_ids":[5,145,9],"order":3,"text":". example (","frequency":23}
+{"row":1097,"token_ids":[5,525,9],"order":3,"text":". bytesio (","frequency":23}
+{"row":1098,"token_ids":[10,17,16],"order":3,"text":") : >","frequency":23}
+{"row":1099,"token_ids":[13,29,102],"order":3,"text":"is an optional","frequency":23}
+{"row":1100,"token_ids":[17,37,37],"order":3,"text":": / /","frequency":23}
+{"row":1101,"token_ids":[27,44,13],"order":3,"text":"return value is","frequency":23}
+{"row":1102,"token_ids":[89,15,6],"order":3,"text":"one of the","frequency":23}
+{"row":1103,"token_ids":[128,8,105],"order":3,"text":"create a new","frequency":23}
+{"row":1104,"token_ids":[250,12,663],"order":3,"text":"xml - rpc","frequency":23}
+{"row":1105,"token_ids":[5,6,102],"order":3,"text":". the optional","frequency":22}
+{"row":1106,"token_ids":[5,219,189],"order":3,"text":". standard options","frequency":22}
+{"row":1107,"token_ids":[6,44,15],"order":3,"text":"the value of","frequency":22}
+{"row":1108,"token_ids":[6,142,13],"order":3,"text":"the result is","frequency":22}
+{"row":1109,"token_ids":[8,42,5],"order":3,"text":"a string .","frequency":22}
+{"row":1110,"token_ids":[9,10,13],"order":3,"text":"( ) is","frequency":22}
+{"row":1111,"token_ids":[9,280,5],"order":3,"text":"( io .","frequency":22}
+{"row":1112,"token_ids":[10,49,9],"order":3,"text":") decimal (","frequency":22}
+{"row":1113,"token_ids":[12,12,8],"order":3,"text":"- - a","frequency":22}
+{"row":1114,"token_ids":[17,5,5],"order":3,"text":": . .","frequency":22}
+{"row":1115,"token_ids":[351,5,219],"order":3,"text":"master . standard","frequency":22}
+{"row":1116,"token_ids":[535,96,535],"order":3,"text":"x00 \\ x00","frequency":22}
+{"row":1117,"token_ids":[704,11,113],"order":3,"text":"isn ' t","frequency":22}
+{"row":1118,"token_ids":[5,19,80],"order":3,"text":". if no","frequency":21}
+{"row":1119,"token_ids":[5,81,17],"order":3,"text":". arguments :","frequency":21}
+{"row":1120,"token_ids":[9,10,12],"order":3,"text":"( ) -","frequency":21}
+{"row":1121,"token_ids":[9,11,12],"order":3,"text":"( ' -","frequency":21}
+{"row":1122,"token_ids":[26,13,8],"order":3,"text":"this is a","frequency":21}
+{"row":1123,"token_ids":[74,147,27],"order":3,"text":"; otherwise return","frequency":21}
+{"row":1124,"token_ids":[256,12,78],"order":3,"text":"content - type","frequency":21}
+{"row":1125,"token_ids":[525,9,87],"order":3,"text":"bytesio ( b","frequency":21}
+{"row":1126,"token_ids":[5,26,72],"order":3,"text":". this module","frequency":20}
+{"row":1127,"token_ids":[5,36,66],"order":3,"text":". by default","frequency":20}
+{"row":1128,"token_ids":[6,142,15],"order":3,"text":"the result of","frequency":20}
+{"row":1129,"token_ids":[9,10,14],"order":3,"text":"( ) to","frequency":20}
+{"row":1130,"token_ids":[9,10,21],"order":3,"text":"( ) `","frequency":20}
+{"row":1131,"token_ids":[9,11,71],"order":3,"text":"( ' 0","frequency":20}
+{"row":1132,"token_ids":[10,10,49],"order":3,"text":") ) decimal","frequency":20}
+{"row":1133,"token_ids":[11,746,37],"order":3,"text":"' mappings /","frequency":20}
+{"row":1134,"token_ids":[13,56,7],"order":3,"text":"is true ,","frequency":20}
+{"row":1135,"token_ids":[27,6,70],"order":3,"text":"return the number","frequency":20}
+{"row":1136,"token_ids":[39,11,746],"order":3,"text":"from ' mappings","frequency":20}
+{"row":1137,"token_ids":[70,15,84],"order":3,"text":"number of bytes","frequency":20}
+{"row":1138,"token_ids":[5,19,21],"order":3,"text":". if `","frequency":19}
+{"row":1139,"token_ids":[5,26,48],"order":3,"text":". this class","frequency":19}
+{"row":1140,"token_ids":[6,57,15],"order":3,"text":"the list of","frequency":19}
+{"row":1141,"token_ids":[6,138,237],"order":3,"text":"the event loop","frequency":19}
+{"row":1142,"token_ids":[7,53,13],"order":3,"text":", which is","frequency":19}
+{"row":1143,"token_ids":[9,10,16],"order":3,"text":"( ) >","frequency":19}
+{"row":1144,"token_ids":[11,10,7],"order":3,"text":"' ) ,","frequency":19}
+{"row":1145,"token_ids":[11,18,11],"order":3,"text":"' and '","frequency":19}
+{"row":1146,"token_ids":[12,241,189],"order":3,"text":"- specific options","frequency":19}
+{"row":1147,"token_ids":[18,27,8],"order":3,"text":"and return a","frequency":19}
+{"row":1148,"token_ids":[19,175,13],"order":3,"text":"if there is","frequency":19}
+{"row":1149,"token_ids":[27,8,105],"order":3,"text":"return a new","frequency":19}
+{"row":1150,"token_ids":[33,8,42],"order":3,"text":"as a string","frequency":19}
+{"row":1151,"token_ids":[45,672,47],"order":3,"text":"[ cfws ]","frequency":19}
+{"row":1152,"token_ids":[101,12,241],"order":3,"text":"widget - specific","frequency":19}
+{"row":1153,"token_ids":[138,237,5],"order":3,"text":"event loop .","frequency":19}
+{"row":1154,"token_ids":[190,5,103],"order":3,"text":"i . e","frequency":19}
+{"row":1155,"token_ids":[5,6,27],"order":3,"text":". the return","frequency":18}
+{"row":1156,"token_ids":[6,148,13],"order":3,"text":"the address is","frequency":18}
+{"row":1157,"token_ids":[8,84,40],"order":3,"text":"a bytes object","frequency":18}
+{"row":1158,"token_ids":[8,139,273],"order":3,"text":"a context manager","frequency":18}
+{"row":1159,"token_ids":[11,71,11],"order":3,"text":"' 0 '","frequency":18}
+{"row":1160,"token_ids":[14,24,58],"order":3,"text":"to be used","frequency":18}
+{"row":1161,"token_ids":[16,16,239],"order":3,"text":"> > import","frequency":18}
+{"row":1162,"token_ids":[19,6,148],"order":3,"text":"if the address","frequency":18}
+{"row":1163,"token_ids":[26,59,13],"order":3,"text":"this function is","frequency":18}
+{"row":1164,"token_ids":[27,8,131],"order":3,"text":"return a tuple","frequency":18}
+{"row":1165,"token_ids":[36,66,7],"order":3,"text":"by default ,","frequency":18}
+{"row":1166,"token_ids":[52,56,19],"order":3,"text":"returns true if","frequency":18}
+{"row":1167,"token_ids":[190,37,466],"order":3,"text":"i / o","frequency":18}
+{"row":1168,"token_ids":[650,11,113],"order":3,"text":"don ' t","frequency":18}
+{"row":1169,"token_ids":[6,141,33],"order":3,"text":"the same as","frequency":17}
+{"row":1170,"token_ids":[9,6,66],"order":3,"text":"( the default","frequency":17}
+{"row":1171,"token_ids":[11,16,16],"order":3,"text":"' > >","frequency":17}
+{"row":1172,"token_ids":[14,8,38],"order":3,"text":"to a file","frequency":17}
+{"row":1173,"token_ids":[16,100,5],"order":3,"text":"> c .","frequency":17}
+{"row":1174,"token_ids":[25,13,8],"order":3,"text":"* is a","frequency":17}
+{"row":1175,"token_ids":[25,13,29],"order":3,"text":"* is an","frequency":17}
+{"row":1176,"token_ids":[27,6,107],"order":3,"text":"return the current","frequency":17}
+{"row":1177,"token_ids":[29,76,15],"order":3,"text":"an instance of","frequency":17}
+{"row":1178,"token_ids":[63,13,75],"order":3,"text":"method is called","frequency":17}
+{"row":1179,"token_ids":[71,11,10],"order":3,"text":"0 ' )","frequency":17}
+{"row":1180,"token_ids":[84,12,124],"order":3,"text":"bytes - like","frequency":17}
+{"row":1181,"token_ids":[405,172,48],"order":3,"text":"abstract base class","frequency":17}
+{"row":1182,"token_ids":[601,12,22],"order":3,"text":"built - in","frequency":17}
+{"row":1183,"token_ids":[5,62,6],"order":3,"text":". when the","frequency":16}
+{"row":1184,"token_ids":[6,256,12],"order":3,"text":"the content -","frequency":16}
+{"row":1185,"token_ids":[7,34,13],"order":3,"text":", it is","frequency":16}
+{"row":1186,"token_ids":[7,34,43],"order":3,"text":", it will","frequency":16}
+{"row":1187,"token_ids":[7,121,6],"order":3,"text":", then the","frequency":16}
+{"row":1188,"token_ids":[8,42,7],"order":3,"text":"a string ,","frequency":16}
+{"row":1189,"token_ids":[9,87,23],"order":3,"text":"( b \"","frequency":16}
+{"row":1190,"token_ids":[9,90,10],"order":3,"text":"( self )","frequency":16}
+{"row":1191,"token_ids":[11,113,24],"order":3,"text":"' t be","frequency":16}
+{"row":1192,"token_ids":[13,8,57],"order":3,"text":"is a list","frequency":16}
+{"row":1193,"token_ids":[13,170,5],"order":3,"text":"is raised .","frequency":16}
+{"row":1194,"token_ids":[20,145,17],"order":3,"text":"for example :","frequency":16}
+{"row":1195,"token_ids":[21,7,21],"order":3,"text":"` , `","frequency":16}
+{"row":1196,"token_ids":[21,21,5],"order":3,"text":"` ` .","frequency":16}
+{"row":1197,"token_ids":[27,116,5],"order":3,"text":"return false .","frequency":16}
+{"row":1198,"token_ids":[29,328,15],"order":3,"text":"an iterable of","frequency":16}
+{"row":1199,"token_ids":[147,27,116],"order":3,"text":"otherwise return false","frequency":16}
+{"row":1200,"token_ids":[189,48,7],"order":3,"text":"options class ,","frequency":16}
+{"row":1201,"token_ids":[207,25,25],"order":3,"text":"10 * *","frequency":16}
+{"row":1202,"token_ids":[219,189,48],"order":3,"text":"standard options class","frequency":16}
+{"row":1203,"token_ids":[326,51,6],"order":3,"text":"based on the","frequency":16}
+{"row":1204,"token_ids":[400,9,11],"order":3,"text":"counter ( '","frequency":16}
+{"row":1205,"token_ids":[5,6,142],"order":3,"text":". the result","frequency":15}
+{"row":1206,"token_ids":[6,152,5],"order":3,"text":"the server .","frequency":15}
+{"row":1207,"token_ids":[6,229,15],"order":3,"text":"the end of","frequency":15}
+{"row":1208,"token_ids":[6,260,351],"order":3,"text":"the parent master","frequency":15}
+{"row":1209,"token_ids":[7,5,5],"order":3,"text":", . .","frequency":15}
+{"row":1210,"token_ids":[7,18,27],"order":3,"text":", and return","frequency":15}
+{"row":1211,"token_ids":[7,49,9],"order":3,"text":", decimal (","frequency":15}
+{"row":1212,"token_ids":[7,366,7],"order":3,"text":", style ,","frequency":15}
+{"row":1213,"token_ids":[8,38,12],"order":3,"text":"a file -","frequency":15}
+{"row":1214,"token_ids":[9,10,11],"order":3,"text":"( ) '","frequency":15}
+{"row":1215,"token_ids":[9,46,7],"order":3,"text":"( name ,","frequency":15}
+{"row":1216,"token_ids":[10,7,49],"order":3,"text":") , decimal","frequency":15}
+{"row":1217,"token_ids":[10,7,112],"order":3,"text":") , but","frequency":15}
+{"row":1218,"token_ids":[11,87,11],"order":3,"text":"' b '","frequency":15}
+{"row":1219,"token_ids":[11,804,5],"order":3,"text":"' 192.0 .","frequency":15}
+{"row":1220,"token_ids":[12,78,104],"order":3,"text":"- type header","frequency":15}
+{"row":1221,"token_ids":[13,8,42],"order":3,"text":"is a string","frequency":15}
+{"row":1222,"token_ids":[16,239,280],"order":3,"text":"> import io","frequency":15}
+{"row":1223,"token_ids":[19,6,257],"order":3,"text":"if the future","frequency":15}
+{"row":1224,"token_ids":[23,10,10],"order":3,"text":"\" ) )","frequency":15}
+{"row":1225,"token_ids":[25,13,6],"order":3,"text":"* is the","frequency":15}
+{"row":1226,"token_ids":[26,13,6],"order":3,"text":"this is the","frequency":15}
+{"row":1227,"token_ids":[31,6,260],"order":3,"text":"with the parent","frequency":15}
+{"row":1228,"token_ids":[37,1095,37],"order":3,"text":"/ micsft /","frequency":15}
+{"row":1229,"token_ids":[40,5,6],"order":3,"text":"object . the","frequency":15}
+{"row":1230,"token_ids":[43,24,75],"order":3,"text":"will be called","frequency":15}
+{"row":1231,"token_ids":[44,13,8],"order":3,"text":"value is a","frequency":15}
+{"row":1232,"token_ids":[52,17,8],"order":3,"text":"returns : a","frequency":15}
+{"row":1233,"token_ids":[57,15,50],"order":3,"text":"list of all","frequency":15}
+{"row":1234,"token_ids":[75,62,6],"order":3,"text":"called when the","frequency":15}
+{"row":1235,"token_ids":[84,40,5],"order":3,"text":"bytes object .","frequency":15}
+{"row":1236,"token_ids":[101,31,6],"order":3,"text":"widget with the","frequency":15}
+{"row":1237,"token_ids":[175,13,80],"order":3,"text":"there is no","frequency":15}
+{"row":1238,"token_ids":[366,7,753],"order":3,"text":"style , takefocus","frequency":15}
+{"row":1239,"token_ids":[426,14,6],"order":3,"text":"according to the","frequency":15}
+{"row":1240,"token_ids":[801,37,1095],"order":3,"text":"vendors / micsft","frequency":15}
+{"row":1241,"token_ids":[5,6,66],"order":3,"text":". the default","frequency":14}
+{"row":1242,"token_ids":[5,19,11],"order":3,"text":". if '","frequency":14}
+{"row":1243,"token_ids":[5,19,25],"order":3,"text":". if *","frequency":14}
+{"row":1244,"token_ids":[5,27,8],"order":3,"text":". return a","frequency":14}
+{"row":1245,"token_ids":[5,129,55],"order":3,"text":". you can","frequency":14}
+{"row":1246,"token_ids":[6,38,5],"order":3,"text":"the file .","frequency":14}
+{"row":1247,"token_ids":[6,40,13],"order":3,"text":"the object is","frequency":14}
+{"row":1248,"token_ids":[6,66,10],"order":3,"text":"the default )","frequency":14}
+{"row":1249,"token_ids":[7,28,8],"order":3,"text":", or a","frequency":14}
+{"row":1250,"token_ids":[8,218,15],"order":3,"text":"a sequence of","frequency":14}
+{"row":1251,"token_ids":[10,7,18],"order":3,"text":") , and","frequency":14}
+{"row":1252,"token_ids":[10,13,75],"order":3,"text":") is called","frequency":14}
+{"row":1253,"token_ids":[11,10,5],"order":3,"text":"' ) .","frequency":14}
+{"row":1254,"token_ids":[11,28,11],"order":3,"text":"' or '","frequency":14}
+{"row":1255,"token_ids":[13,58,5],"order":3,"text":"is used .","frequency":14}
+{"row":1256,"token_ids":[16,16,99],"order":3,"text":"> > turtle","frequency":14}
+{"row":1257,"token_ids":[19,6,40],"order":3,"text":"if the object","frequency":14}
+{"row":1258,"token_ids":[20,6,85],"order":3,"text":"for the specified","frequency":14}
+{"row":1259,"token_ids":[26,48,13],"order":3,"text":"this class is","frequency":14}
+{"row":1260,"token_ids":[31,6,85],"order":3,"text":"with the specified","frequency":14}
+{"row":1261,"token_ids":[32,43,24],"order":3,"text":"that will be","frequency":14}
+{"row":1262,"token_ids":[34,13,8],"order":3,"text":"it is a","frequency":14}
+{"row":1263,"token_ids":[41,61,7],"order":3,"text":"not given ,","frequency":14}
+{"row":1264,"token_ids":[46,15,8],"order":3,"text":"name of a","frequency":14}
+{"row":1265,"token_ids":[52,8,57],"order":3,"text":"returns a list","frequency":14}
+{"row":1266,"token_ids":[52,8,131],"order":3,"text":"returns a tuple","frequency":14}
+{"row":1267,"token_ids":[65,19,6],"order":3,"text":"none if the","frequency":14}
+{"row":1268,"token_ids":[239,280,16],"order":3,"text":"import io >","frequency":14}
+{"row":1269,"token_ids":[265,15,6],"order":3,"text":"copy of the","frequency":14}
+{"row":1270,"token_ids":[280,16,16],"order":3,"text":"io > >","frequency":14}
+{"row":1271,"token_ids":[340,8,555],"order":3,"text":"construct a ttk","frequency":14}
+{"row":1272,"token_ids":[396,14,6],"order":3,"text":"added to the","frequency":14}
+{"row":1273,"token_ids":[5,19,129],"order":3,"text":". if you","frequency":13}
+{"row":1274,"token_ids":[5,34,13],"order":3,"text":". it is","frequency":13}
+{"row":1275,"token_ids":[5,67,5],"order":3,"text":". path .","frequency":13}
+{"row":1276,"token_ids":[5,145,17],"order":3,"text":". example :","frequency":13}
+{"row":1277,"token_ids":[5,224,17],"order":3,"text":". note :","frequency":13}
+{"row":1278,"token_ids":[7,753,7],"order":3,"text":", takefocus ,","frequency":13}
+{"row":1279,"token_ids":[8,99,76],"order":3,"text":"a turtle instance","frequency":13}
+{"row":1280,"token_ids":[8,174,12],"order":3,"text":"a non -","frequency":13}
+{"row":1281,"token_ids":[9,10,10],"order":3,"text":"( ) )","frequency":13}
+{"row":1282,"token_ids":[10,5,26],"order":3,"text":") . this","frequency":13}
+{"row":1283,"token_ids":[10,17,5],"order":3,"text":") : .","frequency":13}
+{"row":1284,"token_ids":[11,13,8],"order":3,"text":"' is a","frequency":13}
+{"row":1285,"token_ids":[11,46,11],"order":3,"text":"' name '","frequency":13}
+{"row":1286,"token_ids":[12,12,6],"order":3,"text":"- - the","frequency":13}
+{"row":1287,"token_ids":[13,75,5],"order":3,"text":"is called .","frequency":13}
+{"row":1288,"token_ids":[13,85,7],"order":3,"text":"is specified ,","frequency":13}
+{"row":1289,"token_ids":[14,24,8],"order":3,"text":"to be a","frequency":13}
+{"row":1290,"token_ids":[16,99,5],"order":3,"text":"> turtle .","frequency":13}
+{"row":1291,"token_ids":[16,100,30],"order":3,"text":"> c =","frequency":13}
+{"row":1292,"token_ids":[20,6,61],"order":3,"text":"for the given","frequency":13}
+{"row":1293,"token_ids":[20,6,107],"order":3,"text":"for the current","frequency":13}
+{"row":1294,"token_ids":[20,26,101],"order":3,"text":"for this widget","frequency":13}
+{"row":1295,"token_ids":[22,213,14],"order":3,"text":"in order to","frequency":13}
+{"row":1296,"token_ids":[26,55,24],"order":3,"text":"this can be","frequency":13}
+{"row":1297,"token_ids":[29,149,42],"order":3,"text":"an empty string","frequency":13}
+{"row":1298,"token_ids":[34,416,11],"order":3,"text":"it doesn '","frequency":13}
+{"row":1299,"token_ids":[37,801,37],"order":3,"text":"/ vendors /","frequency":13}
+{"row":1300,"token_ids":[43,41,24],"order":3,"text":"will not be","frequency":13}
+{"row":1301,"token_ids":[44,15,6],"order":3,"text":"value of the","frequency":13}
+{"row":1302,"token_ids":[45,42,47],"order":3,"text":"[ string ]","frequency":13}
+{"row":1303,"token_ids":[55,11,113],"order":3,"text":"can ' t","frequency":13}
+{"row":1304,"token_ids":[56,16,16],"order":3,"text":"true > >","frequency":13}
+{"row":1305,"token_ids":[58,36,6],"order":3,"text":"used by the","frequency":13}
+{"row":1306,"token_ids":[89,28,211],"order":3,"text":"one or more","frequency":13}
+{"row":1307,"token_ids":[91,209,5],"order":3,"text":"at index .","frequency":13}
+{"row":1308,"token_ids":[118,9,10],"order":3,"text":"get ( )","frequency":13}
+{"row":1309,"token_ids":[145,17,17],"order":3,"text":"example : :","frequency":13}
+{"row":1310,"token_ids":[225,5,67],"order":3,"text":"sys . path","frequency":13}
+{"row":1311,"token_ids":[336,15,6],"order":3,"text":"part of the","frequency":13}
+{"row":1312,"token_ids":[428,15,6],"order":3,"text":"contents of the","frequency":13}
+{"row":1313,"token_ids":[540,10,5],"order":3,"text":"com ) .","frequency":13}
+{"row":1314,"token_ids":[746,37,801],"order":3,"text":"mappings / vendors","frequency":13}
+{"row":1315,"token_ids":[892,7,893],"order":3,"text":"x1 , y1","frequency":13}
+{"row":1316,"token_ids":[5,6,130],"order":3,"text":". the first","frequency":12}
+{"row":1317,"token_ids":[5,19,125],"order":3,"text":". if mode","frequency":12}
+{"row":1318,"token_ids":[5,26,55],"order":3,"text":". this can","frequency":12}
+{"row":1319,"token_ids":[5,52,6],"order":3,"text":". returns the","frequency":12}
+{"row":1320,"token_ids":[5,540,10],"order":3,"text":". com )","frequency":12}
+{"row":1321,"token_ids":[6,78,15],"order":3,"text":"the type of","frequency":12}
+{"row":1322,"token_ids":[7,28,6],"order":3,"text":", or the","frequency":12}
+{"row":1323,"token_ids":[7,44,10],"order":3,"text":", value )","frequency":12}
+{"row":1324,"token_ids":[8,7,87],"order":3,"text":"a , b","frequency":12}
+{"row":1325,"token_ids":[8,42,15],"order":3,"text":"a string of","frequency":12}
+{"row":1326,"token_ids":[8,42,28],"order":3,"text":"a string or","frequency":12}
+{"row":1327,"token_ids":[8,265,15],"order":3,"text":"a copy of","frequency":12}
+{"row":1328,"token_ids":[9,10,59],"order":3,"text":"( ) function","frequency":12}
+{"row":1329,"token_ids":[9,11,804],"order":3,"text":"( ' 192.0","frequency":12}
+{"row":1330,"token_ids":[9,100,10],"order":3,"text":"( c )","frequency":12}
+{"row":1331,"token_ids":[9,1276,290],"order":3,"text":"( mal @","frequency":12}
+{"row":1332,"token_ids":[10,10,56],"order":3,"text":") ) true","frequency":12}
+{"row":1333,"token_ids":[10,12,12],"order":3,"text":") - -","frequency":12}
+{"row":1334,"token_ids":[10,56,16],"order":3,"text":") true >","frequency":12}
+{"row":1335,"token_ids":[10,63,5],"order":3,"text":") method .","frequency":12}
+{"row":1336,"token_ids":[12,1240,769],"order":3,"text":"- andre lemburg","frequency":12}
+{"row":1337,"token_ids":[13,41,61],"order":3,"text":"is not given","frequency":12}
+{"row":1338,"token_ids":[13,65,7],"order":3,"text":"is none ,","frequency":12}
+{"row":1339,"token_ids":[13,116,7],"order":3,"text":"is false ,","frequency":12}
+{"row":1340,"token_ids":[15,6,38],"order":3,"text":"of the file","frequency":12}
+{"row":1341,"token_ids":[19,6,72],"order":3,"text":"if the module","frequency":12}
+{"row":1342,"token_ids":[19,34,98],"order":3,"text":"if it has","frequency":12}
+{"row":1343,"token_ids":[19,90,13],"order":3,"text":"if self is","frequency":12}
+{"row":1344,"token_ids":[19,125,30],"order":3,"text":"if mode =","frequency":12}
+{"row":1345,"token_ids":[20,8,99],"order":3,"text":"for a turtle","frequency":12}
+{"row":1346,"token_ids":[21,13,6],"order":3,"text":"` is the","frequency":12}
+{"row":1347,"token_ids":[29,165,5],"order":3,"text":"an integer .","frequency":12}
+{"row":1348,"token_ids":[29,165,7],"order":3,"text":"an integer ,","frequency":12}
+{"row":1349,"token_ids":[30,65,7],"order":3,"text":"= none ,","frequency":12}
+{"row":1350,"token_ids":[31,260,351],"order":3,"text":"with parent master","frequency":12}
+{"row":1351,"token_ids":[32,55,24],"order":3,"text":"that can be","frequency":12}
+{"row":1352,"token_ids":[36,1278,12],"order":3,"text":"by marc -","frequency":12}
+{"row":1353,"token_ids":[48,7,560],"order":3,"text":"class , cursor","frequency":12}
+{"row":1354,"token_ids":[56,19,90],"order":3,"text":"true if self","frequency":12}
+{"row":1355,"token_ids":[58,33,8],"order":3,"text":"used as a","frequency":12}
+{"row":1356,"token_ids":[66,10,7],"order":3,"text":"default ) ,","frequency":12}
+{"row":1357,"token_ids":[76,217,99],"order":3,"text":"instance named turtle","frequency":12}
+{"row":1358,"token_ids":[76,217,295],"order":3,"text":"instance named screen","frequency":12}
+{"row":1359,"token_ids":[88,24,8],"order":3,"text":"may be a","frequency":12}
+{"row":1360,"token_ids":[99,10,17],"order":3,"text":"turtle ) :","frequency":12}
+{"row":1361,"token_ids":[99,76,217],"order":3,"text":"turtle instance named","frequency":12}
+{"row":1362,"token_ids":[117,9,10],"order":3,"text":"read ( )","frequency":12}
+{"row":1363,"token_ids":[125,30,30],"order":3,"text":"mode = =","frequency":12}
+{"row":1364,"token_ids":[217,99,10],"order":3,"text":"named turtle )","frequency":12}
+{"row":1365,"token_ids":[229,15,6],"order":3,"text":"end of the","frequency":12}
+{"row":1366,"token_ids":[268,9,10],"order":3,"text":"close ( )","frequency":12}
+{"row":1367,"token_ids":[290,769,5],"order":3,"text":"@ lemburg .","frequency":12}
+{"row":1368,"token_ids":[523,36,1278],"order":3,"text":"written by marc","frequency":12}
+{"row":1369,"token_ids":[769,5,540],"order":3,"text":"lemburg . com","frequency":12}
+{"row":1370,"token_ids":[769,9,1276],"order":3,"text":"lemburg ( mal","frequency":12}
+{"row":1371,"token_ids":[1240,769,9],"order":3,"text":"andre lemburg (","frequency":12}
+{"row":1372,"token_ids":[1276,290,769],"order":3,"text":"mal @ lemburg","frequency":12}
+{"row":1373,"token_ids":[1278,12,1240],"order":3,"text":"marc - andre","frequency":12}
+{"row":1374,"token_ids":[5,21,21],"order":3,"text":". ` `","frequency":11}
+{"row":1375,"token_ids":[5,52,29],"order":3,"text":". returns an","frequency":11}
+{"row":1376,"token_ids":[6,386,5],"order":3,"text":"the archive .","frequency":11}
+{"row":1377,"token_ids":[6,1199,83],"order":3,"text":"the keyed message","frequency":11}
+{"row":1378,"token_ids":[8,115,12],"order":3,"text":"a 2 -","frequency":11}
+{"row":1379,"token_ids":[8,131,9],"order":3,"text":"a tuple (","frequency":11}
+{"row":1380,"token_ids":[9,190,5],"order":3,"text":"( i .","frequency":11}
+{"row":1381,"token_ids":[10,7,6],"order":3,"text":") , the","frequency":11}
+{"row":1382,"token_ids":[10,126,30],"order":3,"text":") < =","frequency":11}
+{"row":1383,"token_ids":[11,8,11],"order":3,"text":"' a '","frequency":11}
+{"row":1384,"token_ids":[13,6,141],"order":3,"text":"is the same","frequency":11}
+{"row":1385,"token_ids":[13,109,33],"order":3,"text":"is returned as","frequency":11}
+{"row":1386,"token_ids":[13,149,7],"order":3,"text":"is empty ,","frequency":11}
+{"row":1387,"token_ids":[13,453,14],"order":3,"text":"is expected to","frequency":11}
+{"row":1388,"token_ids":[14,6,152],"order":3,"text":"to the server","frequency":11}
+{"row":1389,"token_ids":[14,225,5],"order":3,"text":"to sys .","frequency":11}
+{"row":1390,"token_ids":[15,6,107],"order":3,"text":"of the current","frequency":11}
+{"row":1391,"token_ids":[16,16,295],"order":3,"text":"> > screen","frequency":11}
+{"row":1392,"token_ids":[17,8,42],"order":3,"text":": a string","frequency":11}
+{"row":1393,"token_ids":[17,45,42],"order":3,"text":": [ string","frequency":11}
+{"row":1394,"token_ids":[19,6,38],"order":3,"text":"if the file","frequency":11}
+{"row":1395,"token_ids":[21,21,7],"order":3,"text":"` ` ,","frequency":11}
+{"row":1396,"token_ids":[23,28,23],"order":3,"text":"\" or \"","frequency":11}
+{"row":1397,"token_ids":[26,101,22],"order":3,"text":"this widget in","frequency":11}
+{"row":1398,"token_ids":[33,694,33],"order":3,"text":"as well as","frequency":11}
+{"row":1399,"token_ids":[40,13,8],"order":3,"text":"object is a","frequency":11}
+{"row":1400,"token_ids":[43,24,58],"order":3,"text":"will be used","frequency":11}
+{"row":1401,"token_ids":[57,15,6],"order":3,"text":"list of the","frequency":11}
+{"row":1402,"token_ids":[65,19,80],"order":3,"text":"none if no","frequency":11}
+{"row":1403,"token_ids":[67,13,8],"order":3,"text":"path is a","frequency":11}
+{"row":1404,"token_ids":[79,24,8],"order":3,"text":"should be a","frequency":11}
+{"row":1405,"token_ids":[79,24,58],"order":3,"text":"should be used","frequency":11}
+{"row":1406,"token_ids":[83,11,54],"order":3,"text":"message ' s","frequency":11}
+{"row":1407,"token_ids":[210,15,6],"order":3,"text":"size of the","frequency":11}
+{"row":1408,"token_ids":[217,295,10],"order":3,"text":"named screen )","frequency":11}
+{"row":1409,"token_ids":[295,10,17],"order":3,"text":"screen ) :","frequency":11}
+{"row":1410,"token_ids":[365,12,855],"order":3,"text":"quoted - printable","frequency":11}
+{"row":1411,"token_ids":[494,7,456],"order":3,"text":"year , month","frequency":11}
+{"row":1412,"token_ids":[780,70,15],"order":3,"text":"total number of","frequency":11}
+{"row":1413,"token_ids":[5,6,322],"order":3,"text":". the constructor","frequency":10}
+{"row":1414,"token_ids":[5,19,26],"order":3,"text":". if this","frequency":10}
+{"row":1415,"token_ids":[5,19,65],"order":3,"text":". if none","frequency":10}
+{"row":1416,"token_ids":[5,19,175],"order":3,"text":". if there","frequency":10}
+{"row":1417,"token_ids":[5,27,29],"order":3,"text":". return an","frequency":10}
+{"row":1418,"token_ids":[6,67,14],"order":3,"text":"the path to","frequency":10}
+{"row":1419,"token_ids":[6,68,13],"order":3,"text":"the argument is","frequency":10}
+{"row":1420,"token_ids":[6,99,11],"order":3,"text":"the turtle '","frequency":10}
+{"row":1421,"token_ids":[6,240,5],"order":3,"text":"the queue .","frequency":10}
+{"row":1422,"token_ids":[6,286,273],"order":3,"text":"the window manager","frequency":10}
+{"row":1423,"token_ids":[7,27,6],"order":3,"text":", return the","frequency":10}
+{"row":1424,"token_ids":[7,31,6],"order":3,"text":", with the","frequency":10}
+{"row":1425,"token_ids":[7,56,19],"order":3,"text":", true if","frequency":10}
+{"row":1426,"token_ids":[7,77,6],"order":3,"text":", use the","frequency":10}
+{"row":1427,"token_ids":[7,93,7],"order":3,"text":", text ,","frequency":10}
+{"row":1428,"token_ids":[7,112,31],"order":3,"text":", but with","frequency":10}
+{"row":1429,"token_ids":[7,242,33],"order":3,"text":", such as","frequency":10}
+{"row":1430,"token_ids":[7,333,7],"order":3,"text":", image ,","frequency":10}
+{"row":1431,"token_ids":[7,1253,14],"order":3,"text":", defaulting to","frequency":10}
+{"row":1432,"token_ids":[7,1386,7],"order":3,"text":", relief ,","frequency":10}
+{"row":1433,"token_ids":[8,38,40],"order":3,"text":"a file object","frequency":10}
+{"row":1434,"token_ids":[8,127,14],"order":3,"text":"a call to","frequency":10}
+{"row":1435,"token_ids":[8,646,7],"order":3,"text":"a boolean ,","frequency":10}
+{"row":1436,"token_ids":[8,729,76],"order":3,"text":"a turtlescreen instance","frequency":10}
+{"row":1437,"token_ids":[9,54,10],"order":3,"text":"( s )","frequency":10}
+{"row":1438,"token_ids":[9,66,10],"order":3,"text":"( default )","frequency":10}
+{"row":1439,"token_ids":[9,92,7],"order":3,"text":"( x ,","frequency":10}
+{"row":1440,"token_ids":[9,173,14],"order":3,"text":"( defaults to","frequency":10}
+{"row":1441,"token_ids":[10,5,9],"order":3,"text":") . (","frequency":10}
+{"row":1442,"token_ids":[10,30,30],"order":3,"text":") = =","frequency":10}
+{"row":1443,"token_ids":[11,5,11],"order":3,"text":"' . '","frequency":10}
+{"row":1444,"token_ids":[11,113,583],"order":3,"text":"' t exist","frequency":10}
+{"row":1445,"token_ids":[11,801,37],"order":3,"text":"' vendors /","frequency":10}
+{"row":1446,"token_ids":[12,8,70],"order":3,"text":"- a number","frequency":10}
+{"row":1447,"token_ids":[12,16,165],"order":3,"text":"- > integer","frequency":10}
+{"row":1448,"token_ids":[13,6,46],"order":3,"text":"is the name","frequency":10}
+{"row":1449,"token_ids":[13,56,5],"order":3,"text":"is true .","frequency":10}
+{"row":1450,"token_ids":[13,58,14],"order":3,"text":"is used to","frequency":10}
+{"row":1451,"token_ids":[13,61,7],"order":3,"text":"is given ,","frequency":10}
+{"row":1452,"token_ids":[14,6,61],"order":3,"text":"to the given","frequency":10}
+{"row":1453,"token_ids":[14,6,85],"order":3,"text":"to the specified","frequency":10}
+{"row":1454,"token_ids":[14,6,388],"order":3,"text":"to the corresponding","frequency":10}
+{"row":1455,"token_ids":[14,128,8],"order":3,"text":"to create a","frequency":10}
+{"row":1456,"token_ids":[15,6,85],"order":3,"text":"of the specified","frequency":10}
+{"row":1457,"token_ids":[15,6,316],"order":3,"text":"of the form","frequency":10}
+{"row":1458,"token_ids":[16,295,5],"order":3,"text":"> screen .","frequency":10}
+{"row":1459,"token_ids":[17,8,646],"order":3,"text":": a boolean","frequency":10}
+{"row":1460,"token_ids":[17,29,165],"order":3,"text":": an integer","frequency":10}
+{"row":1461,"token_ids":[18,27,34],"order":3,"text":"and return it","frequency":10}
+{"row":1462,"token_ids":[19,61,7],"order":3,"text":"if given ,","frequency":10}
+{"row":1463,"token_ids":[19,129,394],"order":3,"text":"if you want","frequency":10}
+{"row":1464,"token_ids":[20,8,729],"order":3,"text":"for a turtlescreen","frequency":10}
+{"row":1465,"token_ids":[20,145,7],"order":3,"text":"for example ,","frequency":10}
+{"row":1466,"token_ids":[21,13,56],"order":3,"text":"` is true","frequency":10}
+{"row":1467,"token_ids":[21,18,21],"order":3,"text":"` and `","frequency":10}
+{"row":1468,"token_ids":[22,6,316],"order":3,"text":"in the form","frequency":10}
+{"row":1469,"token_ids":[22,6,469],"order":3,"text":"in the range","frequency":10}
+{"row":1470,"token_ids":[24,58,33],"order":3,"text":"be used as","frequency":10}
+{"row":1471,"token_ids":[26,13,41],"order":3,"text":"this is not","frequency":10}
+{"row":1472,"token_ids":[26,72,360],"order":3,"text":"this module provides","frequency":10}
+{"row":1473,"token_ids":[27,6,44],"order":3,"text":"return the value","frequency":10}
+{"row":1474,"token_ids":[29,94,5],"order":3,"text":"an exception .","frequency":10}
+{"row":1475,"token_ids":[30,56,10],"order":3,"text":"= true )","frequency":10}
+{"row":1476,"token_ids":[39,6,61],"order":3,"text":"from the given","frequency":10}
+{"row":1477,"token_ids":[39,11,801],"order":3,"text":"from ' vendors","frequency":10}
+{"row":1478,"token_ids":[45,64,7],"order":3,"text":"[ 1 ,","frequency":10}
+{"row":1479,"token_ids":[47,10,12],"order":3,"text":"] ) -","frequency":10}
+{"row":1480,"token_ids":[50,15,6],"order":3,"text":"all of the","frequency":10}
+{"row":1481,"token_ids":[50,1493,618],"order":3,"text":"all rights reserved","frequency":10}
+{"row":1482,"token_ids":[52,8,42],"order":3,"text":"returns a string","frequency":10}
+{"row":1483,"token_ids":[57,15,179],"order":3,"text":"list of strings","frequency":10}
+{"row":1484,"token_ids":[68,55,24],"order":3,"text":"argument can be","frequency":10}
+{"row":1485,"token_ids":[99,11,54],"order":3,"text":"turtle ' s","frequency":10}
+{"row":1486,"token_ids":[115,12,131],"order":3,"text":"2 - tuple","frequency":10}
+{"row":1487,"token_ids":[151,29,94],"order":3,"text":"raise an exception","frequency":10}
+{"row":1488,"token_ids":[175,13,8],"order":3,"text":"there is a","frequency":10}
+{"row":1489,"token_ids":[177,14,6],"order":3,"text":"passed to the","frequency":10}
+{"row":1490,"token_ids":[184,14,6],"order":3,"text":"up to the","frequency":10}
+{"row":1491,"token_ids":[186,19,6],"order":3,"text":"test if the","frequency":10}
+{"row":1492,"token_ids":[198,9,10],"order":3,"text":"write ( )","frequency":10}
+{"row":1493,"token_ids":[225,5,621],"order":3,"text":"sys . stderr","frequency":10}
+{"row":1494,"token_ids":[254,5,67],"order":3,"text":"os . path","frequency":10}
+{"row":1495,"token_ids":[258,288,337],"order":3,"text":"mapping codec generated","frequency":10}
+{"row":1496,"token_ids":[288,337,39],"order":3,"text":"codec generated from","frequency":10}
+{"row":1497,"token_ids":[304,9,10],"order":3,"text":"wait ( )","frequency":10}
+{"row":1498,"token_ids":[432,15,6],"order":3,"text":"representation of the","frequency":10}
+{"row":1499,"token_ids":[560,7,366],"order":3,"text":"cursor , style","frequency":10}
+{"row":1500,"token_ids":[579,31,6],"order":3,"text":"associated with the","frequency":10}
+{"row":1501,"token_ids":[646,7,56],"order":3,"text":"boolean , true","frequency":10}
+{"row":1502,"token_ids":[729,76,217],"order":3,"text":"turtlescreen instance named","frequency":10}
+{"row":1503,"token_ids":[770,12,228],"order":3,"text":"low - level","frequency":10}
+{"row":1504,"token_ids":[826,12,321],"order":3,"text":"utf - 8","frequency":10}
+{"row":1505,"token_ids":[5,6,11],"order":3,"text":". the '","frequency":9}
+{"row":1506,"token_ids":[5,9,100],"order":3,"text":". ( c","frequency":9}
+{"row":1507,"token_ids":[5,178,6],"order":3,"text":". see the","frequency":9}
+{"row":1508,"token_ids":[5,263,17],"order":3,"text":". raises :","frequency":9}
+{"row":1509,"token_ids":[6,38,14],"order":3,"text":"the file to","frequency":9}
+{"row":1510,"token_ids":[6,67,5],"order":3,"text":"the path .","frequency":9}
+{"row":1511,"token_ids":[6,83,11],"order":3,"text":"the message '","frequency":9}
+{"row":1512,"token_ids":[6,341,13],"order":3,"text":"the operand is","frequency":9}
+{"row":1513,"token_ids":[6,428,15],"order":3,"text":"the contents of","frequency":9}
+{"row":1514,"token_ids":[6,780,70],"order":3,"text":"the total number","frequency":9}
+{"row":1515,"token_ids":[7,50,1493],"order":3,"text":", all rights","frequency":9}
+{"row":1516,"token_ids":[7,52,8],"order":3,"text":", returns a","frequency":9}
+{"row":1517,"token_ids":[7,116,147],"order":3,"text":", false otherwise","frequency":9}
+{"row":1518,"token_ids":[7,182,7],"order":3,"text":", 3 ,","frequency":9}
+{"row":1519,"token_ids":[7,205,10],"order":3,"text":", y )","frequency":9}
+{"row":1520,"token_ids":[7,377,6],"order":3,"text":", sets the","frequency":9}
+{"row":1521,"token_ids":[7,893,7],"order":3,"text":", y1 ,","frequency":9}
+{"row":1522,"token_ids":[7,906,5],"order":3,"text":", etc .","frequency":9}
+{"row":1523,"token_ids":[7,1088,7],"order":3,"text":", font ,","frequency":9}
+{"row":1524,"token_ids":[7,1224,7],"order":3,"text":", textvariable ,","frequency":9}
+{"row":1525,"token_ids":[8,38,7],"order":3,"text":"a file ,","frequency":9}
+{"row":1526,"token_ids":[8,42,22],"order":3,"text":"a string in","frequency":9}
+{"row":1527,"token_ids":[8,42,271],"order":3,"text":"a string containing","frequency":9}
+{"row":1528,"token_ids":[8,550,38],"order":3,"text":"a regular file","frequency":9}
+{"row":1529,"token_ids":[9,10,28],"order":3,"text":"( ) or","frequency":9}
+{"row":1530,"token_ids":[9,11,1307],"order":3,"text":"( ' 2.50","frequency":9}
+{"row":1531,"token_ids":[9,53,13],"order":3,"text":"( which is","frequency":9}
+{"row":1532,"token_ids":[9,66,17],"order":3,"text":"( default :","frequency":9}
+{"row":1533,"token_ids":[10,7,28],"order":3,"text":") , or","frequency":9}
+{"row":1534,"token_ids":[10,10,116],"order":3,"text":") ) false","frequency":9}
+{"row":1535,"token_ids":[10,116,16],"order":3,"text":") false >","frequency":9}
+{"row":1536,"token_ids":[10,215,5],"order":3,"text":") instead .","frequency":9}
+{"row":1537,"token_ids":[10,1252,1536],"order":3,"text":") copyright cnri","frequency":9}
+{"row":1538,"token_ids":[11,38,11],"order":3,"text":"' file '","frequency":9}
+{"row":1539,"token_ids":[11,301,11],"order":3,"text":"' r '","frequency":9}
+{"row":1540,"token_ids":[11,1307,11],"order":3,"text":"' 2.50 '","frequency":9}
+{"row":1541,"token_ids":[12,8,42],"order":3,"text":"- a string","frequency":9}
+{"row":1542,"token_ids":[14,6,247],"order":3,"text":"to the parser","frequency":9}
+{"row":1543,"token_ids":[14,6,436],"order":3,"text":"to the underlying","frequency":9}
+{"row":1544,"token_ids":[15,26,48],"order":3,"text":"of this class","frequency":9}
+{"row":1545,"token_ids":[17,27,17],"order":3,"text":": return :","frequency":9}
+{"row":1546,"token_ids":[18,52,6],"order":3,"text":"and returns the","frequency":9}
+{"row":1547,"token_ids":[18,52,8],"order":3,"text":"and returns a","frequency":9}
+{"row":1548,"token_ids":[19,6,341],"order":3,"text":"if the operand","frequency":9}
+{"row":1549,"token_ids":[19,34,416],"order":3,"text":"if it doesn","frequency":9}
+{"row":1550,"token_ids":[19,90,5],"order":3,"text":"if self .","frequency":9}
+{"row":1551,"token_ids":[19,210,13],"order":3,"text":"if size is","frequency":9}
+{"row":1552,"token_ids":[21,65,21],"order":3,"text":"` none `","frequency":9}
+{"row":1553,"token_ids":[22,6,57],"order":3,"text":"in the list","frequency":9}
+{"row":1554,"token_ids":[22,6,107],"order":3,"text":"in the current","frequency":9}
+{"row":1555,"token_ids":[24,58,20],"order":3,"text":"be used for","frequency":9}
+{"row":1556,"token_ids":[24,177,14],"order":3,"text":"be passed to","frequency":9}
+{"row":1557,"token_ids":[25,56,25],"order":3,"text":"* true *","frequency":9}
+{"row":1558,"token_ids":[25,207,25],"order":3,"text":"* 10 *","frequency":9}
+{"row":1559,"token_ids":[27,8,42],"order":3,"text":"return a string","frequency":9}
+{"row":1560,"token_ids":[28,65,5],"order":3,"text":"or none .","frequency":9}
+{"row":1561,"token_ids":[29,40,5],"order":3,"text":"an object .","frequency":9}
+{"row":1562,"token_ids":[33,8,84],"order":3,"text":"as a bytes","frequency":9}
+{"row":1563,"token_ids":[34,173,14],"order":3,"text":"it defaults to","frequency":9}
+{"row":1564,"token_ids":[37,25,78],"order":3,"text":"/ * type","frequency":9}
+{"row":1565,"token_ids":[37,1621,37],"order":3,"text":"/ pc /","frequency":9}
+{"row":1566,"token_ids":[39,8,42],"order":3,"text":"from a string","frequency":9}
+{"row":1567,"token_ids":[40,20,6],"order":3,"text":"object for the","frequency":9}
+{"row":1568,"token_ids":[45,71,47],"order":3,"text":"[ 0 ]","frequency":9}
+{"row":1569,"token_ids":[59,13,75],"order":3,"text":"function is called","frequency":9}
+{"row":1570,"token_ids":[62,34,13],"order":3,"text":"when it is","frequency":9}
+{"row":1571,"token_ids":[75,31,6],"order":3,"text":"called with the","frequency":9}
+{"row":1572,"token_ids":[78,104,5],"order":3,"text":"type header .","frequency":9}
+{"row":1573,"token_ids":[87,11,96],"order":3,"text":"b ' \\","frequency":9}
+{"row":1574,"token_ids":[92,18,205],"order":3,"text":"x and y","frequency":9}
+{"row":1575,"token_ids":[94,13,170],"order":3,"text":"exception is raised","frequency":9}
+{"row":1576,"token_ids":[100,10,1252],"order":3,"text":"c ) copyright","frequency":9}
+{"row":1577,"token_ids":[101,22,6],"order":3,"text":"widget in the","frequency":9}
+{"row":1578,"token_ids":[109,5,19],"order":3,"text":"returned . if","frequency":9}
+{"row":1579,"token_ids":[109,33,8],"order":3,"text":"returned as a","frequency":9}
+{"row":1580,"token_ids":[116,147,5],"order":3,"text":"false otherwise .","frequency":9}
+{"row":1581,"token_ids":[139,273,5],"order":3,"text":"context manager .","frequency":9}
+{"row":1582,"token_ids":[173,14,6],"order":3,"text":"defaults to the","frequency":9}
+{"row":1583,"token_ids":[203,395,6],"order":3,"text":"information about the","frequency":9}
+{"row":1584,"token_ids":[209,15,6],"order":3,"text":"index of the","frequency":9}
+{"row":1585,"token_ids":[216,81,5],"order":3,"text":"keyword arguments .","frequency":9}
+{"row":1586,"token_ids":[266,9,10],"order":3,"text":"run ( )","frequency":9}
+{"row":1587,"token_ids":[298,17,37],"order":3,"text":"http : /","frequency":9}
+{"row":1588,"token_ids":[453,14,24],"order":3,"text":"expected to be","frequency":9}
+{"row":1589,"token_ids":[731,11,10],"order":3,"text":"2.1 ' )","frequency":9}
+{"row":1590,"token_ids":[973,16,16],"order":3,"text":"999 > >","frequency":9}
+{"row":1591,"token_ids":[1038,17,37],"order":3,"text":"https : /","frequency":9}
+{"row":1592,"token_ids":[1095,37,1621],"order":3,"text":"micsft / pc","frequency":9}
+{"row":1593,"token_ids":[1252,1536,7],"order":3,"text":"copyright cnri ,","frequency":9}
+{"row":1594,"token_ids":[1307,11,10],"order":3,"text":"2.50 ' )","frequency":9}
+{"row":1595,"token_ids":[1493,618,5],"order":3,"text":"rights reserved .","frequency":9}
+{"row":1596,"token_ids":[1536,7,50],"order":3,"text":"cnri , all","frequency":9}
+{"row":1597,"token_ids":[5,5,10],"order":3,"text":". . )","frequency":8}
+{"row":1598,"token_ids":[5,17,27],"order":3,"text":". : return","frequency":8}
+{"row":1599,"token_ids":[5,19,41],"order":3,"text":". if not","frequency":8}
+{"row":1600,"token_ids":[5,80,1666],"order":3,"text":". no warranty","frequency":8}
+{"row":1601,"token_ids":[5,88,24],"order":3,"text":". may be","frequency":8}
+{"row":1602,"token_ids":[5,102,68],"order":3,"text":". optional argument","frequency":8}
+{"row":1603,"token_ids":[5,118,9],"order":3,"text":". get (","frequency":8}
+{"row":1604,"token_ids":[5,265,9],"order":3,"text":". copy (","frequency":8}
+{"row":1605,"token_ids":[5,975,17],"order":3,"text":". aliases :","frequency":8}
+{"row":1606,"token_ids":[5,1529,9],"order":3,"text":". asserttrue (","frequency":8}
+{"row":1607,"token_ids":[6,38,289],"order":3,"text":"the file system","frequency":8}
+{"row":1608,"token_ids":[6,60,15],"order":3,"text":"the set of","frequency":8}
+{"row":1609,"token_ids":[6,66,13],"order":3,"text":"the default is","frequency":8}
+{"row":1610,"token_ids":[6,66,200],"order":3,"text":"the default implementation","frequency":8}
+{"row":1611,"token_ids":[6,130,73],"order":3,"text":"the first line","frequency":8}
+{"row":1612,"token_ids":[6,169,5],"order":3,"text":"the socket .","frequency":8}
+{"row":1613,"token_ids":[6,181,120],"order":3,"text":"the source code","frequency":8}
+{"row":1614,"token_ids":[6,238,15],"order":3,"text":"the start of","frequency":8}
+{"row":1615,"token_ids":[6,257,13],"order":3,"text":"the future is","frequency":8}
+{"row":1616,"token_ids":[6,1746,148],"order":3,"text":"the hardware address","frequency":8}
+{"row":1617,"token_ids":[7,25,25],"order":3,"text":", * *","frequency":8}
+{"row":1618,"token_ids":[7,595,8],"order":3,"text":", returning a","frequency":8}
+{"row":1619,"token_ids":[7,866,7],"order":3,"text":", background ,","frequency":8}
+{"row":1620,"token_ids":[7,1228,7],"order":3,"text":", x2 ,","frequency":8}
+{"row":1621,"token_ids":[7,1260,7],"order":3,"text":", foreground ,","frequency":8}
+{"row":1622,"token_ids":[7,1414,7],"order":3,"text":", borderwidth ,","frequency":8}
+{"row":1623,"token_ids":[7,1515,7],"order":3,"text":", underline ,","frequency":8}
+{"row":1624,"token_ids":[7,1576,7],"order":3,"text":", highlightbackground ,","frequency":8}
+{"row":1625,"token_ids":[7,1577,7],"order":3,"text":", highlightcolor ,","frequency":8}
+{"row":1626,"token_ids":[7,1749,7],"order":3,"text":", highlightthickness ,","frequency":8}
+{"row":1627,"token_ids":[8,21,21],"order":3,"text":"a ` `","frequency":8}
+{"row":1628,"token_ids":[8,38,5],"order":3,"text":"a file .","frequency":8}
+{"row":1629,"token_ids":[8,59,32],"order":3,"text":"a function that","frequency":8}
+{"row":1630,"token_ids":[8,195,68],"order":3,"text":"a single argument","frequency":8}
+{"row":1631,"token_ids":[8,199,5],"order":3,"text":"a dictionary .","frequency":8}
+{"row":1632,"token_ids":[8,1776,66],"order":3,"text":"a nicer default","frequency":8}
+{"row":1633,"token_ids":[9,10,43],"order":3,"text":"( ) will","frequency":8}
+{"row":1634,"token_ids":[9,10,215],"order":3,"text":"( ) instead","frequency":8}
+{"row":1635,"token_ids":[9,38,7],"order":3,"text":"( file ,","frequency":8}
+{"row":1636,"token_ids":[9,64,10],"order":3,"text":"( 1 )","frequency":8}
+{"row":1637,"token_ids":[10,45,11],"order":3,"text":") [ '","frequency":8}
+{"row":1638,"token_ids":[10,63,13],"order":3,"text":") method is","frequency":8}
+{"row":1639,"token_ids":[11,10,12],"order":3,"text":"' ) -","frequency":8}
+{"row":1640,"token_ids":[11,69,11],"order":3,"text":"' data '","frequency":8}
+{"row":1641,"token_ids":[11,93,11],"order":3,"text":"' text '","frequency":8}
+{"row":1642,"token_ids":[11,100,11],"order":3,"text":"' c '","frequency":8}
+{"row":1643,"token_ids":[12,12,16],"order":3,"text":"- - >","frequency":8}
+{"row":1644,"token_ids":[12,12,57],"order":3,"text":"- - list","frequency":8}
+{"row":1645,"token_ids":[12,16,9],"order":3,"text":"- > (","frequency":8}
+{"row":1646,"token_ids":[12,16,11],"order":3,"text":"- > '","frequency":8}
+{"row":1647,"token_ids":[12,16,65],"order":3,"text":"- > none","frequency":8}
+{"row":1648,"token_ids":[12,57,15],"order":3,"text":"- list of","frequency":8}
+{"row":1649,"token_ids":[12,404,12],"order":3,"text":"- special -","frequency":8}
+{"row":1650,"token_ids":[13,29,165],"order":3,"text":"is an integer","frequency":8}
+{"row":1651,"token_ids":[13,41,65],"order":3,"text":"is not none","frequency":8}
+{"row":1652,"token_ids":[13,41,85],"order":3,"text":"is not specified","frequency":8}
+{"row":1653,"token_ids":[13,58,33],"order":3,"text":"is used as","frequency":8}
+{"row":1654,"token_ids":[13,149,5],"order":3,"text":"is empty .","frequency":8}
+{"row":1655,"token_ids":[14,6,285],"order":3,"text":"to the next","frequency":8}
+{"row":1656,"token_ids":[15,6,130],"order":3,"text":"of the first","frequency":8}
+{"row":1657,"token_ids":[15,8,38],"order":3,"text":"of a file","frequency":8}
+{"row":1658,"token_ids":[16,16,54],"order":3,"text":"> > s","frequency":8}
+{"row":1659,"token_ids":[17,17,16],"order":3,"text":": : >","frequency":8}
+{"row":1660,"token_ids":[19,6,44],"order":3,"text":"if the value","frequency":8}
+{"row":1661,"token_ids":[19,6,240],"order":3,"text":"if the queue","frequency":8}
+{"row":1662,"token_ids":[19,26,13],"order":3,"text":"if this is","frequency":8}
+{"row":1663,"token_ids":[19,34,11],"order":3,"text":"if it '","frequency":8}
+{"row":1664,"token_ids":[21,46,21],"order":3,"text":"` name `","frequency":8}
+{"row":1665,"token_ids":[22,225,5],"order":3,"text":"in sys .","frequency":8}
+{"row":1666,"token_ids":[24,8,42],"order":3,"text":"be a string","frequency":8}
+{"row":1667,"token_ids":[24,8,57],"order":3,"text":"be a list","frequency":8}
+{"row":1668,"token_ids":[24,75,31],"order":3,"text":"be called with","frequency":8}
+{"row":1669,"token_ids":[24,1619,36],"order":3,"text":"be overwritten by","frequency":8}
+{"row":1670,"token_ids":[25,25,909],"order":3,"text":"* * kwargs","frequency":8}
+{"row":1671,"token_ids":[27,6,168],"order":3,"text":"return the process","frequency":8}
+{"row":1672,"token_ids":[27,6,285],"order":3,"text":"return the next","frequency":8}
+{"row":1673,"token_ids":[27,29,359],"order":3,"text":"return an iterator","frequency":8}
+{"row":1674,"token_ids":[27,34,5],"order":3,"text":"return it .","frequency":8}
+{"row":1675,"token_ids":[31,8,1776],"order":3,"text":"with a nicer","frequency":8}
+{"row":1676,"token_ids":[32,6,390],"order":3,"text":"that the mock","frequency":8}
+{"row":1677,"token_ids":[32,34,13],"order":3,"text":"that it is","frequency":8}
+{"row":1678,"token_ids":[32,79,24],"order":3,"text":"that should be","frequency":8}
+{"row":1679,"token_ids":[33,109,36],"order":3,"text":"as returned by","frequency":8}
+{"row":1680,"token_ids":[34,13,58],"order":3,"text":"it is used","frequency":8}
+{"row":1681,"token_ids":[34,14,6],"order":3,"text":"it to the","frequency":8}
+{"row":1682,"token_ids":[34,55,24],"order":3,"text":"it can be","frequency":8}
+{"row":1683,"token_ids":[40,5,19],"order":3,"text":"object . if","frequency":8}
+{"row":1684,"token_ids":[40,7,28],"order":3,"text":"object , or","frequency":8}
+{"row":1685,"token_ids":[41,65,7],"order":3,"text":"not none ,","frequency":8}
+{"row":1686,"token_ids":[41,85,7],"order":3,"text":"not specified ,","frequency":8}
+{"row":1687,"token_ids":[42,28,8],"order":3,"text":"string or a","frequency":8}
+{"row":1688,"token_ids":[46,15,26],"order":3,"text":"name of this","frequency":8}
+{"row":1689,"token_ids":[51,225,5],"order":3,"text":"on sys .","frequency":8}
+{"row":1690,"token_ids":[53,43,24],"order":3,"text":"which will be","frequency":8}
+{"row":1691,"token_ids":[53,55,24],"order":3,"text":"which can be","frequency":8}
+{"row":1692,"token_ids":[56,19,26],"order":3,"text":"true if this","frequency":8}
+{"row":1693,"token_ids":[56,25,19],"order":3,"text":"true * if","frequency":8}
+{"row":1694,"token_ids":[58,33,6],"order":3,"text":"used as the","frequency":8}
+{"row":1695,"token_ids":[61,7,6],"order":3,"text":"given , the","frequency":8}
+{"row":1696,"token_ids":[66,83,5],"order":3,"text":"default message .","frequency":8}
+{"row":1697,"token_ids":[75,62,8],"order":3,"text":"called when a","frequency":8}
+{"row":1698,"token_ids":[76,15,6],"order":3,"text":"instance of the","frequency":8}
+{"row":1699,"token_ids":[80,1666,5],"order":3,"text":"no warranty .","frequency":8}
+{"row":1700,"token_ids":[87,10,5],"order":3,"text":"b ) .","frequency":8}
+{"row":1701,"token_ids":[90,5,1529],"order":3,"text":"self . asserttrue","frequency":8}
+{"row":1702,"token_ids":[116,16,16],"order":3,"text":"false > >","frequency":8}
+{"row":1703,"token_ids":[117,184,14],"order":3,"text":"read up to","frequency":8}
+{"row":1704,"token_ids":[123,12,73],"order":3,"text":"command - line","frequency":8}
+{"row":1705,"token_ids":[129,394,14],"order":3,"text":"you want to","frequency":8}
+{"row":1706,"token_ids":[139,273,20],"order":3,"text":"context manager for","frequency":8}
+{"row":1707,"token_ids":[165,7,6],"order":3,"text":"integer , the","frequency":8}
+{"row":1708,"token_ids":[166,13,85],"order":3,"text":"option is specified","frequency":8}
+{"row":1709,"token_ids":[171,15,6],"order":3,"text":"version of the","frequency":8}
+{"row":1710,"token_ids":[225,5,299],"order":3,"text":"sys . modules","frequency":8}
+{"row":1711,"token_ids":[245,15,6],"order":3,"text":"position of the","frequency":8}
+{"row":1712,"token_ids":[265,9,10],"order":3,"text":"copy ( )","frequency":8}
+{"row":1713,"token_ids":[485,7,77],"order":3,"text":"deprecated , use","frequency":8}
+{"row":1714,"token_ids":[491,59,20],"order":3,"text":"trace function for","frequency":8}
+{"row":1715,"token_ids":[509,569,277],"order":3,"text":"shared memory block","frequency":8}
+{"row":1716,"token_ids":[537,32,6],"order":3,"text":"assert that the","frequency":8}
+{"row":1717,"token_ids":[618,5,80],"order":3,"text":"reserved . no","frequency":8}
+{"row":1718,"token_ids":[804,5,895],"order":3,"text":"192.0 . 2.0","frequency":8}
+{"row":1719,"token_ids":[893,7,1228],"order":3,"text":"y1 , x2","frequency":8}
+{"row":1720,"token_ids":[918,12,638],"order":3,"text":"site - packages","frequency":8}
+{"row":1721,"token_ids":[1088,7,1260],"order":3,"text":"font , foreground","frequency":8}
+{"row":1722,"token_ids":[1228,7,1229],"order":3,"text":"x2 , y2","frequency":8}
+{"row":1723,"token_ids":[1576,7,1577],"order":3,"text":"highlightbackground , highlightcolor","frequency":8}
+{"row":1724,"token_ids":[1577,7,1749],"order":3,"text":"highlightcolor , highlightthickness","frequency":8}
+{"row":1725,"token_ids":[1776,66,83],"order":3,"text":"nicer default message","frequency":8}
+{"row":1726,"token_ids":[5,5,47],"order":3,"text":". . ]","frequency":7}
+{"row":1727,"token_ids":[5,6,68],"order":3,"text":". the argument","frequency":7}
+{"row":1728,"token_ids":[5,6,172],"order":3,"text":". the base","frequency":7}
+{"row":1729,"token_ids":[5,6,331],"order":3,"text":". the following","frequency":7}
+{"row":1730,"token_ids":[5,19,29],"order":3,"text":". if an","frequency":7}
+{"row":1731,"token_ids":[5,19,166],"order":3,"text":". if option","frequency":7}
+{"row":1732,"token_ids":[5,26,43],"order":3,"text":". this will","frequency":7}
+{"row":1733,"token_ids":[5,46,13],"order":3,"text":". name is","frequency":7}
+{"row":1734,"token_ids":[5,80,68],"order":3,"text":". no argument","frequency":7}
+{"row":1735,"token_ids":[5,82,5],"order":3,"text":". python .","frequency":7}
+{"row":1736,"token_ids":[5,137,73],"order":3,"text":". each line","frequency":7}
+{"row":1737,"token_ids":[5,155,9],"order":3,"text":". open (","frequency":7}
+{"row":1738,"token_ids":[5,540,37],"order":3,"text":". com /","frequency":7}
+{"row":1739,"token_ids":[5,895,37],"order":3,"text":". 2.0 /","frequency":7}
+{"row":1740,"token_ids":[5,1206,37],"order":3,"text":". org /","frequency":7}
+{"row":1741,"token_ids":[6,44,13],"order":3,"text":"the value is","frequency":7}
+{"row":1742,"token_ids":[6,44,20],"order":3,"text":"the value for","frequency":7}
+{"row":1743,"token_ids":[6,46,13],"order":3,"text":"the name is","frequency":7}
+{"row":1744,"token_ids":[6,73,70],"order":3,"text":"the line number","frequency":7}
+{"row":1745,"token_ids":[6,83,5],"order":3,"text":"the message .","frequency":7}
+{"row":1746,"token_ids":[6,102,68],"order":3,"text":"the optional argument","frequency":7}
+{"row":1747,"token_ids":[6,107,150],"order":3,"text":"the current time","frequency":7}
+{"row":1748,"token_ids":[6,107,168],"order":3,"text":"the current process","frequency":7}
+{"row":1749,"token_ids":[6,168,5],"order":3,"text":"the process .","frequency":7}
+{"row":1750,"token_ids":[6,210,15],"order":3,"text":"the size of","frequency":7}
+{"row":1751,"token_ids":[6,253,381],"order":3,"text":"the internal flag","frequency":7}
+{"row":1752,"token_ids":[6,352,401],"order":3,"text":"the prefix length","frequency":7}
+{"row":1753,"token_ids":[6,356,774],"order":3,"text":"the currently selected","frequency":7}
+{"row":1754,"token_ids":[6,390,146],"order":3,"text":"the mock was","frequency":7}
+{"row":1755,"token_ids":[6,403,341],"order":3,"text":"the second operand","frequency":7}
+{"row":1756,"token_ids":[6,870,307],"order":3,"text":"the difference between","frequency":7}
+{"row":1757,"token_ids":[7,6,66],"order":3,"text":", the default","frequency":7}
+{"row":1758,"token_ids":[7,18,121],"order":3,"text":", and then","frequency":7}
+{"row":1759,"token_ids":[7,22,53],"order":3,"text":", in which","frequency":7}
+{"row":1760,"token_ids":[7,26,59],"order":3,"text":", this function","frequency":7}
+{"row":1761,"token_ids":[7,27,8],"order":3,"text":", return a","frequency":7}
+{"row":1762,"token_ids":[7,27,29],"order":3,"text":", return an","frequency":7}
+{"row":1763,"token_ids":[7,28,11],"order":3,"text":", or '","frequency":7}
+{"row":1764,"token_ids":[7,38,7],"order":3,"text":", file ,","frequency":7}
+{"row":1765,"token_ids":[7,190,5],"order":3,"text":", i .","frequency":7}
+{"row":1766,"token_ids":[7,275,7],"order":3,"text":", state ,","frequency":7}
+{"row":1767,"token_ids":[7,722,7],"order":3,"text":", height ,","frequency":7}
+{"row":1768,"token_ids":[7,753,101],"order":3,"text":", takefocus widget","frequency":7}
+{"row":1769,"token_ids":[7,1932,7],"order":3,"text":", justify ,","frequency":7}
+{"row":1770,"token_ids":[8,83,40],"order":3,"text":"a message object","frequency":7}
+{"row":1771,"token_ids":[8,105,67],"order":3,"text":"a new path","frequency":7}
+{"row":1772,"token_ids":[8,105,76],"order":3,"text":"a new instance","frequency":7}
+{"row":1773,"token_ids":[8,159,5],"order":3,"text":"a directory .","frequency":7}
+{"row":1774,"token_ids":[8,244,48],"order":3,"text":"a handler class","frequency":7}
+{"row":1775,"token_ids":[8,255,40],"order":3,"text":"a callable object","frequency":7}
+{"row":1776,"token_ids":[8,302,5],"order":3,"text":"a record .","frequency":7}
+{"row":1777,"token_ids":[8,312,15],"order":3,"text":"a dict of","frequency":7}
+{"row":1778,"token_ids":[9,10,51],"order":3,"text":"( ) on","frequency":7}
+{"row":1779,"token_ids":[9,11,731],"order":3,"text":"( ' 2.1","frequency":7}
+{"row":1780,"token_ids":[10,15,6],"order":3,"text":") of the","frequency":7}
+{"row":1781,"token_ids":[10,21,21],"order":3,"text":") ` `","frequency":7}
+{"row":1782,"token_ids":[11,5,19],"order":3,"text":"' . if","frequency":7}
+{"row":1783,"token_ids":[11,13,29],"order":3,"text":"' is an","frequency":7}
+{"row":1784,"token_ids":[11,17,11],"order":3,"text":"' : '","frequency":7}
+{"row":1785,"token_ids":[11,17,64],"order":3,"text":"' : 1","frequency":7}
+{"row":1786,"token_ids":[11,54,23],"order":3,"text":"' s \"","frequency":7}
+{"row":1787,"token_ids":[11,67,11],"order":3,"text":"' path '","frequency":7}
+{"row":1788,"token_ids":[11,92,11],"order":3,"text":"' x '","frequency":7}
+{"row":1789,"token_ids":[11,577,11],"order":3,"text":"' w '","frequency":7}
+{"row":1790,"token_ids":[11,731,11],"order":3,"text":"' 2.1 '","frequency":7}
+{"row":1791,"token_ids":[12,16,42],"order":3,"text":"- > string","frequency":7}
+{"row":1792,"token_ids":[13,8,38],"order":3,"text":"is a file","frequency":7}
+{"row":1793,"token_ids":[13,8,131],"order":3,"text":"is a tuple","frequency":7}
+{"row":1794,"token_ids":[13,8,381],"order":3,"text":"is a flag","frequency":7}
+{"row":1795,"token_ids":[13,8,399],"order":3,"text":"is a coroutine","frequency":7}
+{"row":1796,"token_ids":[13,61,5],"order":3,"text":"is given .","frequency":7}
+{"row":1797,"token_ids":[13,75,7],"order":3,"text":"is called ,","frequency":7}
+{"row":1798,"token_ids":[13,89,15],"order":3,"text":"is one of","frequency":7}
+{"row":1799,"token_ids":[13,161,8],"order":3,"text":"is either a","frequency":7}
+{"row":1800,"token_ids":[13,571,7],"order":3,"text":"is omitted ,","frequency":7}
+{"row":1801,"token_ids":[14,6,107],"order":3,"text":"to the current","frequency":7}
+{"row":1802,"token_ids":[14,6,169],"order":3,"text":"to the socket","frequency":7}
+{"row":1803,"token_ids":[14,24,1619],"order":3,"text":"to be overwritten","frequency":7}
+{"row":1804,"token_ids":[14,29,165],"order":3,"text":"to an integer","frequency":7}
+{"row":1805,"token_ids":[14,77,6],"order":3,"text":"to use the","frequency":7}
+{"row":1806,"token_ids":[15,6,61],"order":3,"text":"of the given","frequency":7}
+{"row":1807,"token_ids":[15,6,83],"order":3,"text":"of the message","frequency":7}
+{"row":1808,"token_ids":[15,6,99],"order":3,"text":"of the turtle","frequency":7}
+{"row":1809,"token_ids":[15,6,341],"order":3,"text":"of the operand","frequency":7}
+{"row":1810,"token_ids":[15,69,5],"order":3,"text":"of data .","frequency":7}
+{"row":1811,"token_ids":[15,84,117],"order":3,"text":"of bytes read","frequency":7}
+{"row":1812,"token_ids":[16,16,39],"order":3,"text":"> > from","frequency":7}
+{"row":1813,"token_ids":[16,65,17],"order":3,"text":"> none :","frequency":7}
+{"row":1814,"token_ids":[17,19,6],"order":3,"text":": if the","frequency":7}
+{"row":1815,"token_ids":[17,92,17],"order":3,"text":": x :","frequency":7}
+{"row":1816,"token_ids":[18,27,29],"order":3,"text":"and return an","frequency":7}
+{"row":1817,"token_ids":[18,37,28],"order":3,"text":"and / or","frequency":7}
+{"row":1818,"token_ids":[19,6,67],"order":3,"text":"if the path","frequency":7}
+{"row":1819,"token_ids":[19,6,191],"order":3,"text":"if the input","frequency":7}
+{"row":1820,"token_ids":[19,125,13],"order":3,"text":"if mode is","frequency":7}
+{"row":1821,"token_ids":[19,166,13],"order":3,"text":"if option is","frequency":7}
+{"row":1822,"token_ids":[19,175,35],"order":3,"text":"if there are","frequency":7}
+{"row":1823,"token_ids":[20,6,217],"order":3,"text":"for the named","frequency":7}
+{"row":1824,"token_ids":[20,29,40],"order":3,"text":"for an object","frequency":7}
+{"row":1825,"token_ids":[20,34,14],"order":3,"text":"for it to","frequency":7}
+{"row":1826,"token_ids":[20,82,5],"order":3,"text":"for python .","frequency":7}
+{"row":1827,"token_ids":[21,13,8],"order":3,"text":"` is a","frequency":7}
+{"row":1828,"token_ids":[21,21,9],"order":3,"text":"` ` (","frequency":7}
+{"row":1829,"token_ids":[21,21,13],"order":3,"text":"` ` is","frequency":7}
+{"row":1830,"token_ids":[21,55,24],"order":3,"text":"` can be","frequency":7}
+{"row":1831,"token_ids":[22,6,61],"order":3,"text":"in the given","frequency":7}
+{"row":1832,"token_ids":[22,53,185],"order":3,"text":"in which case","frequency":7}
+{"row":1833,"token_ids":[22,163,5],"order":3,"text":"in args .","frequency":7}
+{"row":1834,"token_ids":[22,339,125],"order":3,"text":"in binary mode","frequency":7}
+{"row":1835,"token_ids":[23,14,23],"order":3,"text":"\" to \"","frequency":7}
+{"row":1836,"token_ids":[23,39,23],"order":3,"text":"\" from \"","frequency":7}
+{"row":1837,"token_ids":[24,58,36],"order":3,"text":"be used by","frequency":7}
+{"row":1838,"token_ids":[24,58,62],"order":3,"text":"be used when","frequency":7}
+{"row":1839,"token_ids":[24,161,8],"order":3,"text":"be either a","frequency":7}
+{"row":1840,"token_ids":[24,1069,14],"order":3,"text":"be able to","frequency":7}
+{"row":1841,"token_ids":[25,19,6],"order":3,"text":"* if the","frequency":7}
+{"row":1842,"token_ids":[25,46,25],"order":3,"text":"* name *","frequency":7}
+{"row":1843,"token_ids":[25,78,465],"order":3,"text":"* type mime","frequency":7}
+{"row":1844,"token_ids":[25,160,25],"order":3,"text":"* n *","frequency":7}
+{"row":1845,"token_ids":[26,13,492],"order":3,"text":"this is useful","frequency":7}
+{"row":1846,"token_ids":[26,72,13],"order":3,"text":"this module is","frequency":7}
+{"row":1847,"token_ids":[27,6,42],"order":3,"text":"return the string","frequency":7}
+{"row":1848,"token_ids":[27,25,56],"order":3,"text":"return * true","frequency":7}
+{"row":1849,"token_ids":[27,29,149],"order":3,"text":"return an empty","frequency":7}
+{"row":1850,"token_ids":[27,65,19],"order":3,"text":"return none if","frequency":7}
+{"row":1851,"token_ids":[28,65,7],"order":3,"text":"or none ,","frequency":7}
+{"row":1852,"token_ids":[28,350,42],"order":3,"text":"or ascii string","frequency":7}
+{"row":1853,"token_ids":[28,848,6],"order":3,"text":"or modify the","frequency":7}
+{"row":1854,"token_ids":[29,149,57],"order":3,"text":"an empty list","frequency":7}
+{"row":1855,"token_ids":[30,45,672],"order":3,"text":"= [ cfws","frequency":7}
+{"row":1856,"token_ids":[30,87,10],"order":3,"text":"= b )","frequency":7}
+{"row":1857,"token_ids":[30,400,9],"order":3,"text":"= counter (","frequency":7}
+{"row":1858,"token_ids":[33,84,5],"order":3,"text":"as bytes .","frequency":7}
+{"row":1859,"token_ids":[34,111,24],"order":3,"text":"it must be","frequency":7}
+{"row":1860,"token_ids":[36,287,48],"order":3,"text":"by child class","frequency":7}
+{"row":1861,"token_ids":[37,1162,12],"order":3,"text":"/ 8859 -","frequency":7}
+{"row":1862,"token_ids":[37,1930,37],"order":3,"text":"/ iso8859 /","frequency":7}
+{"row":1863,"token_ids":[38,11,54],"order":3,"text":"file ' s","frequency":7}
+{"row":1864,"token_ids":[38,40,5],"order":3,"text":"file object .","frequency":7}
+{"row":1865,"token_ids":[39,800,239],"order":3,"text":"from typing import","frequency":7}
+{"row":1866,"token_ids":[40,28,350],"order":3,"text":"object or ascii","frequency":7}
+{"row":1867,"token_ids":[42,7,6],"order":3,"text":"string , the","frequency":7}
+{"row":1868,"token_ids":[42,13,109],"order":3,"text":"string is returned","frequency":7}
+{"row":1869,"token_ids":[42,22,6],"order":3,"text":"string in the","frequency":7}
+{"row":1870,"token_ids":[44,5,19],"order":3,"text":"value . if","frequency":7}
+{"row":1871,"token_ids":[46,7,44],"order":3,"text":"name , value","frequency":7}
+{"row":1872,"token_ids":[46,13,6],"order":3,"text":"name is the","frequency":7}
+{"row":1873,"token_ids":[47,47,47],"order":3,"text":"] ] ]","frequency":7}
+{"row":1874,"token_ids":[48,20,50],"order":3,"text":"class for all","frequency":7}
+{"row":1875,"token_ids":[53,173,14],"order":3,"text":"which defaults to","frequency":7}
+{"row":1876,"token_ids":[55,24,75],"order":3,"text":"can be called","frequency":7}
+{"row":1877,"token_ids":[55,24,161],"order":3,"text":"can be either","frequency":7}
+{"row":1878,"token_ids":[56,7,6],"order":3,"text":"true , the","frequency":7}
+{"row":1879,"token_ids":[56,19,125],"order":3,"text":"true if mode","frequency":7}
+{"row":1880,"token_ids":[57,15,9],"order":3,"text":"list of (","frequency":7}
+{"row":1881,"token_ids":[58,22,6],"order":3,"text":"used in the","frequency":7}
+{"row":1882,"token_ids":[61,7,34],"order":3,"text":"given , it","frequency":7}
+{"row":1883,"token_ids":[64,7,115],"order":3,"text":"1 , 2","frequency":7}
+{"row":1884,"token_ids":[67,14,6],"order":3,"text":"path to the","frequency":7}
+{"row":1885,"token_ids":[68,13,8],"order":3,"text":"argument is a","frequency":7}
+{"row":1886,"token_ids":[70,15,6],"order":3,"text":"number of the","frequency":7}
+{"row":1887,"token_ids":[79,24,75],"order":3,"text":"should be called","frequency":7}
+{"row":1888,"token_ids":[79,95,24],"order":3,"text":"should only be","frequency":7}
+{"row":1889,"token_ids":[80,68,5],"order":3,"text":"no argument .","frequency":7}
+{"row":1890,"token_ids":[87,11,17],"order":3,"text":"b ' :","frequency":7}
+{"row":1891,"token_ids":[87,23,96],"order":3,"text":"b \" \\","frequency":7}
+{"row":1892,"token_ids":[88,24,879],"order":3,"text":"may be overridden","frequency":7}
+{"row":1893,"token_ids":[90,10,12],"order":3,"text":"self ) -","frequency":7}
+{"row":1894,"token_ids":[91,245,92],"order":3,"text":"at position x","frequency":7}
+{"row":1895,"token_ids":[93,7,1224],"order":3,"text":"text , textvariable","frequency":7}
+{"row":1896,"token_ids":[96,160,23],"order":3,"text":"\\ n \"","frequency":7}
+{"row":1897,"token_ids":[98,6,141],"order":3,"text":"has the same","frequency":7}
+{"row":1898,"token_ids":[100,30,122],"order":3,"text":"c = extendedcontext","frequency":7}
+{"row":1899,"token_ids":[114,6,141],"order":3,"text":"have the same","frequency":7}
+{"row":1900,"token_ids":[115,11,10],"order":3,"text":"2 ' )","frequency":7}
+{"row":1901,"token_ids":[115,25,25],"order":3,"text":"2 * *","frequency":7}
+{"row":1902,"token_ids":[116,5,16],"order":3,"text":"false . >","frequency":7}
+{"row":1903,"token_ids":[124,40,5],"order":3,"text":"like object .","frequency":7}
+{"row":1904,"token_ids":[124,40,28],"order":3,"text":"like object or","frequency":7}
+{"row":1905,"token_ids":[125,13,39],"order":3,"text":"mode is from","frequency":7}
+{"row":1906,"token_ids":[128,18,27],"order":3,"text":"create and return","frequency":7}
+{"row":1907,"token_ids":[131,15,9],"order":3,"text":"tuple of (","frequency":7}
+{"row":1908,"token_ids":[142,13,6],"order":3,"text":"result is the","frequency":7}
+{"row":1909,"token_ids":[142,13,109],"order":3,"text":"result is returned","frequency":7}
+{"row":1910,"token_ids":[142,15,6],"order":3,"text":"result of the","frequency":7}
+{"row":1911,"token_ids":[143,91,209],"order":3,"text":"item at index","frequency":7}
+{"row":1912,"token_ids":[147,7,377],"order":3,"text":"otherwise , sets","frequency":7}
+{"row":1913,"token_ids":[148,5,52],"order":3,"text":"address . returns","frequency":7}
+{"row":1914,"token_ids":[157,5,11],"order":3,"text":"g . '","frequency":7}
+{"row":1915,"token_ids":[174,12,221],"order":3,"text":"non - zero","frequency":7}
+{"row":1916,"token_ids":[197,81,7],"order":3,"text":"two arguments ,","frequency":7}
+{"row":1917,"token_ids":[224,32,6],"order":3,"text":"note that the","frequency":7}
+{"row":1918,"token_ids":[240,13,149],"order":3,"text":"queue is empty","frequency":7}
+{"row":1919,"token_ids":[244,48,53],"order":3,"text":"handler class which","frequency":7}
+{"row":1920,"token_ids":[304,276,6],"order":3,"text":"wait until the","frequency":7}
+{"row":1921,"token_ids":[339,125,5],"order":3,"text":"binary mode .","frequency":7}
+{"row":1922,"token_ids":[361,19,6],"order":3,"text":"valueerror if the","frequency":7}
+{"row":1923,"token_ids":[378,24,246],"order":3,"text":"cannot be found","frequency":7}
+{"row":1924,"token_ids":[388,14,6],"order":3,"text":"corresponding to the","frequency":7}
+{"row":1925,"token_ids":[449,14,6],"order":3,"text":"access to the","frequency":7}
+{"row":1926,"token_ids":[455,43,24],"order":3,"text":"func will be","frequency":7}
+{"row":1927,"token_ids":[481,5,9],"order":3,"text":"mailbox . (","frequency":7}
+{"row":1928,"token_ids":[709,28,848],"order":3,"text":"query or modify","frequency":7}
+{"row":1929,"token_ids":[742,10,5],"order":3,"text":"included ) .","frequency":7}
+{"row":1930,"token_ids":[746,37,1930],"order":3,"text":"mappings / iso8859","frequency":7}
+{"row":1931,"token_ids":[753,7,93],"order":3,"text":"takefocus , text","frequency":7}
+{"row":1932,"token_ids":[753,101,12],"order":3,"text":"takefocus widget -","frequency":7}
+{"row":1933,"token_ids":[763,51,6],"order":3,"text":"depending on the","frequency":7}
+{"row":1934,"token_ids":[768,14,24],"order":3,"text":"intended to be","frequency":7}
+{"row":1935,"token_ids":[817,143,91],"order":3,"text":"menu item at","frequency":7}
+{"row":1936,"token_ids":[865,14,6],"order":3,"text":"appended to the","frequency":7}
+{"row":1937,"token_ids":[943,15,6],"order":3,"text":"description of the","frequency":7}
+{"row":1938,"token_ids":[1044,14,24],"order":3,"text":"needs to be","frequency":7}
+{"row":1939,"token_ids":[1180,51,6],"order":3,"text":"depends on the","frequency":7}
+{"row":1940,"token_ids":[1198,9,11],"order":3,"text":"ipv4network ( '","frequency":7}
+{"row":1941,"token_ids":[1224,7,1515],"order":3,"text":"textvariable , underline","frequency":7}
+{"row":1942,"token_ids":[1619,36,287],"order":3,"text":"overwritten by child","frequency":7}
+{"row":1943,"token_ids":[1930,37,1162],"order":3,"text":"iso8859 / 8859","frequency":7}
+{"row":1944,"token_ids":[1982,5,329],"order":3,"text":"robots . txt","frequency":7}
+{"row":1945,"token_ids":[5,5,11],"order":3,"text":". . '","frequency":6}
+{"row":1946,"token_ids":[5,6,59],"order":3,"text":". the function","frequency":6}
+{"row":1947,"token_ids":[5,19,61],"order":3,"text":". if given","frequency":6}
+{"row":1948,"token_ids":[5,19,210],"order":3,"text":". if size","frequency":6}
+{"row":1949,"token_ids":[5,26,79],"order":3,"text":". this should","frequency":6}
+{"row":1950,"token_ids":[5,34,11],"order":3,"text":". it '","frequency":6}
+{"row":1951,"token_ids":[5,34,111],"order":3,"text":". it must","frequency":6}
+{"row":1952,"token_ids":[5,52,56],"order":3,"text":". returns true","frequency":6}
+{"row":1953,"token_ids":[5,178,156],"order":3,"text":". see also","frequency":6}
+{"row":1954,"token_ids":[5,201,17],"order":3,"text":". attributes :","frequency":6}
+{"row":1955,"token_ids":[5,274,12],"order":3,"text":". py -","frequency":6}
+{"row":1956,"token_ids":[5,326,51],"order":3,"text":". based on","frequency":6}
+{"row":1957,"token_ids":[5,523,36],"order":3,"text":". written by","frequency":6}
+{"row":1958,"token_ids":[5,740,7],"order":3,"text":". however ,","frequency":6}
+{"row":1959,"token_ids":[5,1425,36],"order":3,"text":". computed by","frequency":6}
+{"row":1960,"token_ids":[6,38,13],"order":3,"text":"the file is","frequency":6}
+{"row":1961,"token_ids":[6,59,5],"order":3,"text":"the function .","frequency":6}
+{"row":1962,"token_ids":[6,107,38],"order":3,"text":"the current file","frequency":6}
+{"row":1963,"token_ids":[6,130,341],"order":3,"text":"the first operand","frequency":6}
+{"row":1964,"token_ids":[6,139,5],"order":3,"text":"the context .","frequency":6}
+{"row":1965,"token_ids":[6,142,5],"order":3,"text":"the result .","frequency":6}
+{"row":1966,"token_ids":[6,149,42],"order":3,"text":"the empty string","frequency":6}
+{"row":1967,"token_ids":[6,167,13],"order":3,"text":"the output is","frequency":6}
+{"row":1968,"token_ids":[6,168,11],"order":3,"text":"the process '","frequency":6}
+{"row":1969,"token_ids":[6,176,15],"order":3,"text":"the names of","frequency":6}
+{"row":1970,"token_ids":[6,189,14],"order":3,"text":"the options to","frequency":6}
+{"row":1971,"token_ids":[6,213,15],"order":3,"text":"the order of","frequency":6}
+{"row":1972,"token_ids":[6,218,15],"order":3,"text":"the sequence of","frequency":6}
+{"row":1973,"token_ids":[6,232,5],"order":3,"text":"the stream .","frequency":6}
+{"row":1974,"token_ids":[6,240,13],"order":3,"text":"the queue is","frequency":6}
+{"row":1975,"token_ids":[6,295,15],"order":3,"text":"the screen of","frequency":6}
+{"row":1976,"token_ids":[6,318,363],"order":3,"text":"the root logger","frequency":6}
+{"row":1977,"token_ids":[6,436,363],"order":3,"text":"the underlying logger","frequency":6}
+{"row":1978,"token_ids":[6,452,15],"order":3,"text":"the count of","frequency":6}
+{"row":1979,"token_ids":[6,480,148],"order":3,"text":"the ip address","frequency":6}
+{"row":1980,"token_ids":[6,494,7],"order":3,"text":"the year ,","frequency":6}
+{"row":1981,"token_ids":[6,509,569],"order":3,"text":"the shared memory","frequency":6}
+{"row":1982,"token_ids":[6,515,70],"order":3,"text":"the maximum number","frequency":6}
+{"row":1983,"token_ids":[6,683,187],"order":3,"text":"the main thread","frequency":6}
+{"row":1984,"token_ids":[6,770,12],"order":3,"text":"the low -","frequency":6}
+{"row":1985,"token_ids":[6,1479,15],"order":3,"text":"the pid of","frequency":6}
+{"row":1986,"token_ids":[7,11,8],"order":3,"text":", ' a","frequency":6}
+{"row":1987,"token_ids":[7,18,8],"order":3,"text":", and a","frequency":6}
+{"row":1988,"token_ids":[7,18,13],"order":3,"text":", and is","frequency":6}
+{"row":1989,"token_ids":[7,18,19],"order":3,"text":", and if","frequency":6}
+{"row":1990,"token_ids":[7,19,6],"order":3,"text":", if the","frequency":6}
+{"row":1991,"token_ids":[7,19,34],"order":3,"text":", if it","frequency":6}
+{"row":1992,"token_ids":[7,21,21],"order":3,"text":", ` `","frequency":6}
+{"row":1993,"token_ids":[7,34,79],"order":3,"text":", it should","frequency":6}
+{"row":1994,"token_ids":[7,53,55],"order":3,"text":", which can","frequency":6}
+{"row":1995,"token_ids":[7,64,7],"order":3,"text":", 1 ,","frequency":6}
+{"row":1996,"token_ids":[7,84,7],"order":3,"text":", bytes ,","frequency":6}
+{"row":1997,"token_ids":[7,112,6],"order":3,"text":", but the","frequency":6}
+{"row":1998,"token_ids":[7,115,7],"order":3,"text":", 2 ,","frequency":6}
+{"row":1999,"token_ids":[7,348,101],"order":3,"text":", width widget","frequency":6}

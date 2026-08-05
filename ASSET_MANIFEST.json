@@ -1,0 +1,103 @@
+{
+  "files": [
+    {
+      "bytes": 4227,
+      "path": "assets/data/benchmark_summary.json",
+      "sha256": "228b6b7914f2a202a997ef96879bf7511ca5e2d37be454db3825be77b3a0512b"
+    },
+    {
+      "bytes": 485896,
+      "path": "assets/data/control_arrays.npz",
+      "sha256": "a668789385e3cbb53541f3b449331629ce12be1101f8419d0178af32e420bc67"
+    },
+    {
+      "bytes": 372,
+      "path": "assets/data/control_report.json",
+      "sha256": "ec40b429199ef103f51ce49b2b2f1f5e3819870d5a329134c6c5990ff0f1cbb9"
+    },
+    {
+      "bytes": 22221,
+      "path": "assets/data/examples.json",
+      "sha256": "b61a78af01a24b0c083cdf3d9fd5a5c077aa0b09eed15de2f60c4a5afdd3c4ad"
+    },
+    {
+      "bytes": 505,
+      "path": "assets/definitions/manifest.json",
+      "sha256": "3ff9ad0ce43574f88b69aeef9819a74a3f98bdf1690be9fcdffa4dbe3faf995f"
+    },
+    {
+      "bytes": 1495711,
+      "path": "assets/definitions/metadata.jsonl",
+      "sha256": "04dfafd531eb1bb8a9a9c0b44d88ea0e536e65afa07f3428bd16f554f859c593"
+    },
+    {
+      "bytes": 640128,
+      "path": "assets/definitions/vectors.npy",
+      "sha256": "700c7c65de9e6e6dfcabb085c7fae34eddfa99bb6c611a274a8d219e7dfe5a6c"
+    },
+    {
+      "bytes": 4128,
+      "path": "assets/memory/centered_macsl_vivere32_r8/card_ids.npy",
+      "sha256": "8900cd346ef37aa1b6310000ba1d38b2455be16e7f5080e0b65ce93a5b48dd24"
+    },
+    {
+      "bytes": 8320,
+      "path": "assets/memory/centered_macsl_vivere32_r8/early_bases.npy",
+      "sha256": "af9b8fd9a50ac7679faeae8c3c51713e6d54376b122ea0cc800116e40dad2033"
+    },
+    {
+      "bytes": 32128,
+      "path": "assets/memory/centered_macsl_vivere32_r8/early_coefficients.npy",
+      "sha256": "0a87878d0f010aac7c5c2edf72c958790060bcf59e4cc4334951d9cdfd1b6b07"
+    },
+    {
+      "bytes": 1152,
+      "path": "assets/memory/centered_macsl_vivere32_r8/early_means.npy",
+      "sha256": "a7d2893eae1698f3bdc15903e7af660396391560afb5a1e901b706f847b48c09"
+    },
+    {
+      "bytes": 155913,
+      "path": "assets/memory/centered_macsl_vivere32_r8/keys.jsonl",
+      "sha256": "32dbedb012d6a89a6a3b0a5be6d9107df1a55ac4c287011c94b500db2b37cfee"
+    },
+    {
+      "bytes": 8320,
+      "path": "assets/memory/centered_macsl_vivere32_r8/late_bases.npy",
+      "sha256": "20773809cd6f910bd4fd36796d83e5076ac0ad94d553ea97b3500d153d9f4bd7"
+    },
+    {
+      "bytes": 32128,
+      "path": "assets/memory/centered_macsl_vivere32_r8/late_coefficients.npy",
+      "sha256": "27743b3834054d9415b75a4d84d19bd3d3d96feeb23635817c6b2d7578531a6c"
+    },
+    {
+      "bytes": 1152,
+      "path": "assets/memory/centered_macsl_vivere32_r8/late_means.npy",
+      "sha256": "23972f448cc53d034a9b70ae5a8279e0e8dcbd24e4917af844a25b1e9853919c"
+    },
+    {
+      "bytes": 14111,
+      "path": "assets/memory/centered_macsl_vivere32_r8/manifest.json",
+      "sha256": "24fba0d433cd6427803fe69eb1a159c4c4a7f50534e0cd6c35a5c5bd3f7493f3"
+    },
+    {
+      "bytes": 2207501,
+      "path": "assets/model/recipient.pt",
+      "sha256": "e1b5c53b8ea26db8bfc7e85b7064f88e18f728152ab8ae9bf6d9bab4802e665d"
+    },
+    {
+      "bytes": 7464,
+      "path": "assets/official_qwen_provenance.json",
+      "sha256": "482d82b0c58c27e8f5edb2ae79bc1ccee7d7a5712fba5e2a75830106552019ac"
+    },
+    {
+      "bytes": 29451,
+      "path": "assets/tokenizer.json",
+      "sha256": "af289f8d5e90ce9425b7f509f91f5f004302c21b2faf94c82bf707519a0d29d2"
+    }
+  ],
+  "kind": "frozen_demo_assets",
+  "release": "dendritron-transplant-console-v1.0.0",
+  "schema_version": 1,
+  "total_bytes": 5150828
+}

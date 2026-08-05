@@ -1,0 +1,20 @@
+{
+  "dtype": "float32",
+  "files": {
+    "metadata": {
+      "bytes": 1495711,
+      "path": "metadata.jsonl",
+      "sha256": "04dfafd531eb1bb8a9a9c0b44d88ea0e536e65afa07f3428bd16f554f859c593"
+    },
+    "vectors": {
+      "bytes": 640128,
+      "path": "vectors.npy",
+      "sha256": "700c7c65de9e6e6dfcabb085c7fae34eddfa99bb6c611a274a8d219e7dfe5a6c"
+    }
+  },
+  "kind": "definition_bank",
+  "rows": 5000,
+  "schema_version": 1,
+  "source_kind": "official_qwen2.5_0.5b_layer2_joint32",
+  "width": 32
+}

@@ -1,0 +1,37 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dendritron-transplant-console"
+version = "1.0.0"
+description = "Local mechanistic demo of sparse recurrent Dendritron donor-state transplantation"
+readme = "README.md"
+requires-python = ">=3.10,<3.14"
+authors = [{name = "MMV Firm / Dendritron research contributors"}]
+dependencies = ["numpy>=1.26,<3", "torch>=2.7,<3"]
+keywords = ["dendritron", "mixture-of-experts", "sparse-inference", "memory", "cpu"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+
+[project.scripts]
+dendritron-console = "launch:main"
+
+[tool.setuptools]
+py-modules = ["launch"]
+
+[tool.setuptools.packages.find]
+include = ["demo_server*", "dendritron_transplant*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

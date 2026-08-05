@@ -1,0 +1,427 @@
+{
+  "files": [
+    {
+      "bytes": 57,
+      "path": ".dockerignore",
+      "sha256": "c582b47e5e3e073dff12691cca219f52d1cf99da15babe8e053631ed8607ab28"
+    },
+    {
+      "bytes": 654,
+      "path": ".github/workflows/ci.yml",
+      "sha256": "9a7577290e9d54b5a0290eabe6cdb2cf2e5d2697259752044d9c76f4a425dc1b"
+    },
+    {
+      "bytes": 116,
+      "path": ".gitignore",
+      "sha256": "59813d381ab23ad4b4c7669cbe8da919a0e6c561c7c29f1bd8a6109c43eb22e0"
+    },
+    {
+      "bytes": 3639,
+      "path": "ASSET_MANIFEST.json",
+      "sha256": "4ee91226ef9e2eca72b0ff2ba671b1e34236f4775969ba6150a42fd0de674def"
+    },
+    {
+      "bytes": 4227,
+      "path": "assets/data/benchmark_summary.json",
+      "sha256": "228b6b7914f2a202a997ef96879bf7511ca5e2d37be454db3825be77b3a0512b"
+    },
+    {
+      "bytes": 485896,
+      "path": "assets/data/control_arrays.npz",
+      "sha256": "a668789385e3cbb53541f3b449331629ce12be1101f8419d0178af32e420bc67"
+    },
+    {
+      "bytes": 372,
+      "path": "assets/data/control_report.json",
+      "sha256": "ec40b429199ef103f51ce49b2b2f1f5e3819870d5a329134c6c5990ff0f1cbb9"
+    },
+    {
+      "bytes": 22221,
+      "path": "assets/data/examples.json",
+      "sha256": "b61a78af01a24b0c083cdf3d9fd5a5c077aa0b09eed15de2f60c4a5afdd3c4ad"
+    },
+    {
+      "bytes": 505,
+      "path": "assets/definitions/manifest.json",
+      "sha256": "3ff9ad0ce43574f88b69aeef9819a74a3f98bdf1690be9fcdffa4dbe3faf995f"
+    },
+    {
+      "bytes": 1495711,
+      "path": "assets/definitions/metadata.jsonl",
+      "sha256": "04dfafd531eb1bb8a9a9c0b44d88ea0e536e65afa07f3428bd16f554f859c593"
+    },
+    {
+      "bytes": 640128,
+      "path": "assets/definitions/vectors.npy",
+      "sha256": "700c7c65de9e6e6dfcabb085c7fae34eddfa99bb6c611a274a8d219e7dfe5a6c"
+    },
+    {
+      "bytes": 4128,
+      "path": "assets/memory/centered_macsl_vivere32_r8/card_ids.npy",
+      "sha256": "8900cd346ef37aa1b6310000ba1d38b2455be16e7f5080e0b65ce93a5b48dd24"
+    },
+    {
+      "bytes": 8320,
+      "path": "assets/memory/centered_macsl_vivere32_r8/early_bases.npy",
+      "sha256": "af9b8fd9a50ac7679faeae8c3c51713e6d54376b122ea0cc800116e40dad2033"
+    },
+    {
+      "bytes": 32128,
+      "path": "assets/memory/centered_macsl_vivere32_r8/early_coefficients.npy",
+      "sha256": "0a87878d0f010aac7c5c2edf72c958790060bcf59e4cc4334951d9cdfd1b6b07"
+    },
+    {
+      "bytes": 1152,
+      "path": "assets/memory/centered_macsl_vivere32_r8/early_means.npy",
+      "sha256": "a7d2893eae1698f3bdc15903e7af660396391560afb5a1e901b706f847b48c09"
+    },
+    {
+      "bytes": 155913,
+      "path": "assets/memory/centered_macsl_vivere32_r8/keys.jsonl",
+      "sha256": "32dbedb012d6a89a6a3b0a5be6d9107df1a55ac4c287011c94b500db2b37cfee"
+    },
+    {
+      "bytes": 8320,
+      "path": "assets/memory/centered_macsl_vivere32_r8/late_bases.npy",
+      "sha256": "20773809cd6f910bd4fd36796d83e5076ac0ad94d553ea97b3500d153d9f4bd7"
+    },
+    {
+      "bytes": 32128,
+      "path": "assets/memory/centered_macsl_vivere32_r8/late_coefficients.npy",
+      "sha256": "27743b3834054d9415b75a4d84d19bd3d3d96feeb23635817c6b2d7578531a6c"
+    },
+    {
+      "bytes": 1152,
+      "path": "assets/memory/centered_macsl_vivere32_r8/late_means.npy",
+      "sha256": "23972f448cc53d034a9b70ae5a8279e0e8dcbd24e4917af844a25b1e9853919c"
+    },
+    {
+      "bytes": 14111,
+      "path": "assets/memory/centered_macsl_vivere32_r8/manifest.json",
+      "sha256": "24fba0d433cd6427803fe69eb1a159c4c4a7f50534e0cd6c35a5c5bd3f7493f3"
+    },
+    {
+      "bytes": 2207501,
+      "path": "assets/model/recipient.pt",
+      "sha256": "e1b5c53b8ea26db8bfc7e85b7064f88e18f728152ab8ae9bf6d9bab4802e665d"
+    },
+    {
+      "bytes": 7464,
+      "path": "assets/official_qwen_provenance.json",
+      "sha256": "482d82b0c58c27e8f5edb2ae79bc1ccee7d7a5712fba5e2a75830106552019ac"
+    },
+    {
+      "bytes": 29451,
+      "path": "assets/tokenizer.json",
+      "sha256": "af289f8d5e90ce9425b7f509f91f5f004302c21b2faf94c82bf707519a0d29d2"
+    },
+    {
+      "bytes": 488,
+      "path": "CHANGELOG.md",
+      "sha256": "3cff80b0f9f5e4231b6bae829a1faa5be10f534a71f2c030460e8e23fd397f79"
+    },
+    {
+      "bytes": 487,
+      "path": "CITATION.cff",
+      "sha256": "bd95ff6246a364c87e1e8aa083cef9a2e654dc2107b6e12703fefb70e63f632d"
+    },
+    {
+      "bytes": 630,
+      "path": "CONTRIBUTING.md",
+      "sha256": "8112f3c3c045dea32ec53e33a2dad6c8a6e2ec18a0d80021c1659108a3c5922e"
+    },
+    {
+      "bytes": 75,
+      "path": "demo_server/__init__.py",
+      "sha256": "7278b2d0b4e90aee4b8bb7319a6225f1bda178d8d038ddd4c918b8365d17b7c2"
+    },
+    {
+      "bytes": 6035,
+      "path": "demo_server/controls.py",
+      "sha256": "6497f49f26a432c8666604b720f7939ebd904505ad11975fc8a064a37f89b5f9"
+    },
+    {
+      "bytes": 22443,
+      "path": "demo_server/engine.py",
+      "sha256": "dbb8fd8deefb060f55b58ae449cc9ed36f00e5d97a9b319b781126c30281fd4a"
+    },
+    {
+      "bytes": 6114,
+      "path": "demo_server/server.py",
+      "sha256": "0c096554a4d3950b2c36fb645610728dfae5cb184ed01704d258d6265e483246"
+    },
+    {
+      "bytes": 1384,
+      "path": "dendritron_transplant/__init__.py",
+      "sha256": "89625c89d796c46c3fb99862012790bac9a5666ad4d959339f3ca1a580b2bfdd"
+    },
+    {
+      "bytes": 7267,
+      "path": "dendritron_transplant/config.py",
+      "sha256": "765ae4df12438c5bc731f9caf69abea7890d73c1fe0a51ef934d46ec95203138"
+    },
+    {
+      "bytes": 3476,
+      "path": "dendritron_transplant/data.py",
+      "sha256": "74ec723a7a2a0d35c8c58d80402097fc57d24d86dad1314b015d2735929f182e"
+    },
+    {
+      "bytes": 5537,
+      "path": "dendritron_transplant/definition.py",
+      "sha256": "34b9054e35527ddd7c138bbcbe45953a46dbd4e2d7ec2a9df0923faabb9dd336"
+    },
+    {
+      "bytes": 8667,
+      "path": "dendritron_transplant/dendritron.py",
+      "sha256": "11d42823693ea7b2653a3008a617703a11a023867fde8c157681ef48a1ec8ff2"
+    },
+    {
+      "bytes": 5098,
+      "path": "dendritron_transplant/donor.py",
+      "sha256": "6231461a1ace679f2d42da18dde5f1eaad378f9e107a0e95f1dadc887a53abfd"
+    },
+    {
+      "bytes": 5750,
+      "path": "dendritron_transplant/falsification.py",
+      "sha256": "f707007af8700fa219a00efa3214d3663077ead080e13746eed4745367956061"
+    },
+    {
+      "bytes": 4409,
+      "path": "dendritron_transplant/hashing.py",
+      "sha256": "333a330cd0f5283da30f17303db20d622de5e0b33692bdcbff49afbe35f16021"
+    },
+    {
+      "bytes": 5321,
+      "path": "dendritron_transplant/joint_transfer.py",
+      "sha256": "e04196990ea7aef916e78e059ac1446525e2a256d488fc9a3ee5030d70410f4e"
+    },
+    {
+      "bytes": 4124,
+      "path": "dendritron_transplant/lngram.py",
+      "sha256": "6c781932a7595b0fde786d37c0fff94d51cb25a7d4509403a5eb479b61a8c039"
+    },
+    {
+      "bytes": 22932,
+      "path": "dendritron_transplant/memory.py",
+      "sha256": "ca96ae187228782ec009a9047f30f88ba523fe6b70955b10d19ba6800c42c13f"
+    },
+    {
+      "bytes": 1439,
+      "path": "dendritron_transplant/metrics.py",
+      "sha256": "6089a74cfc9aa4ce6a43c89ea7548d9271519ac9aef8e8975bcd49ff8a21eb3f"
+    },
+    {
+      "bytes": 11275,
+      "path": "dendritron_transplant/mini_qwen.py",
+      "sha256": "bb857fe0a00ef0c600dbc8558f3d6853ceeb6e0cb96ba2c4178e9739137de22a"
+    },
+    {
+      "bytes": 7723,
+      "path": "dendritron_transplant/model.py",
+      "sha256": "bdbb6271fcd32d64cecdb9d298afb339bc492c839b28bd1c3138f358b7ef4c27"
+    },
+    {
+      "bytes": 15591,
+      "path": "dendritron_transplant/moe.py",
+      "sha256": "ef2bc4b34e9026c965665891250d194e384cd999d45ee0875db69fc45c284277"
+    },
+    {
+      "bytes": 9170,
+      "path": "dendritron_transplant/output.py",
+      "sha256": "fe2b4a2624665ef064c87a7769b774a5528b0beb15e33a6fe520f60961d95510"
+    },
+    {
+      "bytes": 9688,
+      "path": "dendritron_transplant/public_fixture.py",
+      "sha256": "c32d6f6437de35b41ae8bafb82f45dc6add257f63d3fb76a4a9bf792eedf4dca"
+    },
+    {
+      "bytes": 9164,
+      "path": "dendritron_transplant/recurrent.py",
+      "sha256": "2bc737d6bc708adf9dbe7febdc44bf4360b525ffbacfc57fb10d08ca9e38acf4"
+    },
+    {
+      "bytes": 6044,
+      "path": "dendritron_transplant/runtime.py",
+      "sha256": "ff566323e2718431971830fe075ef0c1e9f204a8725f4524dd273ff9997039d1"
+    },
+    {
+      "bytes": 25364,
+      "path": "dendritron_transplant/vivere_macsl.py",
+      "sha256": "feb2afa1d00b4fad6d050e73bfa1ab686a9ea3a1813eaa424b3d860fa1573140"
+    },
+    {
+      "bytes": 12216,
+      "path": "dendritron_transplant/vm896.py",
+      "sha256": "8b60e6244ec556d5500b527daa0fcfff4558a54500a2101e8269cf4f10a2cdb6"
+    },
+    {
+      "bytes": 167,
+      "path": "docker-compose.yml",
+      "sha256": "a4694f388630276f92e6c0f52427be477215e8788220a98fefd97e5a07cb1657"
+    },
+    {
+      "bytes": 471,
+      "path": "Dockerfile",
+      "sha256": "25712f98288bafc79aae7b7fbb6c3126006ae814b0031c4309ccc25a067fbbc1"
+    },
+    {
+      "bytes": 814,
+      "path": "docs/API.md",
+      "sha256": "d49b4626a6b2d7fd3877125cad25046ec2a2867cd05cfc18b87963b9e6c0dfd0"
+    },
+    {
+      "bytes": 2164,
+      "path": "docs/ARCHITECTURE.md",
+      "sha256": "b922d81ea9663141ab68d5ba8c828994ffb03f520620925c9bd6a8da88d428f1"
+    },
+    {
+      "bytes": 1667,
+      "path": "docs/CLAIMS_BOUNDARY.md",
+      "sha256": "537bc723870e97af08d66ae446442d92c2ccf451fe6b3945f1b750f162f12db8"
+    },
+    {
+      "bytes": 1726,
+      "path": "docs/DEMO_SCRIPT.md",
+      "sha256": "d4874cba5276be47b72401d45df785c030aef74d1042a108af0898f772265b3e"
+    },
+    {
+      "bytes": 1072,
+      "path": "docs/GITHUB_UPLOAD.md",
+      "sha256": "01bd456e2b4be5a21506c3972faf1118482ab01948a327a679f30d828b89bc89"
+    },
+    {
+      "bytes": 1047,
+      "path": "docs/TESTING.md",
+      "sha256": "108a112f2f5bd10f195f4663edccd843e708682b57cd91062bdc6937fc13ce18"
+    },
+    {
+      "bytes": 1853,
+      "path": "launch.py",
+      "sha256": "0690b47f9bb895662618b99f20689e55d4574c92bb71ae1a84799a2e7511884f"
+    },
+    {
+      "bytes": 11358,
+      "path": "licenses/APACHE-2.0-QWEN.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "bytes": 13809,
+      "path": "licenses/PSF-LICENSE.txt",
+      "sha256": "78b12c3a81360b357002334f0e70ea0e92eebf7a9b358805c03c48484945f3bb"
+    },
+    {
+      "bytes": 333,
+      "path": "Makefile",
+      "sha256": "fb77ef63daca5007def45ae07d10888393e5509416fad6904446fde7f779e40b"
+    },
+    {
+      "bytes": 1094,
+      "path": "pyproject.toml",
+      "sha256": "af1f098be6419670b9d656d65e3dc75ec39a982680ecbf5bfaa90e89eb9b6291"
+    },
+    {
+      "bytes": 6434,
+      "path": "README.md",
+      "sha256": "cb2a9442fdfde0e37fbbe026e2fc2052b5fb81e3571e527dd152aceb57a03322"
+    },
+    {
+      "bytes": 956,
+      "path": "RELEASE_NOTES.md",
+      "sha256": "148e11483fa1ed0131ac23e9134b153c8fdc3f2debbf923eb5c7cee777e9769d"
+    },
+    {
+      "bytes": 34,
+      "path": "requirements-dev.txt",
+      "sha256": "8636f9ab1a075be9f3039e2a6471837259c4f36b625bcaf7a3d9a1edd2419c6d"
+    },
+    {
+      "bytes": 15,
+      "path": "requirements.txt",
+      "sha256": "99f43573522565d7c480efd1f954892948033915df6a4e685327e995d3396eb6"
+    },
+    {
+      "bytes": 2736,
+      "path": "scripts/build_manifests.py",
+      "sha256": "3d9d5cdbf6abacd20692b84829c1ec4210192a6754cf6bd68f8b320260c0b368"
+    },
+    {
+      "bytes": 2718,
+      "path": "scripts/package_release.py",
+      "sha256": "fcbf678c636c165401f25bce701242542a8bafb0e54369bd01f822d69b83149f"
+    },
+    {
+      "bytes": 1804,
+      "path": "scripts/smoke_demo.py",
+      "sha256": "144b4ff465b47b0880dcc3a8b21ebd29dd7f609a68831d0392416866913518be"
+    },
+    {
+      "bytes": 1798,
+      "path": "scripts/verify_assets.py",
+      "sha256": "749aa48423e86b6728bc94e6d9c743d40dd92d9fefccf742306d8476f9985c7d"
+    },
+    {
+      "bytes": 1129,
+      "path": "scripts/verify_release.py",
+      "sha256": "549b8e858185473d41a8cc7f8e01d4854cf320dabbf702bd58c4165577fc3344"
+    },
+    {
+      "bytes": 975,
+      "path": "SECURITY.md",
+      "sha256": "d124bac07fa2078468620dba410424b7e5d90af2d89bf324a6fdcfeecd50578f"
+    },
+    {
+      "bytes": 424,
+      "path": "start_unix.sh",
+      "sha256": "dfc4305aecd435fcdb8cbf9f270affd71e5ee95ab1a0e81100377fd361d39799"
+    },
+    {
+      "bytes": 621,
+      "path": "start_windows.bat",
+      "sha256": "625cb0d83f1b82e441496ebe642373e3eef03fc2b686e38f316f7f26fc34fa97"
+    },
+    {
+      "bytes": 333,
+      "path": "tests/conftest.py",
+      "sha256": "b0c09038c125cf8537ae5d8c265ce98b346de9a7badd66726182831f03af752b"
+    },
+    {
+      "bytes": 1047,
+      "path": "tests/test_assets.py",
+      "sha256": "3c565942e6d9c2effa52987a6ce0bd5c9c701e1a11ce404aeca5e191432c6870"
+    },
+    {
+      "bytes": 3165,
+      "path": "tests/test_demo_engine.py",
+      "sha256": "845066ccaf8f497c7fd9ae8f1d76a36900e54abe57316fdf312af6060fc371e0"
+    },
+    {
+      "bytes": 1724,
+      "path": "tests/test_http_server.py",
+      "sha256": "4972085b943f1009b5aa057e0a849d14754c299c6730abdd4b53c06512aa42dc"
+    },
+    {
+      "bytes": 1297,
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "c664a6d0d741a74a1882e4f379a58e28363bf0b1210dd52bbccb162c9dbdf58a"
+    },
+    {
+      "bytes": 19921,
+      "path": "web/app.js",
+      "sha256": "6add3bfba0eaf4ee76c75273104f8842b9f6d02321cd4a240c3d59485b77aae4"
+    },
+    {
+      "bytes": 8053,
+      "path": "web/index.html",
+      "sha256": "0cb2ee331b325855fc3b9442a0dc4fb4d29eb46bf27a045184303de46c801590"
+    },
+    {
+      "bytes": 14660,
+      "path": "web/styles.css",
+      "sha256": "3a0e81ee5f61b87044917530f8d5b95abccba60b458d81e306be805626bf7e7f"
+    }
+  ],
+  "release": "dendritron-transplant-console-v1.0.0",
+  "schema_version": 1,
+  "total_bytes": 5480624
+}

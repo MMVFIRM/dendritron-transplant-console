@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="Live mechanistic demo of a sparse recurrent Dendritron recipient using transplanted donor-state memory.">
+  <title>Dendritron Transplant Console</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div class="ambient ambient-a"></div><div class="ambient ambient-b"></div>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="Dendritron Transplant Console home">
+      <span class="brand-mark"><i></i><i></i><i></i></span>
+      <span><strong>DENDRITRON</strong><small>TRANSPLANT CONSOLE</small></span>
+    </a>
+    <div class="status-line">
+      <span class="status-pill donor-off"><b></b>Donor offline</span>
+      <span class="status-pill recipient-on"><b></b>CPU recipient live</span>
+      <span class="status-pill" id="engineMode">Loading</span>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero shell">
+      <div class="eyebrow">Mechanistic research demonstration</div>
+      <h1>The large model is the factory.<br><span>The sparse model is the deployed product.</span></h1>
+      <p class="hero-copy">Inspect exact donor-state retrieval, MACSL/VIVERE memory cards, recurrent Dendritron routing, sparse vocabulary selection, and fixed-model corruption controls in one local CPU application.</p>
+      <div class="architecture-flow" aria-label="Architecture flow">
+        <div class="flow-node donor"><span>OFFLINE DONOR</span><strong>Qwen2.5-0.5B</strong><small>layers 2 / 8 / 24</small></div>
+        <div class="flow-arrow"><span></span></div>
+        <div class="flow-node memory"><span>FROZEN MEMORY</span><strong>2,000 phrase rows</strong><small>16 MACSL cards · rank 8</small></div>
+        <div class="flow-arrow"><span></span></div>
+        <div class="flow-node tissue"><span>SPARSE TISSUE</span><strong>2 experts × 2 branches</strong><small>two blocks · recurrent rounds</small></div>
+        <div class="flow-arrow"><span></span></div>
+        <div class="flow-node cpu"><span>LIVE RUNTIME</span><strong>CPU only</strong><small>donor not loaded</small></div>
+      </div>
+      <div class="headline-metrics" id="headlineMetrics"></div>
+    </section>
+
+    <section class="shell console-grid">
+      <article class="panel input-panel">
+        <div class="panel-heading"><div><span class="panel-kicker">01 · INPUT</span><h2>Run the recipient</h2></div><span class="live-dot">LIVE</span></div>
+        <label class="field-label" for="exampleSelect">Locked validation example</label>
+        <select id="exampleSelect"><option value="">Custom prompt</option></select>
+        <label class="field-label" for="promptInput">Prompt</label>
+        <textarea id="promptInput" rows="4" placeholder="Try: create a"></textarea>
+        <div class="field-row">
+          <label><span class="field-label">Expected next token</span><input id="targetInput" placeholder="optional"></label>
+          <label><span class="field-label">Generate</span><select id="generateSelect"><option value="1">1 token</option><option value="2">2 tokens</option><option value="4">4 tokens</option><option value="6">6 tokens</option></select></label>
+        </div>
+        <span class="field-label">Memory intervention</span>
+        <div class="mode-grid" id="modeGrid"></div>
+        <div class="action-row">
+          <button class="button primary" id="runButton"><span>Run trace</span><b>→</b></button>
+          <button class="button secondary" id="compareButton">Compare all controls</button>
+        </div>
+        <p class="microcopy">Every non-hash intervention preserves the exact phrase addresses. Only the values bound to those addresses change.</p>
+      </article>
+
+      <article class="panel output-panel">
+        <div class="panel-heading"><div><span class="panel-kicker">02 · OUTPUT</span><h2>Recipient response</h2></div><span class="latency" id="latencyBadge">— ms</span></div>
+        <div class="output-box" id="generatedText">Choose an example and run the model.</div>
+        <div class="target-strip" id="targetStrip"></div>
+        <div class="subheading"><h3>Sparse output candidates</h3><span id="vocabFraction">12.5% vocabulary active</span></div>
+        <div class="candidate-list" id="candidateList"></div>
+      </article>
+    </section>
+
+    <section class="shell trace-grid">
+      <article class="panel memory-panel">
+        <div class="panel-heading"><div><span class="panel-kicker">03 · MEMORY</span><h2>Address → value trace</h2></div><span class="count-badge" id="hitCount">0 hits</span></div>
+        <div class="token-ribbon" id="tokenRibbon"></div>
+        <div id="memoryTrace" class="memory-trace empty-state">No trace yet.</div>
+        <details class="definition-details"><summary>Definition-memory reads <span id="definitionCount">0</span></summary><div id="definitionTrace"></div></details>
+      </article>
+
+      <article class="panel routing-panel">
+        <div class="panel-heading"><div><span class="panel-kicker">04 · ROUTING</span><h2>Active Dendritron tissue</h2></div><span class="count-badge" id="visitBadge">0 visits</span></div>
+        <div class="visit-tabs" id="visitTabs"></div>
+        <div class="routing-canvas" id="routingCanvas">
+          <div class="empty-state">Run a trace to reveal selected experts and branches.</div>
+        </div>
+      </article>
+    </section>
+
+    <section class="shell resource-band" id="resourceBand"></section>
+
+    <section class="shell panel compare-panel" id="comparisonSection">
+      <div class="panel-heading"><div><span class="panel-kicker">05 · FALSIFICATION</span><h2>Freeze the model. Replace only its memory.</h2></div><span class="count-badge">6 conditions</span></div>
+      <p class="section-copy">The strongest demo is causal: the recipient weights remain fixed while correct, shuffled, semantically opposite, random, zero, or hash-only memory is supplied at the same phrase address.</p>
+      <div id="comparisonChart" class="comparison-chart empty-state">Click “Compare all controls” to run the intervention matrix.</div>
+      <div class="table-wrap"><table id="comparisonTable"><thead><tr><th>Memory condition</th><th>Target probability</th><th>NLL ↓</th><th>Rank ↓</th><th>Hidden cosine</th><th>JS divergence</th><th>Retrieved value</th></tr></thead><tbody></tbody></table></div>
+    </section>
+
+    <section class="shell benchmark-section">
+      <div class="section-heading"><div><span class="panel-kicker">06 · BENCHMARKS</span><h2>What the released evidence supports</h2></div><p>Five paired seeds. Official Qwen-derived assets. VM32 is a post-JTD transfer/compression gate, not Qwen-equivalent model compression.</p></div>
+      <div class="benchmark-cards" id="benchmarkCards"></div>
+      <article class="panel benchmark-table-panel">
+        <div class="panel-heading"><div><span class="panel-kicker">FULL ARCHITECTURE</span><h2>Quality, storage, and latency</h2></div><span class="count-badge">5 seeds</span></div>
+        <div class="table-wrap"><table id="benchmarkTable"><thead><tr><th>Phrase memory</th><th>NLL ↓</th><th>Perplexity ↓</th><th>Sparse accuracy ↑</th><th>Bank bytes ↓</th><th>CPU median</th></tr></thead><tbody></tbody></table></div>
+        <div class="benchmark-bars" id="benchmarkBars"></div>
+      </article>
+    </section>
+
+    <section class="shell boundary-panel">
+      <div><span class="panel-kicker">CLAIMS BOUNDARY</span><h2>Research demo, not a compressed-Qwen chatbot.</h2></div>
+      <p id="claimBoundary">This application demonstrates a smaller recipient learning to use donor-derived representations bound to exact phrase addresses, with sparse expert and branch execution on CPU.</p>
+    </section>
+  </main>
+
+  <footer><span>Dendritron Transplant Console v1.0.0</span><span>Localhost only · no telemetry · no donor checkpoint included</span></footer>
+  <div class="toast" id="toast"></div>
+  <script src="/app.js"></script>
+</body>
+</html>

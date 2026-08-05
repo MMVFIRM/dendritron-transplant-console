@@ -1,0 +1,14 @@
+{
+  "random_early_mean_abs_drift": 0.008308961056172848,
+  "random_late_mean_abs_drift": 0.009883233346045017,
+  "rows": 2000,
+  "same_order_semantic": true,
+  "same_order_shuffled": true,
+  "schema_version": 1,
+  "seed": 20260804,
+  "semantic_fixed_points": 0,
+  "semantic_unique_rows": 2000,
+  "shuffled_fixed_points": 0,
+  "shuffled_unique_rows": 2000,
+  "width": 32
+}
