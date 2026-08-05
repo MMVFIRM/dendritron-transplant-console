@@ -6,6 +6,11 @@
       "sha256": "c582b47e5e3e073dff12691cca219f52d1cf99da15babe8e053631ed8607ab28"
     },
     {
+      "bytes": 246,
+      "path": ".gitattributes",
+      "sha256": "4f3034d0a04a2a7f695df06daa4390e8aa371a1786f548373b5712b7b7f4c2a5"
+    },
+    {
       "bytes": 654,
       "path": ".github/workflows/ci.yml",
       "sha256": "9a7577290e9d54b5a0290eabe6cdb2cf2e5d2697259752044d9c76f4a425dc1b"
@@ -351,6 +356,11 @@
       "sha256": "fcbf678c636c165401f25bce701242542a8bafb0e54369bd01f822d69b83149f"
     },
     {
+      "bytes": 1273,
+      "path": "scripts/repair_windows_assets.py",
+      "sha256": "ff0309a492cb5d93d1182323d63dbb5ebbf146b530d36bf6233e1123f6e4d338"
+    },
+    {
       "bytes": 1804,
       "path": "scripts/smoke_demo.py",
       "sha256": "144b4ff465b47b0880dcc3a8b21ebd29dd7f609a68831d0392416866913518be"
@@ -376,9 +386,9 @@
       "sha256": "dfc4305aecd435fcdb8cbf9f270affd71e5ee95ab1a0e81100377fd361d39799"
     },
     {
-      "bytes": 621,
+      "bytes": 694,
       "path": "start_windows.bat",
-      "sha256": "625cb0d83f1b82e441496ebe642373e3eef03fc2b686e38f316f7f26fc34fa97"
+      "sha256": "c1a6a8e0d9238549ac5060ea7f71410fd665910798767805b87ec83dfb3a0690"
     },
     {
       "bytes": 333,
@@ -423,5 +433,5 @@
   ],
   "release": "dendritron-transplant-console-v1.0.0",
   "schema_version": 1,
-  "total_bytes": 5480624
+  "total_bytes": 5482216
 }
