@@ -1,0 +1,7 @@
+# Frozen text assets are hashed byte-for-byte and must retain LF endings.
+assets/**/*.json text eol=lf
+assets/**/*.jsonl text eol=lf
+
+# Keep platform launchers native while preserving Unix executable scripts.
+*.bat text eol=crlf
+*.sh text eol=lf
