@@ -1,3 +1,12 @@
+# Store every text file with LF endings so release hashes match on every
+# platform; binary model and array assets are never converted.
+* text=auto eol=lf
+*.pt binary
+*.npy binary
+*.npz binary
+*.png binary
+*.ico binary
+
 # Frozen text assets are hashed byte-for-byte and must retain LF endings.
 assets/**/*.json text eol=lf
 assets/**/*.jsonl text eol=lf

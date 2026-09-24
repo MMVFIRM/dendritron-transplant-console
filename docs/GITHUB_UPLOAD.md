@@ -8,7 +8,7 @@ git init
 git add .
 git commit -m "Release Dendritron Transplant Console v1.1.0"
 git branch -M main
-git remote add origin YOUR_REPOSITORY_REMOTE
+git remote add origin https://github.com/MMVFIRM/dendritron-transplant-console.git
 git push -u origin main
 ```
 
