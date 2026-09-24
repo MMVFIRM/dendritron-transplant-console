@@ -28,10 +28,10 @@ python -m pytest -q
 
 1. Launch `python launch.py`.
 2. Confirm the header reports **Donor offline** and **CPU recipient live**.
-3. Leave **Boolean condition** selected.
+3. Leave **File path** selected.
 4. Run **Correct transplanted memory**.
-5. Confirm the expected token `the` is full-vocabulary rank 1.
-6. Confirm one exact phrase hit for `true if`, address row 34, MACSL card 10.
+5. Confirm the expected token `to` is full-vocabulary rank 1.
+6. Confirm one exact phrase hit for `the path`, address row 166, MACSL card 5.
 7. Confirm four recurrent visits and two active experts per visit.
 8. Click **Compare all controls**.
 9. Confirm all five alternatives have higher target NLL than correct memory.

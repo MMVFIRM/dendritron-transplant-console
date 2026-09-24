@@ -1,0 +1,3 @@
+{"name": "d16/w64_lr3e-2_b64_mlp", "seed": 42, "nll": 3.579234459981964, "train_nll": 2.975223000996421, "dense_acc": 0.3568480861244019, "params": 705487, "active_fraction": 0.030429642828078623, "train_seconds": 8115.184250899998}
+{"name": "d16/w64_lr3e-2_b64_mlp", "seed": 314, "nll": 3.5799007872074986, "train_nll": 2.963359894820948, "dense_acc": 0.3550239234449761, "params": 705487, "active_fraction": 0.030429642828078623, "train_seconds": 8123.9320343}
+{"name": "d16/w64_lr3e-2_b64", "seed": 314, "nll": 3.584043482730263, "train_nll": 2.975268759111468, "dense_acc": 0.35592105263157897, "params": 706063, "active_fraction": 0.030426375657188323, "train_seconds": 8160.65762100002}

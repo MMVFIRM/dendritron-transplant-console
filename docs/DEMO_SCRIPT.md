@@ -11,10 +11,10 @@ Show the donor provenance and recipient parameter cards.
 
 ## 15–35 seconds — run a diagnostic phrase
 
-Choose **Boolean condition**:
+Choose **File path** (the default):
 
 ```text
-true if → the
+the path → to
 ```
 
 Select **Correct transplanted memory** and click **Run trace**.
@@ -40,13 +40,14 @@ Explain:
 > representation bound to that address.”
 
 Compare correct memory against shuffled, semantic-opposite, random, zero, and
-hash-only conditions. Emphasize target probability, NLL, rank, and the retrieved
-value row.
+hash-only conditions. Emphasize target probability (0.69 with correct memory,
+0.02–0.08 under every control), NLL, rank, and the retrieved value row.
 
 ## 65–80 seconds — storage and sparsity
 
 Scroll to the benchmark panel:
 
+- held-out perplexity 36.0 versus 891.8 for the v1.0.0 recipient;
 - 2,000 phrase rows;
 - 5,000 definition rows;
 - 2.60× smaller phrase payload than full 32D rows;

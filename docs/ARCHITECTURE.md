@@ -4,7 +4,7 @@
 
 The console ships no Qwen checkpoint. At runtime it loads only:
 
-1. a 532,639-parameter recipient checkpoint;
+1. a 706,063-parameter recipient checkpoint;
 2. a 2,000-row VIVERE phrase bank;
 3. a 5,000-row frozen definition bank;
 4. deterministic address/value corruption controls;
@@ -43,6 +43,35 @@ Each of the two physical blocks is visited twice. Every visit records:
 
 The packed Dendritron branch computes multiplicative nonlinear interactions
 before integrating branch outputs. Only selected expert/branch slices execute.
+
+### Residual modes
+
+`residual_mode` selects how each visit updates the recurrent state:
+
+- `postnorm` (config default, v1.0.0): `x ← norm(α · norm(α · x + u) + moe)`
+  with α = √(2 · depth). The expert update is small relative to the scaled
+  state.
+- `prenorm` (packaged v1.1.0 recipient): `x ← x + u(norm(x))`, then
+  `x ← x + moe(norm(x))`. Every update is added to an unnormalised residual
+  stream.
+
+`residual_dropout` applies dropout to each sublayer update during training
+only. The config defaults reproduce v1.0.0 checkpoints bit-identically.
+
+## Training objective
+
+`training_loss` selects the vocabulary loss used by `DendritronRecipientLM.loss`:
+
+- `sparse` (config default, v1.0.0): cross-entropy over the candidate tokens of the
+  selected clusters only. Tokens outside those clusters are never pushed down,
+  so the full-vocabulary distribution is poorly calibrated.
+- `full` (packaged v1.1.0 recipient): cross-entropy over the whole vocabulary
+  during training. Inference is unchanged and still scores only the selected
+  clusters.
+
+Both add the cluster-routing loss. `scripts/train_recipient.py` trains a
+recipient; `scripts/benchmark_recipient.py` compares checkpoints. See
+`docs/EXPERIMENTS.md` for the study behind the recommended settings.
 
 ## Sparse output
 

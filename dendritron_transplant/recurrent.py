@@ -147,6 +147,59 @@ class TwoBlockSparseCore(nn.Module):
         self.beta = config.deep_loop_beta
         self.blocks = nn.ModuleList([SparseRecurrentBlock(config) for _ in range(2)])
 
+    def _dropout(self, update: Tensor) -> Tensor:
+        if not self.config.residual_dropout:
+            return update
+        return F.dropout(update, self.config.residual_dropout, self.training)
+
+    def _postnorm_visit(self, block, block_index: int, hidden: Tensor,
+                        payloads: MemoryPayloads | None):
+        """Original scaled post-norm visit: x <- norm(alpha * norm(alpha * x + u) + moe)."""
+        context = block.mixer(block.context_norm(hidden))
+        memory_update, memory_stats = self.memory_fusion(
+            hidden + context,
+            payloads,
+            block_index=block_index,
+            return_stats=True,
+        )
+        if block.lngram is None:
+            lngram_update = torch.zeros_like(hidden)
+            lngram_stats = None
+        else:
+            lngram_update, lngram_stats = block.lngram(
+                hidden + context + memory_update,
+                return_stats=True,
+            )
+        if self.config.residual_dropout:
+            residual = self.alpha * hidden + self._dropout(context + memory_update + lngram_update)
+        else:
+            residual = self.alpha * hidden + context + memory_update + lngram_update
+        contracted = block.context_norm(residual)
+        moe_update, moe_stats = block.moe(contracted, return_stats=True)
+        hidden = block.compute_norm(self.alpha * contracted + self._dropout(moe_update))
+        return hidden, memory_stats, lngram_stats, moe_stats
+
+    def _prenorm_visit(self, block, block_index: int, hidden: Tensor,
+                       payloads: MemoryPayloads | None):
+        """Additive pre-norm visit: x <- x + u(norm(x)); x <- x + moe(norm(x))."""
+        normed = block.context_norm(hidden)
+        context = block.mixer(normed)
+        memory_update, memory_stats = self.memory_fusion(
+            normed + context,
+            payloads,
+            block_index=block_index,
+            return_stats=True,
+        )
+        update = context + memory_update
+        lngram_stats = None
+        if block.lngram is not None:
+            lngram_update, lngram_stats = block.lngram(normed + update, return_stats=True)
+            update = update + lngram_update
+        hidden = hidden + self._dropout(update)
+        moe_update, moe_stats = block.moe(block.compute_norm(hidden), return_stats=True)
+        hidden = hidden + self._dropout(moe_update)
+        return hidden, memory_stats, lngram_stats, moe_stats
+
     @property
     def total_conditional_parameters(self) -> int:
         return sum(block.moe.total_conditional_parameters for block in self.blocks)
@@ -183,29 +236,18 @@ class TwoBlockSparseCore(nn.Module):
         visits: list[RecurrentVisitStats] = []
         final_change = hidden.new_full(hidden.shape[:1], float("inf"))
         rounds_executed = 0
+        prenorm = self.config.residual_mode == "prenorm"
         for round_index in range(total_rounds):
             for block_index, block in enumerate(self.blocks):
                 previous = hidden
-                context = block.mixer(block.context_norm(hidden))
-                memory_update, memory_stats = self.memory_fusion(
-                    hidden + context,
-                    payloads,
-                    block_index=block_index,
-                    return_stats=True,
-                )
-                if block.lngram is None:
-                    lngram_update = torch.zeros_like(hidden)
-                    lngram_stats = None
-                else:
-                    lngram_update, lngram_stats = block.lngram(
-                        hidden + context + memory_update,
-                        return_stats=True,
+                if prenorm:
+                    hidden, memory_stats, lngram_stats, moe_stats = self._prenorm_visit(
+                        block, block_index, hidden, payloads
                     )
-                contracted = block.context_norm(
-                    self.alpha * hidden + context + memory_update + lngram_update
-                )
-                moe_update, moe_stats = block.moe(contracted, return_stats=True)
-                hidden = block.compute_norm(self.alpha * contracted + moe_update)
+                else:
+                    hidden, memory_stats, lngram_stats, moe_stats = self._postnorm_visit(
+                        block, block_index, hidden, payloads
+                    )
                 final_change = _relative_change(
                     hidden,
                     previous,

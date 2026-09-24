@@ -1,0 +1,9 @@
+{"name": "g8/dense_kind", "seed": 7, "nll": 3.952659059369393, "train_nll": 3.1340728686757067, "dense_acc": 0.3236244019138756, "params": 194527, "active_fraction": 0.5, "train_seconds": 561.7045381999924}
+{"name": "g8/width32", "seed": 7, "nll": 4.030506729052968, "train_nll": 3.210075495231665, "dense_acc": 0.3160586124401914, "params": 364847, "active_fraction": 0.03039931627981756, "train_seconds": 1098.123101199977}
+{"name": "g8/no_moe", "seed": 7, "nll": 3.9848649531460265, "train_nll": 3.246046747089003, "dense_acc": 0.31839114832535886, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1278.9236985999742}
+{"name": "g8/ref", "seed": 7, "nll": 4.0024875622617, "train_nll": 3.0241716777308705, "dense_acc": 0.3207535885167464, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1288.9644960000296}
+{"name": "g8/wd0.1", "seed": 7, "nll": 3.961184334640868, "train_nll": 2.991820493269195, "dense_acc": 0.3218002392344498, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1291.870959599968}
+{"name": "g8/dense_kind_6k", "seed": 7, "nll": 4.138020361211312, "train_nll": 2.69048786802155, "dense_acc": 0.3153409090909091, "params": 194527, "active_fraction": 0.5, "train_seconds": 1953.7509120999603}
+{"name": "g8/no_moe_6k", "seed": 7, "nll": 4.133479834743664, "train_nll": 3.1516773205624813, "dense_acc": 0.30657894736842106, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 4555.893614100001}
+{"name": "g8/ref_6k", "seed": 7, "nll": 4.160092900472395, "train_nll": 2.3517743343371524, "dense_acc": 0.31833133971291866, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 4581.975675100053}
+{"name": "g8/ref_6k", "seed": 42, "nll": 4.112897991563715, "train_nll": 2.3823049152867077, "dense_acc": 0.319377990430622, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 4587.759171099984}

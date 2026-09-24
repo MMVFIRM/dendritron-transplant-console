@@ -1,0 +1,20 @@
+
+
+
+
+{"name": "prenorm", "seed": 7, "nll": 6.80594237113113, "dense_acc": 0.0979066985645933, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1886.1991125999775}
+{"name": "mlp_kind", "seed": 7, "nll": 7.040974083129298, "dense_acc": 0.08773923444976077, "params": 532063, "active_fraction": 0.030421616452547515, "train_seconds": 1924.9580122999905}
+{"name": "learn_temp", "seed": 7, "nll": 7.8197345788399, "dense_acc": 0.0701555023923445, "params": 532640, "active_fraction": 0.03041728940892998, "train_seconds": 1917.6059642999899}
+{"name": "balance", "seed": 7, "nll": 7.029726223740281, "dense_acc": 0.08495813397129187, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1953.1425864000048}
+{"name": "no_moe", "seed": 7, "nll": 7.147598865271755, "dense_acc": 0.08875598086124402, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1962.802717499988}
+{"name": "glu", "seed": 7, "nll": 6.959992783833919, "dense_acc": 0.08998205741626794, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1965.6404572000029}
+{"name": "full_gain", "seed": 7, "nll": 7.0205191726319525, "dense_acc": 0.08866626794258373, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1966.2946802000224}
+{"name": "router_temp", "seed": 7, "nll": 7.053885048314145, "dense_acc": 0.08552631578947369, "params": 532641, "active_fraction": 0.03041728940892998, "train_seconds": 1966.8737171000103}
+{"name": "glu_fg_gate1", "seed": 7, "nll": 6.878596722908568, "dense_acc": 0.1020633971291866, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1963.1417662999884}
+{"name": "fg_gate1", "seed": 7, "nll": 6.981589606618197, "dense_acc": 0.08935406698564594, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1964.5889909000252}
+{"name": "branch_softmax", "seed": 7, "nll": 7.051224178332461, "dense_acc": 0.08729066985645934, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1978.8377271000063}
+{"name": "rounds3", "seed": 7, "nll": 7.036050969904119, "dense_acc": 0.0840311004784689, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2336.3742555000063}
+{"name": "rounds1", "seed": 7, "nll": 7.079581900418661, "dense_acc": 0.0881578947368421, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 749.4613856000069}
+{"name": "lr1e-2", "seed": 7, "nll": 6.661520517157595, "dense_acc": 0.1118421052631579, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1047.8895562999824}
+{"name": "lr1e-3", "seed": 7, "nll": 7.344256314364347, "dense_acc": 0.09620215311004784, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1049.644715900009}
+{"name": "zero_mem_ctrl", "seed": 7, "nll": 7.035078247654381, "dense_acc": 0.08723086124401914, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1032.7694065000105}

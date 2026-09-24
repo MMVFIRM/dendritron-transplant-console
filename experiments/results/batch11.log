@@ -1,0 +1,8 @@
+{"name": "x11/dense_kind_3k", "seed": 42, "nll": 3.8525475898998205, "train_nll": 3.0894173617568312, "dense_acc": 0.33020334928229667, "params": 194527, "active_fraction": 0.5, "train_seconds": 516.6858480999945}
+{"name": "x11/dense_kind_3k", "seed": 7, "nll": 3.889290542237496, "train_nll": 3.129446681264485, "dense_acc": 0.32458133971291864, "params": 194527, "active_fraction": 0.5, "train_seconds": 516.6087685000384}
+{"name": "x11/mlp_kind_3k", "seed": 7, "nll": 3.87702763023559, "train_nll": 2.9606611772017044, "dense_acc": 0.33020334928229667, "params": 532063, "active_fraction": 0.030421616452547515, "train_seconds": 1182.0830242999946}
+{"name": "x11/mlp_kind_3k", "seed": 42, "nll": 3.8504159881737814, "train_nll": 2.9609920738986806, "dense_acc": 0.3338815789473684, "params": 532063, "active_fraction": 0.030421616452547515, "train_seconds": 1184.6693500000401}
+{"name": "x11/no_moe_3k", "seed": 7, "nll": 3.903660561593526, "train_nll": 3.173071354770204, "dense_acc": 0.32398325358851676, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1195.042290500016}
+{"name": "x11/drop0.3_3k", "seed": 7, "nll": 3.8662134270918997, "train_nll": 3.025152547735917, "dense_acc": 0.32745215311004783, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1236.751779800048}
+{"name": "x11/best_3k", "seed": 42, "nll": 3.86630433005009, "train_nll": 2.9598878011749123, "dense_acc": 0.33026315789473687, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1237.0191818999592}
+{"name": "x11/best_6k", "seed": 7, "nll": 3.8866260437303755, "train_nll": 2.8211165615246054, "dense_acc": 0.3294856459330144, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1903.5450427999604}

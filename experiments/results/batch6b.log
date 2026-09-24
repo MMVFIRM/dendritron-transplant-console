@@ -1,0 +1,4 @@
+{"name": "p6/dense_loss_temp4", "seed": 7, "nll": 3.9647935712166382, "dense_acc": 0.3224282296650718, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 14953.163637899997}
+{"name": "p6/dense_loss_temp8", "seed": 7, "nll": 4.066370030453331, "dense_acc": 0.32108253588516744, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 14961.968165399972}
+{"name": "p6/dense_loss", "seed": 7, "nll": 4.0024875622617, "dense_acc": 0.3207535885167464, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 14961.736260699981}
+{"name": "p6/dense_loss_w64", "seed": 7, "nll": 3.964867579994019, "dense_acc": 0.32476076555023925, "params": 706063, "active_fraction": 0.030426375657188323, "train_seconds": 15283.888169499987}

@@ -4,7 +4,7 @@ const state = {
   status: null,
   benchmark: null,
   mode: "correct",
-  selectedExample: "true_if_the",
+  selectedExample: null,
   routing: [],
   activeVisit: 0,
 };
@@ -124,6 +124,8 @@ function renderExamples() {
       (item) => `<option value="${escapeHtml(item.id)}">${escapeHtml(item.title)} · “${escapeHtml(item.display_prompt)}” → ${escapeHtml(item.target)}</option>`,
     )
     .join("");
+  // The first packaged example is the demo's default diagnostic.
+  if (state.selectedExample === null) state.selectedExample = state.status.examples[0]?.id ?? "";
   select.value = state.selectedExample;
   applyExample(state.selectedExample);
 }
@@ -139,14 +141,25 @@ function applyExample(exampleId) {
   $("targetInput").value = item.target;
 }
 
+function packagedRecipient() {
+  const report = state.benchmark.recipient_benchmark;
+  return report ? report.recipients[report.recipients.length - 1] : null;
+}
+
 function renderHeadline() {
   const headline = state.benchmark.headline;
+  const recipient = packagedRecipient();
   const cards = [
-    [formatPercent(headline.active_conditional_fraction, 2), "conditional tissue active"],
+    [formatPercent(state.status.recipient.conditional_active_fraction, 2), "conditional tissue active"],
     [`${headline.phrase_bank_compression_ratio.toFixed(2)}×`, "phrase-memory compression"],
-    [formatPercent(headline.perplexity_reduction_vs_raw, 2), "perplexity reduction vs raw rows"],
-    [`${headline.local_cards_vs_global_seed_wins}/${headline.local_cards_vs_global_seed_count}`, "MACSL wins vs global card"],
   ];
+  if (recipient) {
+    cards.push([recipient.validation_perplexity.toFixed(1), "held-out perplexity"]);
+    cards.push([formatPercent(recipient.dense_accuracy, 1), "next-token accuracy"]);
+  } else {
+    cards.push([formatPercent(headline.perplexity_reduction_vs_raw, 2), "perplexity reduction vs raw rows"]);
+    cards.push([`${headline.local_cards_vs_global_seed_wins}/${headline.local_cards_vs_global_seed_count}`, "MACSL wins vs global card"]);
+  }
   $("headlineMetrics").innerHTML = cards
     .map(([value, label]) => `<div class="metric-chip"><strong>${escapeHtml(value)}</strong><span>${escapeHtml(label)}</span></div>`)
     .join("");
@@ -158,13 +171,15 @@ function renderBenchmark() {
     [`${headline.phrase_rows.toLocaleString()}`, "frozen phrase rows", "1,000 bigrams and 1,000 trigrams"],
     [`${headline.definition_rows.toLocaleString()}`, "definition vectors", "frozen official-Qwen layer-2 reference memory"],
     [formatPercent(headline.active_vocabulary_fraction, 1), "vocabulary active", "clustered sparse candidate scoring per token"],
-    [formatPercent(headline.active_conditional_fraction, 2), "conditional capacity active", "top-2 experts and top-2 branches per expert"],
+    [formatPercent(state.status.recipient.conditional_active_fraction, 2), "conditional capacity active", "top-2 experts and top-2 branches per expert"],
   ];
   $("benchmarkCards").innerHTML = benchmarkCards
     .map(
       ([value, label, note]) => `<div class="benchmark-card"><span>${escapeHtml(label)}</span><strong>${escapeHtml(value)}</strong><p>${escapeHtml(note)}</p></div>`,
     )
     .join("");
+
+  renderRecipientBenchmark();
 
   const methods = state.benchmark.full_architecture;
   $("benchmarkTable").querySelector("tbody").innerHTML = methods
@@ -192,6 +207,33 @@ function renderBenchmark() {
         </div>`,
     )
     .join("");
+}
+
+function renderRecipientBenchmark() {
+  const report = state.benchmark.recipient_benchmark;
+  const body = $("recipientTable").querySelector("tbody");
+  if (!report) {
+    body.innerHTML = "";
+    $("recipientNotes").textContent = "";
+    return;
+  }
+  body.innerHTML = report.recipients
+    .map((recipient, index) => {
+      const costs = recipient.control_nll_cost;
+      const corrupted = (costs.shuffled + costs.semantic_opposite + costs.random_frozen) / 3;
+      return `
+        <tr class="${index === report.recipients.length - 1 ? "selected-row" : ""}">
+          <td>${escapeHtml(recipient.label)}</td>
+          <td>${formatInteger(recipient.stored_parameters)}</td>
+          <td>${recipient.validation_nll.toFixed(3)}</td>
+          <td>${recipient.validation_perplexity.toFixed(1)}</td>
+          <td>${formatPercent(recipient.dense_accuracy, 1)}</td>
+          <td>+${corrupted.toFixed(3)} NLL</td>
+          <td>${recipient.latency_median_ms_16_tokens.toFixed(1)} ms</td>
+        </tr>`;
+    })
+    .join("");
+  $("recipientNotes").textContent = report.notes.join(" ");
 }
 
 function renderInitialResources() {

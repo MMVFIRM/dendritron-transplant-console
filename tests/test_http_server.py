@@ -33,7 +33,7 @@ def test_http_api_and_static_frontend(root, engine: DemoEngine) -> None:
         assert status["ready"] is True
         analysis = request_json(
             base + "/api/analyze",
-            {"example_id": "true_if_the", "mode": "correct", "max_new_tokens": 1},
+            {"example_id": engine.examples[0]["id"], "mode": "correct", "max_new_tokens": 1},
         )
         assert analysis["steps"][0]["target"]["rank"] == 1
         with urlopen(base + "/", timeout=30) as response:  # noqa: S310

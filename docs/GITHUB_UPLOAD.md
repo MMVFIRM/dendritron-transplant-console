@@ -3,10 +3,10 @@
 The release ZIP contains one repository root. Extract it, then run:
 
 ```bash
-cd dendritron-transplant-console-v1.0.0
+cd dendritron-transplant-console-v1.1.0
 git init
 git add .
-git commit -m "Release Dendritron Transplant Console v1.0.0"
+git commit -m "Release Dendritron Transplant Console v1.1.0"
 git branch -M main
 git remote add origin YOUR_REPOSITORY_REMOTE
 git push -u origin main
@@ -37,5 +37,5 @@ Suggested repository description:
 Suggested release title:
 
 ```text
-Dendritron Transplant Console v1.0.0 — Mechanistic Research Demo
+Dendritron Transplant Console v1.1.0 — Mechanistic Research Demo
 ```

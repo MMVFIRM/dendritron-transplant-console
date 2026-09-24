@@ -94,10 +94,15 @@
     </section>
 
     <section class="shell benchmark-section">
-      <div class="section-heading"><div><span class="panel-kicker">06 · BENCHMARKS</span><h2>What the released evidence supports</h2></div><p>Five paired seeds. Official Qwen-derived assets. VM32 is a post-JTD transfer/compression gate, not Qwen-equivalent model compression.</p></div>
+      <div class="section-heading"><div><span class="panel-kicker">06 · BENCHMARKS</span><h2>What the released evidence supports</h2></div><p>Fixed 1,000-record held-out validation set. Official Qwen-derived assets. Not Qwen-equivalent model compression.</p></div>
       <div class="benchmark-cards" id="benchmarkCards"></div>
       <article class="panel benchmark-table-panel">
-        <div class="panel-heading"><div><span class="panel-kicker">FULL ARCHITECTURE</span><h2>Quality, storage, and latency</h2></div><span class="count-badge">5 seeds</span></div>
+        <div class="panel-heading"><div><span class="panel-kicker">RECIPIENT</span><h2>Packaged recipient versus v1.0.0</h2></div><span class="count-badge">same memory banks</span></div>
+        <div class="table-wrap"><table id="recipientTable"><thead><tr><th>Recipient</th><th>Parameters</th><th>NLL ↓</th><th>Perplexity ↓</th><th>Accuracy ↑</th><th>Corrupted-memory cost ↑</th><th>CPU median</th></tr></thead><tbody></tbody></table></div>
+        <p class="section-copy" id="recipientNotes"></p>
+      </article>
+      <article class="panel benchmark-table-panel">
+        <div class="panel-heading"><div><span class="panel-kicker">PHRASE MEMORY · GATE 2C-VM32</span><h2>Memory quality, storage, and latency (v1.0.0 recipient)</h2></div><span class="count-badge">5 seeds</span></div>
         <div class="table-wrap"><table id="benchmarkTable"><thead><tr><th>Phrase memory</th><th>NLL ↓</th><th>Perplexity ↓</th><th>Sparse accuracy ↑</th><th>Bank bytes ↓</th><th>CPU median</th></tr></thead><tbody></tbody></table></div>
         <div class="benchmark-bars" id="benchmarkBars"></div>
       </article>
@@ -109,7 +114,7 @@
     </section>
   </main>
 
-  <footer><span>Dendritron Transplant Console v1.0.0</span><span>Localhost only · no telemetry · no donor checkpoint included</span></footer>
+  <footer><span>Dendritron Transplant Console v1.1.0</span><span>Localhost only · no telemetry · no donor checkpoint included</span></footer>
   <div class="toast" id="toast"></div>
   <script src="/app.js"></script>
 </body>

@@ -16,6 +16,8 @@ EXCLUDED_PARTS = {
     ".ruff_cache",
     "dist",
     "release",
+    "build",
+    ".cache",
 }
 
 
@@ -70,7 +72,7 @@ def main() -> None:
         root / "ASSET_MANIFEST.json",
         {
             "schema_version": 1,
-            "release": "dendritron-transplant-console-v1.0.0",
+            "release": "dendritron-transplant-console-v1.1.0",
             "kind": "frozen_demo_assets",
             "files": asset_records,
             "total_bytes": sum(int(item["bytes"]) for item in asset_records),
@@ -83,7 +85,7 @@ def main() -> None:
         root / "RELEASE_MANIFEST.json",
         {
             "schema_version": 1,
-            "release": "dendritron-transplant-console-v1.0.0",
+            "release": "dendritron-transplant-console-v1.1.0",
             "files": release_records,
             "total_bytes": sum(int(item["bytes"]) for item in release_records),
         },

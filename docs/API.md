@@ -13,7 +13,9 @@ locked examples, environment versions, and the claims boundary.
 
 ## `GET /api/benchmark`
 
-Returns the retained five-seed Gate 2C-VM32 benchmark summary.
+Returns the retained five-seed Gate 2C-VM32 phrase-memory summary plus
+`recipient_benchmark`: the packaged recipient versus v1.0.0 on the fixed
+held-out records.
 
 ## `POST /api/analyze`
 
@@ -21,7 +23,7 @@ Example request:
 
 ```json
 {
-  "example_id": "true_if_the",
+  "example_id": "the_path_to",
   "mode": "correct",
   "max_new_tokens": 1
 }
@@ -31,8 +33,8 @@ Custom prompt request:
 
 ```json
 {
-  "prompt": "true if",
-  "target": "the",
+  "prompt": "the path",
+  "target": "to",
   "mode": "semantic_opposite",
   "max_new_tokens": 1
 }
@@ -42,7 +44,7 @@ Custom prompt request:
 
 ```json
 {
-  "example_id": "true_if_the"
+  "example_id": "the_path_to"
 }
 ```
 

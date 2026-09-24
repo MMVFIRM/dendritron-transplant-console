@@ -1,0 +1,12 @@
+{"name": "tuned/prenorm+dense_kind", "seed": 7, "nll": 6.510943267676248, "dense_acc": 0.12260765550239235, "params": 194527, "active_fraction": 0.5, "train_seconds": 1084.3073422999878}
+{"name": "tuned/prenorm+rounds1", "seed": 7, "nll": 6.3854364860571176, "dense_acc": 0.13663277511961722, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1408.587824200018}
+{"name": "tuned/prenorm+no_evidence", "seed": 7, "nll": 6.319986137134607, "dense_acc": 0.14004186602870813, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1805.307104699983}
+{"name": "tuned/prenorm+mlp_kind", "seed": 7, "nll": 6.318806304201555, "dense_acc": 0.13866626794258374, "params": 532063, "active_fraction": 0.030421616452547515, "train_seconds": 1872.4311798999843}
+{"name": "tuned/prenorm+no_moe", "seed": 7, "nll": 6.551065282502242, "dense_acc": 0.11782296650717704, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1888.5545480999863}
+{"name": "tuned/prenorm+glu", "seed": 7, "nll": 6.36888753352553, "dense_acc": 0.13513755980861245, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1897.8050644000177}
+{"name": "tuned/prenorm", "seed": 1618, "nll": 6.330362157502242, "dense_acc": 0.13944377990430623, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1901.6624108999968}
+{"name": "tuned/prenorm", "seed": 42, "nll": 6.360016876658754, "dense_acc": 0.1362141148325359, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1903.5828410999966}
+{"name": "tuned/prenorm", "seed": 314, "nll": 6.283224633321808, "dense_acc": 0.1442583732057416, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1906.0905763999908}
+{"name": "tuned/baseline", "seed": 314, "nll": 6.499351464960563, "dense_acc": 0.12446172248803827, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1908.6751334000146}
+{"name": "tuned/baseline", "seed": 1618, "nll": 6.508196875467255, "dense_acc": 0.12634569377990432, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1911.5673913999926}
+{"name": "tuned/prenorm+memctrl", "seed": 7, "nll": 6.2601362602562425, "dense_acc": 0.14560406698564593, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1904.4130548000103}

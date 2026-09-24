@@ -11,19 +11,25 @@
 - Fixed-model memory substitutions can change target probability, rank, hidden
   state, and output candidates.
 - The selected VM32 VIVERE/MACSL representation is smaller than full 32D rows
-  while retaining similar measured fixture quality.
+  while retaining similar measured fixture quality (measured with the v1.0.0
+  recipient).
+- On the fixed held-out records, the v1.1.0 recipient reaches 3.584 NLL
+  (perplexity 36.0) and 35.6% next-token accuracy, and corrupting only its
+  retrieved memory raises NLL by about 0.17.
 
 ## Not supported
 
 Do not describe this package as:
 
-- “Qwen compressed into 532K parameters”;
+- “Qwen compressed into 706K parameters”;
 - “Qwen running on CPU through Dendritrons”;
 - “Qwen-equivalent performance”;
 - “a production chatbot”;
 - “a proven Transformer replacement”;
 - “a native ARM runtime”;
-- “a demonstrated latency improvement from VIVERE.”
+- “a demonstrated latency improvement from VIVERE”;
+- “Dendritron branches outperform MLP branches” (parameter-matched MLP
+  branches are about 0.01 NLL better on this benchmark).
 
 The correct description is:
 

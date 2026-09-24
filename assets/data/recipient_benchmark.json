@@ -1,0 +1,66 @@
+{
+  "notes": [
+    "Latency: one CPU thread, 16 tokens, median of seven interleaved rounds.",
+    "Control cost: increase in validation NLL when only the retrieved phrase values change (or exact retrieval is disabled) with the recipient fixed.",
+    "Seed NLLs are independent training runs of the v1.1.0 recipe; the packaged checkpoint is seed 7 trained with the package trainer (3.5844).",
+    "Parameter-matched MLP branches reach 3.579 on the same recipe (3 seeds); the Dendritron branch is kept as the demonstrated primitive. See docs/EXPERIMENTS.md."
+  ],
+  "recipients": [
+    {
+      "active_conditional_parameters_per_token": 10705,
+      "cluster_recall": 0.8094796650717704,
+      "conditional_active_fraction": 0.03041728940892998,
+      "control_nll_cost": {
+        "hash_only": 0.04468532726525076,
+        "random_frozen": 0.04691056977048458,
+        "semantic_opposite": 0.058368576998915955,
+        "shuffled": 0.04757778039959604,
+        "zero": 0.044487707694751855
+      },
+      "dense_accuracy": 0.08202751196172249,
+      "id": "v1_0",
+      "label": "v1.0.0 packaged recipient",
+      "latency_median_ms_16_tokens": 8.94,
+      "recipe": "postnorm residual, cluster-sparse loss, benchmark corpus",
+      "seed_validation_nll": null,
+      "sparse_accuracy": 0.1513755980861244,
+      "stored_parameters": 532639,
+      "validation_nll": 6.793196332283568,
+      "validation_perplexity": 891.7593705979757
+    },
+    {
+      "active_conditional_parameters_per_token": 14225,
+      "cluster_recall": 0.8124700956937799,
+      "conditional_active_fraction": 0.030426375657188323,
+      "control_nll_cost": {
+        "hash_only": 0.12410290731767715,
+        "random_frozen": 0.1648914610940304,
+        "semantic_opposite": 0.18789980217600544,
+        "shuffled": 0.171526318417782,
+        "zero": 0.07766446930369675
+      },
+      "dense_accuracy": 0.35568181818181815,
+      "id": "v1_1_compact",
+      "label": "v1.1.0 compact recipient",
+      "latency_median_ms_16_tokens": 8.85,
+      "recipe": "prenorm residual, dropout 0.2, full-vocabulary loss, width 64, batch 64, 6,000 steps, benchmark + non-validation stdlib docstrings",
+      "seed_validation_nll": {
+        "314": 3.584,
+        "42": 3.5879,
+        "7": 3.5929
+      },
+      "sparse_accuracy": 0.3513456937799043,
+      "stored_parameters": 706063,
+      "validation_nll": 3.584415118203779,
+      "validation_perplexity": 36.032276931722116
+    }
+  ],
+  "release": "dendritron-transplant-console-v1.1.0",
+  "schema_version": 1,
+  "validation": {
+    "metric": "full-vocabulary next-token NLL on the fixed held-out records",
+    "records": 1000,
+    "tokens": 33440,
+    "windows": 1045
+  }
+}

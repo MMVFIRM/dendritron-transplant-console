@@ -22,6 +22,10 @@ CPython 3.13 standard-library documentation strings. Python is distributed
 under the Python Software Foundation License Version 2 together with
 additional historical and incorporated-component notices.
 
+The v1.1.0 recipient weights were additionally trained on non-validation
+CPython 3.13 standard-library documentation strings. That text is not
+redistributed in this package.
+
 The applicable Python license text is retained at
 `licenses/PSF-LICENSE.txt`.
 

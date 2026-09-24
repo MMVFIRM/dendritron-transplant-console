@@ -15,10 +15,11 @@ from demo_server.engine import DemoEngine  # noqa: E402
 def main() -> None:
     engine = DemoEngine(ROOT, threads=1)
     status = engine.status()
+    default = engine.examples[0]["id"]  # the demo's default diagnostic
     analysis = engine.analyze(
-        {"example_id": "true_if_the", "mode": "correct", "max_new_tokens": 1}
+        {"example_id": default, "mode": "correct", "max_new_tokens": 1}
     )
-    comparison = engine.compare({"example_id": "true_if_the"})
+    comparison = engine.compare({"example_id": default})
     step = analysis["steps"][0]
     summary = {
         "donor_loaded": status["donor_loaded"],
