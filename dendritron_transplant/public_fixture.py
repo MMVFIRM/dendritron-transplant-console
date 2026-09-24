@@ -33,8 +33,13 @@ def _clean(text: str, limit: int = 800) -> str:
     return value[:limit].strip()
 
 
-def scan_python_stdlib(root: Path, *, limit: int = 5000) -> tuple[DefinitionRecord, ...]:
-    """Collect module, class, and function docstrings in stable source order."""
+def scan_python_stdlib(root: Path, *, limit: int | None = 5000,
+                       definition_limit: int = 800) -> tuple[DefinitionRecord, ...]:
+    """Collect module, class, and function docstrings in stable source order.
+
+    ``limit=None`` returns every docstring found. ``definition_limit`` is the
+    character clip applied to each docstring (800 for the Gate 2 fixture).
+    """
     candidates: list[DefinitionRecord] = []
     seen: set[tuple[str, str]] = set()
     for path in sorted(root.rglob("*.py")):
@@ -60,7 +65,7 @@ def scan_python_stdlib(root: Path, *, limit: int = 5000) -> tuple[DefinitionReco
             qualified = f"{module_name}.{node.name}"
             nodes.append((node.name, qualified, doc))
         for headword, qualified, doc in sorted(nodes, key=lambda item: item[1]):
-            definition = _clean(doc)
+            definition = _clean(doc, definition_limit)
             if len(definition) < 24:
                 continue
             identity = (headword.casefold(), definition.casefold())
@@ -76,6 +81,8 @@ def scan_python_stdlib(root: Path, *, limit: int = 5000) -> tuple[DefinitionReco
                 qualified_name=qualified,
             ))
     candidates.sort(key=lambda item: hashlib.sha256(item.record_id.encode()).hexdigest())
+    if limit is None:
+        return tuple(candidates)
     if len(candidates) < limit:
         raise RuntimeError(f"stdlib scan produced {len(candidates)} definitions; {limit} required")
     return tuple(candidates[:limit])

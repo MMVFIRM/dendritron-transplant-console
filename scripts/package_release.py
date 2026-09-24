@@ -6,6 +6,7 @@ import argparse
 import hashlib
 import shutil
 import subprocess
+import sys
 import tempfile
 from pathlib import Path
 import zipfile
@@ -19,6 +20,8 @@ EXCLUDED = {
     ".ruff_cache",
     "dist",
     "release",
+    "build",
+    ".cache",
 }
 
 
@@ -36,11 +39,11 @@ def main() -> None:
     parser.add_argument("--skip-tests", action="store_true")
     args = parser.parse_args()
     root = Path(__file__).resolve().parents[1]
-    subprocess.run(["python", str(root / "scripts/build_manifests.py")], check=True)
-    subprocess.run(["python", str(root / "scripts/verify_assets.py")], check=True)
-    subprocess.run(["python", str(root / "scripts/verify_release.py")], check=True)
+    subprocess.run([sys.executable, str(root / "scripts/build_manifests.py")], check=True)
+    subprocess.run([sys.executable, str(root / "scripts/verify_assets.py")], check=True)
+    subprocess.run([sys.executable, str(root / "scripts/verify_release.py")], check=True)
     if not args.skip_tests:
-        subprocess.run(["python", "-m", "pytest", "-q"], cwd=root, check=True)
+        subprocess.run([sys.executable, "-m", "pytest", "-q"], cwd=root, check=True)
 
     destination = args.output_dir.resolve()
     destination.mkdir(parents=True, exist_ok=True)
@@ -66,10 +69,10 @@ def main() -> None:
         with zipfile.ZipFile(archive) as handle:
             handle.extractall(extracted)
         release = extracted / root.name
-        subprocess.run(["python", "scripts/verify_assets.py"], cwd=release, check=True)
-        subprocess.run(["python", "scripts/verify_release.py"], cwd=release, check=True)
+        subprocess.run([sys.executable, "scripts/verify_assets.py"], cwd=release, check=True)
+        subprocess.run([sys.executable, "scripts/verify_release.py"], cwd=release, check=True)
         if not args.skip_tests:
-            subprocess.run(["python", "-m", "pytest", "-q"], cwd=release, check=True)
+            subprocess.run([sys.executable, "-m", "pytest", "-q"], cwd=release, check=True)
 
     print(f"Release: {archive}")
     print(f"SHA-256: {sha256(archive)}")

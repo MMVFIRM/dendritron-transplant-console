@@ -1,0 +1,14 @@
+{"name": "dense_kind", "seed": 7, "nll": 7.013389069041567, "dense_acc": 0.08738038277511961, "params": 194527, "active_fraction": 0.5, "train_seconds": 1178.534559199994}
+{"name": "lr1e-2/rounds1", "seed": 7, "nll": 6.683174753873542, "dense_acc": 0.10571172248803828, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1603.693760299997}
+{"name": "no_evidence", "seed": 7, "nll": 7.005837151194303, "dense_acc": 0.08983253588516746, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2092.545565299981}
+{"name": "lr1e-2/glu_fg_gate1", "seed": 7, "nll": 6.6366741709731984, "dense_acc": 0.1153708133971292, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2171.480240600009}
+{"name": "lr1e-2/prenorm_glu_fg_gate1", "seed": 7, "nll": 6.479846147601114, "dense_acc": 0.12613636363636363, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2171.7735859999957}
+{"name": "lr1e-2/glu", "seed": 7, "nll": 6.625048477683912, "dense_acc": 0.11575956937799044, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2172.09361489999}
+{"name": "lr1e-2/no_moe", "seed": 7, "nll": 6.882679858047997, "dense_acc": 0.0910586124401914, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2186.836991599994}
+{"name": "lr1e-2/prenorm", "seed": 7, "nll": 6.415571484725441, "dense_acc": 0.12954545454545455, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2186.530877000012}
+{"name": "lr1e-2/mlp_kind", "seed": 7, "nll": 6.664057958867561, "dense_acc": 0.10855263157894737, "params": 532063, "active_fraction": 0.030421616452547515, "train_seconds": 2186.589925200009}
+{"name": "gate1", "seed": 7, "nll": 7.018284380607057, "dense_acc": 0.08436004784688995, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2187.719229600014}
+{"name": "lr2e-2", "seed": 7, "nll": 6.450315411581377, "dense_acc": 0.12748205741626795, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2189.6812614999944}
+{"name": "baseline", "seed": 7, "nll": 7.0377921948592626, "dense_acc": 0.0847188995215311, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2192.95990300001}
+{"name": "lr3e-2", "seed": 7, "nll": 6.399340192438883, "dense_acc": 0.1305921052631579, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2195.4313033999933}
+{"name": "lr1e-2/zero_mem_ctrl", "seed": 7, "nll": 6.661930635443144, "dense_acc": 0.10915071770334928, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2193.097258900001}

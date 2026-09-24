@@ -1,0 +1,3 @@
+{"name": "d13/stdlib_full/mlp_kind_6k", "seed": 7, "nll": 3.664804427589526, "train_nll": 3.291012149792539, "dense_acc": 0.343122009569378, "params": 532063, "active_fraction": 0.030421616452547515, "train_seconds": 3941.6464967000065}
+{"name": "d13/stdlib_full/best_6k", "seed": 42, "nll": 3.668628645171389, "train_nll": 3.2944868607954545, "dense_acc": 0.3439593301435407, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 3954.8219241999905}
+{"name": "d13/stdlib_full/best_12k", "seed": 7, "nll": 3.6573971689032594, "train_nll": 3.226248431776129, "dense_acc": 0.3458433014354067, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 5767.9709727000445}

@@ -6,6 +6,8 @@ from dataclasses import asdict, dataclass, field, fields
 from typing import Any, Literal, Mapping
 
 ExpertKind = Literal["dense", "mlp", "dendritron"]
+ResidualMode = Literal["postnorm", "prenorm"]
+TrainingLoss = Literal["sparse", "full"]
 
 
 @dataclass(frozen=True)
@@ -101,6 +103,11 @@ class DendritronRecipientConfig:
     use_lngram: bool = False
 
     causal_kernel_size: int = 5
+    # "postnorm" is the original scaled post-norm recurrence (alpha * x, then
+    # RMSNorm). "prenorm" adds every sublayer update to an unnormalised
+    # residual stream, which lets expert updates change the state.
+    residual_mode: ResidualMode = "postnorm"
+    residual_dropout: float = 0.0
     residual_epsilon: float = 1e-6
     route_epsilon: float = 1e-6
 
@@ -108,6 +115,9 @@ class DendritronRecipientConfig:
     vocabulary_top_k_clusters: int = 2
     output_temperature: float = 8.0
     cluster_loss_weight: float = 0.25
+    # "sparse" trains only against tokens in the selected clusters; "full"
+    # trains against the whole vocabulary (inference stays cluster-sparse).
+    training_loss: TrainingLoss = "sparse"
 
     hash_memory: HashMemoryConfig = field(default_factory=HashMemoryConfig)
     lngram: LNGramConfig = field(default_factory=LNGramConfig)
@@ -146,6 +156,12 @@ class DendritronRecipientConfig:
             raise ValueError("max_sequence_length must be at least 2")
         if self.causal_kernel_size % 2 == 0:
             raise ValueError("causal_kernel_size must be odd")
+        if self.residual_mode not in {"postnorm", "prenorm"}:
+            raise ValueError("residual_mode must be postnorm or prenorm")
+        if not 0.0 <= self.residual_dropout < 1.0:
+            raise ValueError("residual_dropout must be in [0, 1)")
+        if self.training_loss not in {"sparse", "full"}:
+            raise ValueError("training_loss must be sparse or full")
         if self.output_temperature <= 0:
             raise ValueError("output_temperature must be positive")
         if not 0 <= self.cluster_loss_weight <= 10:

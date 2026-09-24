@@ -29,16 +29,17 @@ def test_control_invariants_preserve_addresses(engine: DemoEngine) -> None:
 
 
 def test_live_trace_exposes_exact_memory_and_sparse_routing(engine: DemoEngine) -> None:
+    example = engine.examples[0]
     result = engine.analyze(
-        {"example_id": "true_if_the", "mode": "correct", "max_new_tokens": 1}
+        {"example_id": example["id"], "mode": "correct", "max_new_tokens": 1}
     )
     assert result["engine"] == "live"
     step = result["steps"][0]
-    assert step["target"]["token"] == "the"
+    assert step["target"]["token"] == example["target"]
     assert step["target"]["rank"] == 1
     assert step["phrase_hits"]
-    assert step["phrase_hits"][-1]["address_row"] == 34
-    assert step["phrase_hits"][-1]["value_row"] == 34
+    assert step["phrase_hits"][-1]["address_row"] == example["address_row"]
+    assert step["phrase_hits"][-1]["value_row"] == example["address_row"]
     assert len(step["routing"]) == 4
     for visit in step["routing"]:
         assert len(visit["selected_experts"]) == 2
@@ -47,8 +48,21 @@ def test_live_trace_exposes_exact_memory_and_sparse_routing(engine: DemoEngine) 
     assert result["resource_summary"]["donor_loaded"] is False
 
 
+def test_every_packaged_example_is_a_valid_memory_diagnostic(engine: DemoEngine) -> None:
+    """Each example ranks its target first and correct memory beats every control."""
+    for example in engine.examples:
+        result = engine.compare({"example_id": example["id"]})
+        modes = {item["mode"]: item for item in result["modes"]}
+        correct = modes["correct"]
+        assert correct["target"]["rank"] == 1, example["id"]
+        for mode in ("shuffled", "semantic_opposite", "random_frozen", "zero", "hash_only"):
+            assert correct["target"]["nll"] < modes[mode]["target"]["nll"], (example["id"], mode)
+
+
 def test_fixed_model_memory_swap_changes_diagnostic_result(engine: DemoEngine) -> None:
-    result = engine.compare({"example_id": "true_if_the"})
+    example = engine.examples[0]
+    row = example["address_row"]
+    result = engine.compare({"example_id": example["id"]})
     modes = {item["mode"]: item for item in result["modes"]}
     assert set(modes) == {
         "correct",
@@ -67,8 +81,8 @@ def test_fixed_model_memory_swap_changes_diagnostic_result(engine: DemoEngine) -
         for item in result["modes"]
         if item["phrase_hits"]
     }
-    assert address_rows == {34}
-    assert modes["shuffled"]["phrase_hits"][-1]["value_row"] != 34
-    assert modes["semantic_opposite"]["phrase_hits"][-1]["value_row"] != 34
+    assert address_rows == {row}
+    assert modes["shuffled"]["phrase_hits"][-1]["value_row"] != row
+    assert modes["semantic_opposite"]["phrase_hits"][-1]["value_row"] != row
     assert modes["zero"]["phrase_hits"][-1]["value_row"] is None
     assert modes["hash_only"]["phrase_hits"][-1]["exact_enabled"] is False

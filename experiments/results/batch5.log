@@ -1,0 +1,15 @@
+{"name": "p5/no_lngram", "seed": 7, "nll": 6.364699149245851, "dense_acc": 0.13690191387559808, "params": 506525, "active_fraction": 0.03041728940892998, "train_seconds": 1852.3354889000184}
+{"name": "p5/no_defmem", "seed": 7, "nll": 6.3292416805285585, "dense_acc": 0.14189593301435408, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1888.3646986999956}
+{"name": "p5/router_temp", "seed": 7, "nll": 6.307805257550838, "dense_acc": 0.14213516746411484, "params": 532641, "active_fraction": 0.03041728940892998, "train_seconds": 1941.0363197000115}
+{"name": "p5/balance", "seed": 7, "nll": 6.33421768115468, "dense_acc": 0.13974282296650717, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1944.6587202000082}
+{"name": "p5/temp10", "seed": 7, "nll": 7.125080849679463, "dense_acc": 0.10726674641148326, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1954.674612200004}
+{"name": "p5/layerscale", "seed": 7, "nll": 6.321168101917614, "dense_acc": 0.1396531100478469, "params": 532831, "active_fraction": 0.03041728940892998, "train_seconds": 1955.6602291000017}
+{"name": "p5/temp16", "seed": 7, "nll": 7.581780932850815, "dense_acc": 0.09955143540669857, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1955.737522099982}
+{"name": "p5/kernel9", "seed": 7, "nll": 6.348854948344983, "dense_acc": 0.14333133971291867, "params": 533023, "active_fraction": 0.03041728940892998, "train_seconds": 1961.6559608000098}
+{"name": "p5/experts24", "seed": 7, "nll": 6.3916085275166346, "dense_acc": 0.13669258373205742, "params": 884575, "active_fraction": 0.016027016198921967, "train_seconds": 1962.4213942999777}
+{"name": "p5/attn", "seed": 7, "nll": 6.47718895725086, "dense_acc": 0.12760167464114833, "params": 551167, "active_fraction": 0.03041728940892998, "train_seconds": 1974.6650111000054}
+{"name": "p5/branch_top3", "seed": 7, "nll": 6.342347140517531, "dense_acc": 0.1417165071770335, "params": 532639, "active_fraction": 0.043987861498332094, "train_seconds": 2120.5564402000164}
+{"name": "p5/hidden24", "seed": 7, "nll": 6.317013637414959, "dense_acc": 0.14461722488038278, "params": 869599, "active_fraction": 0.029126227685375775, "train_seconds": 2165.6196313999826}
+{"name": "p5/rounds3", "seed": 7, "nll": 6.324318815532483, "dense_acc": 0.14267344497607656, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2176.154551500018}
+{"name": "p5/width64", "seed": 7, "nll": 6.137065526058799, "dense_acc": 0.1645035885167464, "params": 706063, "active_fraction": 0.030426375657188323, "train_seconds": 2203.147664399992}
+{"name": "p5/clusters4", "seed": 7, "nll": 5.9988747190630605, "dense_acc": 0.19336124401913876, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 2260.7504296000116}

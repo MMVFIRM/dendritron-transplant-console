@@ -1,702 +1,676 @@
 [
   {
-    "address_row": 98,
-    "display_prompt": "create a",
-    "exact_phrase": "create a",
-    "id": "create_new",
-    "mean_control_nll_penalty": 0.9124469757080078,
-    "mean_recorded_control_nll_penalty": 0.6991913035493411,
+    "address_row": 166,
+    "display_prompt": "the path",
+    "exact_phrase": "the path",
+    "id": "the_path_to",
+    "mean_control_nll_penalty": 2.7312037230540493,
+    "mean_recorded_control_nll_penalty": 2.7312037230540493,
     "order": 2,
     "recorded_live_control_metrics": {
       "correct": {
-        "hidden_cosine_to_correct": 1.0000001192092896,
+        "hidden_cosine_to_correct": 0.9999999403953552,
         "jensen_shannon_to_correct": 0.0,
-        "next_token": "a",
-        "nll": 8.800662301725337,
-        "probability": 0.00015063327737152576,
-        "rank": 926
+        "next_token": "to",
+        "nll": 0.36752709768179753,
+        "probability": 0.6924445629119873,
+        "rank": 1
       },
       "hash_only": {
-        "hidden_cosine_to_correct": 0.9682819247245789,
-        "jensen_shannon_to_correct": 0.014561752788722515,
-        "next_token": "a",
-        "nll": 9.597188556015588,
-        "probability": 6.791941996198148e-05,
-        "rank": 1182
+        "hidden_cosine_to_correct": 0.9452988505363464,
+        "jensen_shannon_to_correct": 0.2746475040912628,
+        "next_token": "is",
+        "nll": 2.5814439477602025,
+        "probability": 0.07566466927528381,
+        "rank": 2
       },
       "random_frozen": {
-        "hidden_cosine_to_correct": 0.9444035291671753,
-        "jensen_shannon_to_correct": 0.024722633883357048,
-        "next_token": "<unk>",
-        "nll": 9.736064228107093,
-        "probability": 5.911273183301091e-05,
-        "rank": 1199
+        "hidden_cosine_to_correct": 0.9317438006401062,
+        "jensen_shannon_to_correct": 0.393301397562027,
+        "next_token": "is",
+        "nll": 3.7900567469288795,
+        "probability": 0.02259431965649128,
+        "rank": 7
       },
       "semantic_opposite": {
-        "hidden_cosine_to_correct": 0.9727482795715332,
-        "jensen_shannon_to_correct": 0.010637988336384296,
-        "next_token": "a",
-        "nll": 9.41796182414302,
-        "probability": 8.125145541271195e-05,
-        "rank": 1128
+        "hidden_cosine_to_correct": 0.9308179020881653,
+        "jensen_shannon_to_correct": 0.3488377630710602,
+        "next_token": "name",
+        "nll": 3.0222368781975213,
+        "probability": 0.04869217798113823,
+        "rank": 3
       },
       "shuffled": {
-        "hidden_cosine_to_correct": 0.9755778908729553,
-        "jensen_shannon_to_correct": 0.007126658223569393,
-        "next_token": "a",
-        "nll": 9.184677066424355,
-        "probability": 0.00010259954433422536,
-        "rank": 1051
+        "hidden_cosine_to_correct": 0.9335083961486816,
+        "jensen_shannon_to_correct": 0.35398948192596436,
+        "next_token": "name",
+        "nll": 3.0957627606702127,
+        "probability": 0.04524049162864685,
+        "rank": 3
       },
       "zero": {
-        "hidden_cosine_to_correct": 0.9694709777832031,
-        "jensen_shannon_to_correct": 0.013547960668802261,
-        "next_token": "a",
-        "nll": 9.563376351683335,
-        "probability": 7.025519153103232e-05,
-        "rank": 1174
+        "hidden_cosine_to_correct": 0.9506838321685791,
+        "jensen_shannon_to_correct": 0.3208107352256775,
+        "next_token": "is",
+        "nll": 3.0041537701224197,
+        "probability": 0.04958069324493408,
+        "rank": 4
       }
     },
-    "selection_note": "Selected deterministically from the fixed validation corpus for a positive correct-vs-control target-NLL contrast.",
-    "target": "new",
-    "target_id": 105,
-    "title": "Create a new object",
+    "selection_note": "Selected deterministically from the fixed validation corpus: correct memory beats every control on target NLL.",
+    "target": "to",
+    "target_id": 14,
+    "title": "File path",
     "token_ids": [
-      128,
-      8
+      6,
+      67
     ]
   },
   {
-    "address_row": 1192,
-    "display_prompt": "is a list",
-    "exact_phrase": "is a list",
-    "id": "list_of",
-    "mean_control_nll_penalty": 0.7953022956848148,
-    "mean_recorded_control_nll_penalty": 0.8902099154510014,
+    "address_row": 1279,
+    "display_prompt": "a turtle instance",
+    "exact_phrase": "a turtle instance",
+    "id": "a_turtle_instance_named",
+    "mean_control_nll_penalty": 5.237179102809545,
+    "mean_recorded_control_nll_penalty": 5.237179102809545,
     "order": 3,
     "recorded_live_control_metrics": {
       "correct": {
-        "hidden_cosine_to_correct": 0.9999999403953552,
+        "hidden_cosine_to_correct": 1.0,
         "jensen_shannon_to_correct": 0.0,
-        "next_token": "of",
-        "nll": 4.729973106104209,
-        "probability": 0.008826708421111107,
-        "rank": 7
+        "next_token": "with",
+        "nll": 0.4248935091281688,
+        "probability": 0.6538394093513489,
+        "rank": 1
       },
       "hash_only": {
-        "hidden_cosine_to_correct": 0.9870224595069885,
-        "jensen_shannon_to_correct": 0.003476687241345644,
-        "next_token": ".",
-        "nll": 5.522570224943526,
-        "probability": 0.003995565231889486,
+        "hidden_cosine_to_correct": 0.7750173211097717,
+        "jensen_shannon_to_correct": 0.5332016944885254,
+        "next_token": ",",
+        "nll": 6.7295122482846645,
+        "probability": 0.0011951157357543707,
         "rank": 41
       },
       "random_frozen": {
-        "hidden_cosine_to_correct": 0.9862123131752014,
-        "jensen_shannon_to_correct": 0.004476059228181839,
+        "hidden_cosine_to_correct": 0.7780055403709412,
+        "jensen_shannon_to_correct": 0.5014564990997314,
         "next_token": ".",
-        "nll": 5.642467192925718,
-        "probability": 0.0035441135987639427,
-        "rank": 46
+        "nll": 6.160269073582669,
+        "probability": 0.0021116849966347218,
+        "rank": 38
       },
       "semantic_opposite": {
-        "hidden_cosine_to_correct": 0.9689139723777771,
-        "jensen_shannon_to_correct": 0.010697652585804462,
+        "hidden_cosine_to_correct": 0.6610861420631409,
+        "jensen_shannon_to_correct": 0.5167953372001648,
         "next_token": ".",
-        "nll": 5.507595862888032,
-        "probability": 0.004055846482515335,
-        "rank": 43
+        "nll": 7.746745683019812,
+        "probability": 0.0004321465967223048,
+        "rank": 98
       },
       "shuffled": {
-        "hidden_cosine_to_correct": 0.9510098099708557,
-        "jensen_shannon_to_correct": 0.013627184554934502,
-        "next_token": "the",
-        "nll": 5.883340627443078,
-        "probability": 0.0027854645159095526,
-        "rank": 78
+        "hidden_cosine_to_correct": 0.8685718178749084,
+        "jensen_shannon_to_correct": 0.2611508369445801,
+        "next_token": "named",
+        "nll": 2.6107689552032998,
+        "probability": 0.07347802072763443,
+        "rank": 1
       },
       "zero": {
-        "hidden_cosine_to_correct": 0.9866517186164856,
-        "jensen_shannon_to_correct": 0.0036694661248475313,
+        "hidden_cosine_to_correct": 0.845504641532898,
+        "jensen_shannon_to_correct": 0.47832173109054565,
         "next_token": ".",
-        "nll": 5.544941199575698,
-        "probability": 0.003907172940671444,
-        "rank": 42
+        "nll": 5.063067099598126,
+        "probability": 0.006326126866042614,
+        "rank": 17
       }
     },
-    "selection_note": "Selected deterministically from the fixed validation corpus for a positive correct-vs-control target-NLL contrast.",
-    "target": "of",
-    "target_id": 15,
-    "title": "List continuation",
+    "selection_note": "Selected deterministically from the fixed validation corpus: correct memory beats every control on target NLL.",
+    "target": "named",
+    "target_id": 217,
+    "title": "Turtle graphics",
     "token_ids": [
-      13,
       8,
-      57
+      99,
+      76
     ]
   },
   {
-    "address_row": 34,
-    "display_prompt": "true if",
-    "exact_phrase": "true if",
-    "id": "true_if_the",
-    "mean_control_nll_penalty": 0.7692257881164553,
-    "mean_recorded_control_nll_penalty": 0.7742587237127284,
-    "order": 2,
+    "address_row": 1036,
+    "display_prompt": "python character mapping",
+    "exact_phrase": "python character mapping",
+    "id": "python_character_mapping_codec",
+    "mean_control_nll_penalty": 2.583501336380654,
+    "mean_recorded_control_nll_penalty": 2.583501336380654,
+    "order": 3,
     "recorded_live_control_metrics": {
       "correct": {
         "hidden_cosine_to_correct": 1.0,
         "jensen_shannon_to_correct": 0.0,
-        "next_token": "the",
-        "nll": 3.4402260462308547,
-        "probability": 0.03205743804574013,
+        "next_token": "codec",
+        "nll": 0.1771171419474077,
+        "probability": 0.8376816511154175,
         "rank": 1
       },
       "hash_only": {
-        "hidden_cosine_to_correct": 0.9675455093383789,
-        "jensen_shannon_to_correct": 0.010816341266036034,
-        "next_token": "<unk>",
-        "nll": 4.356658691126918,
-        "probability": 0.012821155600249767,
-        "rank": 4
+        "hidden_cosine_to_correct": 0.832145631313324,
+        "jensen_shannon_to_correct": 0.3958510756492615,
+        "next_token": ".",
+        "nll": 2.2953024921443017,
+        "probability": 0.10073091834783554,
+        "rank": 2
       },
       "random_frozen": {
-        "hidden_cosine_to_correct": 0.9451732635498047,
-        "jensen_shannon_to_correct": 0.03815365582704544,
-        "next_token": "<unk>",
-        "nll": 4.219547726770636,
-        "probability": 0.0147052938118577,
-        "rank": 8
-      },
-      "semantic_opposite": {
-        "hidden_cosine_to_correct": 0.9863470196723938,
-        "jensen_shannon_to_correct": 0.004792164079844952,
-        "next_token": "<unk>",
-        "nll": 3.952216313352387,
-        "probability": 0.01921207457780838,
-        "rank": 2
-      },
-      "shuffled": {
-        "hidden_cosine_to_correct": 0.9707399010658264,
-        "jensen_shannon_to_correct": 0.012011297047138214,
-        "next_token": "<unk>",
-        "nll": 4.184720265180707,
-        "probability": 0.015226464718580246,
-        "rank": 2
-      },
-      "zero": {
-        "hidden_cosine_to_correct": 0.9674620032310486,
-        "jensen_shannon_to_correct": 0.01074893493205309,
-        "next_token": "<unk>",
-        "nll": 4.3592808532872676,
-        "probability": 0.012787580490112305,
-        "rank": 4
-      }
-    },
-    "selection_note": "Selected deterministically from the fixed validation corpus for a positive correct-vs-control target-NLL contrast.",
-    "target": "the",
-    "target_id": 6,
-    "title": "Boolean condition",
-    "token_ids": [
-      56,
-      19
-    ]
-  },
-  {
-    "address_row": 179,
-    "display_prompt": ", encoding ) where type is none if",
-    "exact_phrase": "none if",
-    "id": "none_if_the",
-    "mean_control_nll_penalty": 0.778419399261475,
-    "mean_recorded_control_nll_penalty": 0.8175601858430867,
-    "order": 2,
-    "recorded_live_control_metrics": {
-      "correct": {
-        "hidden_cosine_to_correct": 0.9999999403953552,
-        "jensen_shannon_to_correct": 0.0,
-        "next_token": "the",
-        "nll": 3.8428256835922165,
-        "probability": 0.02143295295536518,
+        "hidden_cosine_to_correct": 0.819930911064148,
+        "jensen_shannon_to_correct": 0.2621292173862457,
+        "next_token": "codec",
+        "nll": 1.5330184698404974,
+        "probability": 0.2158830463886261,
         "rank": 1
       },
-      "hash_only": {
-        "hidden_cosine_to_correct": 0.97968590259552,
-        "jensen_shannon_to_correct": 0.0060946461744606495,
-        "next_token": "<unk>",
-        "nll": 4.488321021481798,
-        "probability": 0.011239498853683472,
-        "rank": 7
-      },
-      "random_frozen": {
-        "hidden_cosine_to_correct": 0.9761817455291748,
-        "jensen_shannon_to_correct": 0.007976601831614971,
-        "next_token": "<unk>",
-        "nll": 4.496653146943466,
-        "probability": 0.011146239005029202,
-        "rank": 7
-      },
       "semantic_opposite": {
-        "hidden_cosine_to_correct": 0.9391184449195862,
-        "jensen_shannon_to_correct": 0.017447058111429214,
-        "next_token": "<unk>",
-        "nll": 5.210041772633063,
-        "probability": 0.005461445543915033,
-        "rank": 23
+        "hidden_cosine_to_correct": 0.6986145973205566,
+        "jensen_shannon_to_correct": 0.5528205633163452,
+        "next_token": "'",
+        "nll": 4.419489709971123,
+        "probability": 0.012040374800562859,
+        "rank": 11
       },
       "shuffled": {
-        "hidden_cosine_to_correct": 0.9722828269004822,
-        "jensen_shannon_to_correct": 0.0065863775089383125,
-        "next_token": "<unk>",
-        "nll": 4.599768067732597,
-        "probability": 0.010054167360067368,
-        "rank": 7
+        "hidden_cosine_to_correct": 0.6953564286231995,
+        "jensen_shannon_to_correct": 0.565898060798645,
+        "next_token": "of",
+        "nll": 4.7450057558485,
+        "probability": 0.008695011958479881,
+        "rank": 19
       },
       "zero": {
-        "hidden_cosine_to_correct": 0.9794536828994751,
-        "jensen_shannon_to_correct": 0.005999150685966015,
-        "next_token": "<unk>",
-        "nll": 4.507145338385592,
-        "probability": 0.011029901914298534,
-        "rank": 7
+        "hidden_cosine_to_correct": 0.8929657340049744,
+        "jensen_shannon_to_correct": 0.12723475694656372,
+        "next_token": "codec",
+        "nll": 0.8102759638358857,
+        "probability": 0.4447353184223175,
+        "rank": 1
       }
     },
-    "selection_note": "Selected deterministically from the fixed validation corpus for a positive correct-vs-control target-NLL contrast.",
-    "target": "the",
-    "target_id": 6,
-    "title": "None condition",
+    "selection_note": "Selected deterministically from the fixed validation corpus: correct memory beats every control on target NLL.",
+    "target": "codec",
+    "target_id": 288,
+    "title": "Codec module header",
     "token_ids": [
-      7,
-      154,
-      10,
-      192,
-      78,
-      13,
-      65,
-      19
+      82,
+      158,
+      258
     ]
   },
   {
-    "address_row": 68,
-    "display_prompt": "this simply returns the",
-    "exact_phrase": "returns the",
-    "id": "returns_path",
-    "mean_control_nll_penalty": 0.7711313247680671,
-    "mean_recorded_control_nll_penalty": 0.7836111529422543,
-    "order": 2,
+    "address_row": 1054,
+    "display_prompt": "this method is",
+    "exact_phrase": "this method is",
+    "id": "this_method_is_called",
+    "mean_control_nll_penalty": 1.9476831588171462,
+    "mean_recorded_control_nll_penalty": 1.9476831588171462,
+    "order": 3,
     "recorded_live_control_metrics": {
       "correct": {
         "hidden_cosine_to_correct": 1.0,
         "jensen_shannon_to_correct": 0.0,
-        "next_token": "<unk>",
-        "nll": 9.270888842678092,
-        "probability": 9.41248144954443e-05,
-        "rank": 1173
+        "next_token": "called",
+        "nll": 1.5906464642512417,
+        "probability": 0.20379382371902466,
+        "rank": 1
       },
       "hash_only": {
-        "hidden_cosine_to_correct": 0.9502831101417542,
-        "jensen_shannon_to_correct": 0.022698577493429184,
-        "next_token": "the",
-        "nll": 9.963314290888416,
-        "probability": 4.7096385969780385e-05,
-        "rank": 1358
+        "hidden_cosine_to_correct": 0.9341652393341064,
+        "jensen_shannon_to_correct": 0.08283823728561401,
+        "next_token": "a",
+        "nll": 2.5831557100141462,
+        "probability": 0.07553526014089584,
+        "rank": 4
       },
       "random_frozen": {
-        "hidden_cosine_to_correct": 0.9167282581329346,
-        "jensen_shannon_to_correct": 0.044543247669935226,
+        "hidden_cosine_to_correct": 0.9069182872772217,
+        "jensen_shannon_to_correct": 0.15513628721237183,
         "next_token": "<unk>",
-        "nll": 10.243897739241861,
-        "probability": 3.557392119546421e-05,
-        "rank": 1419
+        "nll": 3.555015303149637,
+        "probability": 0.028580937534570694,
+        "rank": 6
       },
       "semantic_opposite": {
-        "hidden_cosine_to_correct": 0.9449488520622253,
-        "jensen_shannon_to_correct": 0.02049107849597931,
-        "next_token": "the",
-        "nll": 9.995792860650113,
-        "probability": 4.559133594739251e-05,
-        "rank": 1370
+        "hidden_cosine_to_correct": 0.8938087224960327,
+        "jensen_shannon_to_correct": 0.24818864464759827,
+        "next_token": "<unk>",
+        "nll": 5.684546183782258,
+        "probability": 0.0033980750013142824,
+        "rank": 16
       },
       "shuffled": {
-        "hidden_cosine_to_correct": 0.935941219329834,
-        "jensen_shannon_to_correct": 0.03243822231888771,
-        "next_token": "<unk>",
-        "nll": 10.093693527250414,
-        "probability": 4.1339440940646455e-05,
-        "rank": 1388
+        "hidden_cosine_to_correct": 0.919163703918457,
+        "jensen_shannon_to_correct": 0.07868897914886475,
+        "next_token": "a",
+        "nll": 3.2576970431927554,
+        "probability": 0.03847690671682358,
+        "rank": 6
       },
       "zero": {
-        "hidden_cosine_to_correct": 0.949256181716919,
-        "jensen_shannon_to_correct": 0.023042745888233185,
-        "next_token": "the",
-        "nll": 9.975801560070927,
-        "probability": 4.651193739846349e-05,
-        "rank": 1366
+        "hidden_cosine_to_correct": 0.9752383232116699,
+        "jensen_shannon_to_correct": 0.06289289891719818,
+        "next_token": "<unk>",
+        "nll": 2.6112338752031428,
+        "probability": 0.07344386726617813,
+        "rank": 3
       }
     },
-    "selection_note": "Selected deterministically from the fixed validation corpus for a positive correct-vs-control target-NLL contrast.",
-    "target": "path",
-    "target_id": 67,
-    "title": "Return path",
+    "selection_note": "Selected deterministically from the fixed validation corpus: correct memory beats every control on target NLL.",
+    "target": "called",
+    "target_id": 75,
+    "title": "Method callback",
     "token_ids": [
       26,
-      1394,
-      52,
-      6
+      63,
+      13
     ]
   },
   {
-    "address_row": 106,
-    "display_prompt": "default timer . the argument is the number",
-    "exact_phrase": "the number",
-    "id": "number_of",
-    "mean_control_nll_penalty": 1.104807662963867,
-    "mean_recorded_control_nll_penalty": 1.0943582256882618,
+    "address_row": 896,
+    "display_prompt": "in order",
+    "exact_phrase": "in order",
+    "id": "in_order_to",
+    "mean_control_nll_penalty": 1.8298781193968245,
+    "mean_recorded_control_nll_penalty": 1.8298781193968245,
     "order": 2,
     "recorded_live_control_metrics": {
       "correct": {
         "hidden_cosine_to_correct": 1.0,
         "jensen_shannon_to_correct": 0.0,
-        "next_token": "of",
-        "nll": 4.04938739059728,
-        "probability": 0.017433051019906998,
+        "next_token": "to",
+        "nll": 0.8819023958046341,
+        "probability": 0.41399458050727844,
+        "rank": 1
+      },
+      "hash_only": {
+        "hidden_cosine_to_correct": 0.9771556854248047,
+        "jensen_shannon_to_correct": 0.05529516562819481,
+        "next_token": ".",
+        "nll": 1.8871269575602014,
+        "probability": 0.1515064686536789,
+        "rank": 2
+      },
+      "random_frozen": {
+        "hidden_cosine_to_correct": 0.9609748125076294,
+        "jensen_shannon_to_correct": 0.12435321509838104,
+        "next_token": ".",
+        "nll": 2.426893875378977,
+        "probability": 0.08831071108579636,
         "rank": 3
       },
-      "hash_only": {
-        "hidden_cosine_to_correct": 0.97597736120224,
-        "jensen_shannon_to_correct": 0.009033767506480217,
-        "next_token": ".",
-        "nll": 5.118887310234919,
-        "probability": 0.005982676055282354,
-        "rank": 22
-      },
-      "random_frozen": {
-        "hidden_cosine_to_correct": 0.9784375429153442,
-        "jensen_shannon_to_correct": 0.007715900428593159,
-        "next_token": "the",
-        "nll": 4.79829702245694,
-        "probability": 0.008243774063885212,
-        "rank": 14
-      },
       "semantic_opposite": {
-        "hidden_cosine_to_correct": 0.9619532227516174,
-        "jensen_shannon_to_correct": 0.013172902166843414,
+        "hidden_cosine_to_correct": 0.9014433026313782,
+        "jensen_shannon_to_correct": 0.30689549446105957,
         "next_token": "<unk>",
-        "nll": 5.361671609145783,
-        "probability": 0.004693054594099522,
-        "rank": 37
+        "nll": 3.2383948022273743,
+        "probability": 0.03922681137919426,
+        "rank": 5
       },
       "shuffled": {
-        "hidden_cosine_to_correct": 0.9579997658729553,
-        "jensen_shannon_to_correct": 0.01921175792813301,
-        "next_token": ".",
-        "nll": 5.338605013020237,
-        "probability": 0.004802565556019545,
-        "rank": 33
+        "hidden_cosine_to_correct": 0.8899093270301819,
+        "jensen_shannon_to_correct": 0.2448171228170395,
+        "next_token": "the",
+        "nll": 3.973871177803451,
+        "probability": 0.018800511956214905,
+        "rank": 9
       },
       "zero": {
-        "hidden_cosine_to_correct": 0.9763349294662476,
-        "jensen_shannon_to_correct": 0.008486667647957802,
-        "next_token": "the",
-        "nll": 5.101267126569831,
-        "probability": 0.006089026108384132,
-        "rank": 21
-      }
-    },
-    "selection_note": "Selected deterministically from the fixed validation corpus for a positive correct-vs-control target-NLL contrast.",
-    "target": "of",
-    "target_id": 15,
-    "title": "Numeric phrase",
-    "token_ids": [
-      66,
-      1300,
-      5,
-      6,
-      68,
-      13,
-      6,
-      70
-    ]
-  },
-  {
-    "address_row": 239,
-    "display_prompt": "argument , print the list",
-    "exact_phrase": "the list",
-    "id": "list_of_long",
-    "mean_control_nll_penalty": 0.8115870475769045,
-    "mean_recorded_control_nll_penalty": 0.7171695520683242,
-    "order": 2,
-    "recorded_live_control_metrics": {
-      "correct": {
-        "hidden_cosine_to_correct": 1.0,
-        "jensen_shannon_to_correct": 0.0,
+        "hidden_cosine_to_correct": 0.9821813106536865,
+        "jensen_shannon_to_correct": 0.06747396290302277,
         "next_token": ".",
-        "nll": 5.052343044567135,
-        "probability": 0.0063943336717784405,
-        "rank": 13
-      },
-      "hash_only": {
-        "hidden_cosine_to_correct": 0.9889642596244812,
-        "jensen_shannon_to_correct": 0.002835275838151574,
-        "next_token": ".",
-        "nll": 5.781332242083968,
-        "probability": 0.0030846032314002514,
-        "rank": 64
-      },
-      "random_frozen": {
-        "hidden_cosine_to_correct": 0.9714727401733398,
-        "jensen_shannon_to_correct": 0.007581165060400963,
-        "next_token": "<unk>",
-        "nll": 6.101901674346569,
-        "probability": 0.002238606568425894,
-        "rank": 105
-      },
-      "semantic_opposite": {
-        "hidden_cosine_to_correct": 0.967854917049408,
-        "jensen_shannon_to_correct": 0.011664889752864838,
-        "next_token": "<unk>",
-        "nll": 5.719598133209625,
-        "probability": 0.003281029174104333,
-        "rank": 56
-      },
-      "shuffled": {
-        "hidden_cosine_to_correct": 0.9956942796707153,
-        "jensen_shannon_to_correct": 0.0012196570169180632,
-        "next_token": ".",
-        "nll": 5.4766183981602445,
-        "probability": 0.0041834525763988495,
-        "rank": 34
-      },
-      "zero": {
-        "hidden_cosine_to_correct": 0.9892310500144958,
-        "jensen_shannon_to_correct": 0.0028010867536067963,
-        "next_token": ".",
-        "nll": 5.768112535376892,
-        "probability": 0.0031256515067070723,
-        "rank": 64
+        "nll": 2.03261576303729,
+        "probability": 0.13099242746829987,
+        "rank": 3
       }
     },
-    "selection_note": "Selected deterministically from the fixed validation corpus for a positive correct-vs-control target-NLL contrast.",
-    "target": "of",
-    "target_id": 15,
-    "title": "List documentation",
-    "token_ids": [
-      68,
-      7,
-      323,
-      6,
-      57
-    ]
-  },
-  {
-    "address_row": 95,
-    "display_prompt": "argument , print the list of available commands . with a",
-    "exact_phrase": "with a",
-    "id": "with_command",
-    "mean_control_nll_penalty": 0.9180910110473626,
-    "mean_recorded_control_nll_penalty": 0.8599852970606954,
-    "order": 2,
-    "recorded_live_control_metrics": {
-      "correct": {
-        "hidden_cosine_to_correct": 1.0,
-        "jensen_shannon_to_correct": 0.0,
-        "next_token": "a",
-        "nll": 8.596521989436534,
-        "probability": 0.00018474723037797958,
-        "rank": 832
-      },
-      "hash_only": {
-        "hidden_cosine_to_correct": 0.9738770127296448,
-        "jensen_shannon_to_correct": 0.012145140208303928,
-        "next_token": "a",
-        "nll": 9.341255879927566,
-        "probability": 8.772918954491615e-05,
-        "rank": 1092
-      },
-      "random_frozen": {
-        "hidden_cosine_to_correct": 0.9705195426940918,
-        "jensen_shannon_to_correct": 0.014124717563390732,
-        "next_token": "<unk>",
-        "nll": 9.383507710035747,
-        "probability": 8.409968722844496e-05,
-        "rank": 1110
-      },
-      "semantic_opposite": {
-        "hidden_cosine_to_correct": 0.9613573551177979,
-        "jensen_shannon_to_correct": 0.012895386666059494,
-        "next_token": "a",
-        "nll": 9.127338155930067,
-        "probability": 0.00010865442163776606,
-        "rank": 1007
-      },
-      "shuffled": {
-        "hidden_cosine_to_correct": 0.9287392497062683,
-        "jensen_shannon_to_correct": 0.04828232526779175,
-        "next_token": "<unk>",
-        "nll": 10.079524149053135,
-        "probability": 4.1929364670068026e-05,
-        "rank": 1324
-      },
-      "zero": {
-        "hidden_cosine_to_correct": 0.9740241169929504,
-        "jensen_shannon_to_correct": 0.011891577392816544,
-        "next_token": "a",
-        "nll": 9.35091053753963,
-        "probability": 8.6886269855313e-05,
-        "rank": 1096
-      }
-    },
-    "selection_note": "Selected deterministically from the fixed validation corpus for a positive correct-vs-control target-NLL contrast.",
-    "target": "command",
-    "target_id": 123,
-    "title": "Command context",
-    "token_ids": [
-      68,
-      7,
-      323,
-      6,
-      57,
-      15,
-      264,
-      580,
-      5,
-      31,
-      8
-    ]
-  },
-  {
-    "address_row": 16,
-    "display_prompt": "the version string for the",
-    "exact_phrase": "for the",
-    "id": "package_version",
-    "mean_control_nll_penalty": 1.2141605377197262,
-    "mean_recorded_control_nll_penalty": 1.0272780670058448,
-    "order": 2,
-    "recorded_live_control_metrics": {
-      "correct": {
-        "hidden_cosine_to_correct": 1.0,
-        "jensen_shannon_to_correct": 0.0,
-        "next_token": "<unk>",
-        "nll": 12.372682367602122,
-        "probability": 4.232649644109188e-06,
-        "rank": 1990
-      },
-      "hash_only": {
-        "hidden_cosine_to_correct": 0.9391496181488037,
-        "jensen_shannon_to_correct": 0.026372632011771202,
-        "next_token": "the",
-        "nll": 13.540747736809825,
-        "probability": 1.3162184586690273e-06,
-        "rank": 2031
-      },
-      "random_frozen": {
-        "hidden_cosine_to_correct": 0.981482207775116,
-        "jensen_shannon_to_correct": 0.006104389671236277,
-        "next_token": "the",
-        "nll": 12.859641494387835,
-        "probability": 2.6009299745055614e-06,
-        "rank": 2015
-      },
-      "semantic_opposite": {
-        "hidden_cosine_to_correct": 0.9495458006858826,
-        "jensen_shannon_to_correct": 0.020302966237068176,
-        "next_token": "the",
-        "nll": 13.426433918889431,
-        "probability": 1.475617636970128e-06,
-        "rank": 2030
-      },
-      "shuffled": {
-        "hidden_cosine_to_correct": 0.9116687774658203,
-        "jensen_shannon_to_correct": 0.03078744001686573,
-        "next_token": "the",
-        "nll": 13.636039933743119,
-        "probability": 1.1965837529714918e-06,
-        "rank": 2034
-      },
-      "zero": {
-        "hidden_cosine_to_correct": 0.939227283000946,
-        "jensen_shannon_to_correct": 0.02681141346693039,
-        "next_token": "the",
-        "nll": 13.536939089209625,
-        "probability": 1.3212410294727306e-06,
-        "rank": 2031
-      }
-    },
-    "selection_note": "Selected deterministically from the fixed validation corpus for a positive correct-vs-control target-NLL contrast.",
-    "target": "package",
-    "target_id": 204,
-    "title": "Package version",
-    "token_ids": [
-      6,
-      171,
-      42,
-      20,
-      6
-    ]
-  },
-  {
-    "address_row": 9,
-    "display_prompt": "in the",
-    "exact_phrase": "in the",
-    "id": "dictionary_context",
-    "mean_control_nll_penalty": 1.4138343811035163,
-    "mean_recorded_control_nll_penalty": 1.5075574682545045,
-    "order": 2,
-    "recorded_live_control_metrics": {
-      "correct": {
-        "hidden_cosine_to_correct": 0.9999999403953552,
-        "jensen_shannon_to_correct": 0.0,
-        "next_token": "<unk>",
-        "nll": 10.730489598822004,
-        "probability": 2.1867925170226954e-05,
-        "rank": 1707
-      },
-      "hash_only": {
-        "hidden_cosine_to_correct": 0.922268271446228,
-        "jensen_shannon_to_correct": 0.033068448305130005,
-        "next_token": "the",
-        "nll": 12.160431782877815,
-        "probability": 5.233492174738785e-06,
-        "rank": 1899
-      },
-      "random_frozen": {
-        "hidden_cosine_to_correct": 0.9389023184776306,
-        "jensen_shannon_to_correct": 0.02433767542243004,
-        "next_token": "the",
-        "nll": 11.908173142244793,
-        "probability": 6.735132046742365e-06,
-        "rank": 1867
-      },
-      "semantic_opposite": {
-        "hidden_cosine_to_correct": 0.9091518521308899,
-        "jensen_shannon_to_correct": 0.03715934604406357,
-        "next_token": "the",
-        "nll": 12.246177497941433,
-        "probability": 4.803443516721018e-06,
-        "rank": 1903
-      },
-      "shuffled": {
-        "hidden_cosine_to_correct": 0.836552083492279,
-        "jensen_shannon_to_correct": 0.07800839841365814,
-        "next_token": "the",
-        "nll": 12.726475989216134,
-        "probability": 2.971404001073097e-06,
-        "rank": 1946
-      },
-      "zero": {
-        "hidden_cosine_to_correct": 0.9230620861053467,
-        "jensen_shannon_to_correct": 0.03256429731845856,
-        "next_token": "the",
-        "nll": 12.148976923102367,
-        "probability": 5.293785761750769e-06,
-        "rank": 1898
-      }
-    },
-    "selection_note": "Selected deterministically from the fixed validation corpus for a positive correct-vs-control target-NLL contrast.",
-    "target": "dictionary",
-    "target_id": 199,
-    "title": "Dictionary context",
+    "selection_note": "Selected deterministically from the fixed validation corpus: correct memory beats every control on target NLL.",
+    "target": "to",
+    "target_id": 14,
+    "title": "Purpose clause",
     "token_ids": [
       22,
-      6
+      213
+    ]
+  },
+  {
+    "address_row": 1351,
+    "display_prompt": "that can be",
+    "exact_phrase": "that can be",
+    "id": "that_can_be_used",
+    "mean_control_nll_penalty": 1.7969084406179194,
+    "mean_recorded_control_nll_penalty": 1.7969084406179194,
+    "order": 3,
+    "recorded_live_control_metrics": {
+      "correct": {
+        "hidden_cosine_to_correct": 1.0,
+        "jensen_shannon_to_correct": 0.0,
+        "next_token": "used",
+        "nll": 1.4955728318200747,
+        "probability": 0.22412018477916718,
+        "rank": 1
+      },
+      "hash_only": {
+        "hidden_cosine_to_correct": 0.9046657681465149,
+        "jensen_shannon_to_correct": 0.14791662991046906,
+        "next_token": "<unk>",
+        "nll": 4.07133462402712,
+        "probability": 0.017054611817002296,
+        "rank": 5
+      },
+      "random_frozen": {
+        "hidden_cosine_to_correct": 0.9435983896255493,
+        "jensen_shannon_to_correct": 0.09879276156425476,
+        "next_token": "<unk>",
+        "nll": 3.1707042636656846,
+        "probability": 0.041974026709795,
+        "rank": 3
+      },
+      "semantic_opposite": {
+        "hidden_cosine_to_correct": 0.9085344076156616,
+        "jensen_shannon_to_correct": 0.1282992959022522,
+        "next_token": "<unk>",
+        "nll": 2.8758409541373156,
+        "probability": 0.056368716061115265,
+        "rank": 2
+      },
+      "shuffled": {
+        "hidden_cosine_to_correct": 0.9134611487388611,
+        "jensen_shannon_to_correct": 0.17748482525348663,
+        "next_token": "<unk>",
+        "nll": 3.9327740010263117,
+        "probability": 0.01958925649523735,
+        "rank": 4
+      },
+      "zero": {
+        "hidden_cosine_to_correct": 0.9711893200874329,
+        "jensen_shannon_to_correct": 0.0505279004573822,
+        "next_token": "<unk>",
+        "nll": 2.411752519333539,
+        "probability": 0.08965802937746048,
+        "rank": 2
+      }
+    },
+    "selection_note": "Selected deterministically from the fixed validation corpus: correct memory beats every control on target NLL.",
+    "target": "used",
+    "target_id": 58,
+    "title": "Usage clause",
+    "token_ids": [
+      32,
+      55,
+      24
+    ]
+  },
+  {
+    "address_row": 223,
+    "display_prompt": "there is",
+    "exact_phrase": "there is",
+    "id": "there_is_no",
+    "mean_control_nll_penalty": 1.6369181272809685,
+    "mean_recorded_control_nll_penalty": 1.6369181272809685,
+    "order": 2,
+    "recorded_live_control_metrics": {
+      "correct": {
+        "hidden_cosine_to_correct": 1.0,
+        "jensen_shannon_to_correct": 0.0,
+        "next_token": "no",
+        "nll": 1.0019023040351873,
+        "probability": 0.3671802878379822,
+        "rank": 1
+      },
+      "hash_only": {
+        "hidden_cosine_to_correct": 0.9459794759750366,
+        "jensen_shannon_to_correct": 0.07380333542823792,
+        "next_token": "a",
+        "nll": 1.674917357923879,
+        "probability": 0.187323659658432,
+        "rank": 2
+      },
+      "random_frozen": {
+        "hidden_cosine_to_correct": 0.8392242193222046,
+        "jensen_shannon_to_correct": 0.40258872509002686,
+        "next_token": "<unk>",
+        "nll": 4.316280985946665,
+        "probability": 0.013349438086152077,
+        "rank": 6
+      },
+      "semantic_opposite": {
+        "hidden_cosine_to_correct": 0.927973747253418,
+        "jensen_shannon_to_correct": 0.21279475092887878,
+        "next_token": "a",
+        "nll": 3.066634444014167,
+        "probability": 0.04657765105366707,
+        "rank": 5
+      },
+      "shuffled": {
+        "hidden_cosine_to_correct": 0.8650765419006348,
+        "jensen_shannon_to_correct": 0.18727627396583557,
+        "next_token": "<unk>",
+        "nll": 2.7157153651904986,
+        "probability": 0.06615760922431946,
+        "rank": 3
+      },
+      "zero": {
+        "hidden_cosine_to_correct": 0.9610125422477722,
+        "jensen_shannon_to_correct": 0.042736705392599106,
+        "next_token": "a",
+        "nll": 1.4205540035055706,
+        "probability": 0.24158014357089996,
+        "rank": 2
+      }
+    },
+    "selection_note": "Selected deterministically from the fixed validation corpus: correct memory beats every control on target NLL.",
+    "target": "no",
+    "target_id": 80,
+    "title": "Negation",
+    "token_ids": [
+      175,
+      13
+    ]
+  },
+  {
+    "address_row": 292,
+    "display_prompt": "the return",
+    "exact_phrase": "the return",
+    "id": "the_return_value",
+    "mean_control_nll_penalty": 1.2687909476911674,
+    "mean_recorded_control_nll_penalty": 1.2687909476911674,
+    "order": 2,
+    "recorded_live_control_metrics": {
+      "correct": {
+        "hidden_cosine_to_correct": 1.0,
+        "jensen_shannon_to_correct": 0.0,
+        "next_token": "value",
+        "nll": 0.8000539361417354,
+        "probability": 0.4493047297000885,
+        "rank": 1
+      },
+      "hash_only": {
+        "hidden_cosine_to_correct": 0.9162247180938721,
+        "jensen_shannon_to_correct": 0.03998364508152008,
+        "next_token": "value",
+        "nll": 0.8578769814581351,
+        "probability": 0.4240614175796509,
+        "rank": 1
+      },
+      "random_frozen": {
+        "hidden_cosine_to_correct": 0.851894736289978,
+        "jensen_shannon_to_correct": 0.21429453790187836,
+        "next_token": "<unk>",
+        "nll": 1.9401482741857041,
+        "probability": 0.14368264377117157,
+        "rank": 2
+      },
+      "semantic_opposite": {
+        "hidden_cosine_to_correct": 0.9247896671295166,
+        "jensen_shannon_to_correct": 0.18426233530044556,
+        "next_token": "a",
+        "nll": 2.6770997228158953,
+        "probability": 0.06876229494810104,
+        "rank": 3
+      },
+      "shuffled": {
+        "hidden_cosine_to_correct": 0.8121892213821411,
+        "jensen_shannon_to_correct": 0.25020748376846313,
+        "next_token": "context",
+        "nll": 3.5007742759295004,
+        "probability": 0.0301740113645792,
+        "rank": 6
+      },
+      "zero": {
+        "hidden_cosine_to_correct": 0.92293381690979,
+        "jensen_shannon_to_correct": 0.08684813976287842,
+        "next_token": "value",
+        "nll": 1.3683251647752792,
+        "probability": 0.25453290343284607,
+        "rank": 1
+      }
+    },
+    "selection_note": "Selected deterministically from the fixed validation corpus: correct memory beats every control on target NLL.",
+    "target": "value",
+    "target_id": 44,
+    "title": "Return value",
+    "token_ids": [
+      6,
+      27
+    ]
+  },
+  {
+    "address_row": 687,
+    "display_prompt": "index of",
+    "exact_phrase": "index of",
+    "id": "index_of_the",
+    "mean_control_nll_penalty": 1.2587225481694566,
+    "mean_recorded_control_nll_penalty": 1.2587225481694566,
+    "order": 2,
+    "recorded_live_control_metrics": {
+      "correct": {
+        "hidden_cosine_to_correct": 1.0,
+        "jensen_shannon_to_correct": 0.0,
+        "next_token": "the",
+        "nll": 0.8739941333216843,
+        "probability": 0.41728153824806213,
+        "rank": 1
+      },
+      "hash_only": {
+        "hidden_cosine_to_correct": 0.9563342332839966,
+        "jensen_shannon_to_correct": 0.034375209361314774,
+        "next_token": "the",
+        "nll": 1.103236871732357,
+        "probability": 0.3317953646183014,
+        "rank": 1
+      },
+      "random_frozen": {
+        "hidden_cosine_to_correct": 0.9182316064834595,
+        "jensen_shannon_to_correct": 0.29372864961624146,
+        "next_token": "<unk>",
+        "nll": 4.341095307370297,
+        "probability": 0.013022257015109062,
+        "rank": 7
+      },
+      "semantic_opposite": {
+        "hidden_cosine_to_correct": 0.9455421566963196,
+        "jensen_shannon_to_correct": 0.07879596203565598,
+        "next_token": "the",
+        "nll": 1.1666693752104902,
+        "probability": 0.3114023804664612,
+        "rank": 1
+      },
+      "shuffled": {
+        "hidden_cosine_to_correct": 0.8995327353477478,
+        "jensen_shannon_to_correct": 0.2579628825187683,
+        "next_token": "text",
+        "nll": 2.9558945498523186,
+        "probability": 0.052032094448804855,
+        "rank": 3
+      },
+      "zero": {
+        "hidden_cosine_to_correct": 0.9710091352462769,
+        "jensen_shannon_to_correct": 0.02814498543739319,
+        "next_token": "the",
+        "nll": 1.0966873032902413,
+        "probability": 0.333975613117218,
+        "rank": 1
+      }
+    },
+    "selection_note": "Selected deterministically from the fixed validation corpus: correct memory beats every control on target NLL.",
+    "target": "the",
+    "target_id": 6,
+    "title": "Index lookup",
+    "token_ids": [
+      209,
+      15
+    ]
+  },
+  {
+    "address_row": 89,
+    "display_prompt": "from a",
+    "exact_phrase": "from a",
+    "id": "from_a_string",
+    "mean_control_nll_penalty": 1.2090151869664214,
+    "mean_recorded_control_nll_penalty": 1.2090151869664214,
+    "order": 2,
+    "recorded_live_control_metrics": {
+      "correct": {
+        "hidden_cosine_to_correct": 0.9999998807907104,
+        "jensen_shannon_to_correct": 0.0,
+        "next_token": "string",
+        "nll": 2.3344583458545753,
+        "probability": 0.09686293452978134,
+        "rank": 1
+      },
+      "hash_only": {
+        "hidden_cosine_to_correct": 0.9515712261199951,
+        "jensen_shannon_to_correct": 0.05539224296808243,
+        "next_token": "<unk>",
+        "nll": 3.293921986544175,
+        "probability": 0.03710802644491196,
+        "rank": 4
+      },
+      "random_frozen": {
+        "hidden_cosine_to_correct": 0.8704063892364502,
+        "jensen_shannon_to_correct": 0.2356509566307068,
+        "next_token": "<unk>",
+        "nll": 4.187937807443062,
+        "probability": 0.015177551656961441,
+        "rank": 5
+      },
+      "semantic_opposite": {
+        "hidden_cosine_to_correct": 0.9317458271980286,
+        "jensen_shannon_to_correct": 0.0838080644607544,
+        "next_token": "<unk>",
+        "nll": 3.758239436251547,
+        "probability": 0.023324768990278244,
+        "rank": 4
+      },
+      "shuffled": {
+        "hidden_cosine_to_correct": 0.873131275177002,
+        "jensen_shannon_to_correct": 0.061999160796403885,
+        "next_token": "<unk>",
+        "nll": 3.2887693938321676,
+        "probability": 0.03729972243309021,
+        "rank": 4
+      },
+      "zero": {
+        "hidden_cosine_to_correct": 0.9521743059158325,
+        "jensen_shannon_to_correct": 0.05805668234825134,
+        "next_token": "<unk>",
+        "nll": 3.1884990400340314,
+        "probability": 0.041233714669942856,
+        "rank": 4
+      }
+    },
+    "selection_note": "Selected deterministically from the fixed validation corpus: correct memory beats every control on target NLL.",
+    "target": "string",
+    "target_id": 42,
+    "title": "String conversion",
+    "token_ids": [
+      39,
+      8
     ]
   }
 ]

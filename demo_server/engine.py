@@ -123,6 +123,12 @@ class DemoEngine:
         self.benchmark = json.loads(
             (self.assets / "data" / "benchmark_summary.json").read_text(encoding="utf-8")
         )
+        recipient_benchmark = self.assets / "data" / "recipient_benchmark.json"
+        self.recipient_benchmark = (
+            json.loads(recipient_benchmark.read_text(encoding="utf-8"))
+            if recipient_benchmark.is_file()
+            else None
+        )
         self.examples = json.loads(
             (self.assets / "data" / "examples.json").read_text(encoding="utf-8")
         )
@@ -144,7 +150,7 @@ class DemoEngine:
             "donor_loaded": False,
             "recipient_loaded": True,
             "title": "Dendritron Transplant Console",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "donor": {
                 "model_id": self.provenance.get("model_id", "Qwen/Qwen2.5-0.5B"),
                 "revision": self.provenance.get("requested_revision")
@@ -543,4 +549,4 @@ class DemoEngine:
         }
 
     def benchmark_report(self) -> dict[str, Any]:
-        return self.benchmark
+        return {**self.benchmark, "recipient_benchmark": self.recipient_benchmark}

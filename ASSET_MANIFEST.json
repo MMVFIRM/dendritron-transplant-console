@@ -16,9 +16,14 @@
       "sha256": "ec40b429199ef103f51ce49b2b2f1f5e3819870d5a329134c6c5990ff0f1cbb9"
     },
     {
-      "bytes": 22221,
+      "bytes": 21628,
       "path": "assets/data/examples.json",
-      "sha256": "b61a78af01a24b0c083cdf3d9fd5a5c077aa0b09eed15de2f60c4a5afdd3c4ad"
+      "sha256": "3cc3b1c0223b243bf8d49f1bc5f118d4e3abd050e7db1fd475b53a8b8296cbae"
+    },
+    {
+      "bytes": 2691,
+      "path": "assets/data/recipient_benchmark.json",
+      "sha256": "4c2d745c832616bdd9f4eecee04d6fb883b821ed46e89576a6133fe5e9afb89c"
     },
     {
       "bytes": 505,
@@ -81,9 +86,9 @@
       "sha256": "24fba0d433cd6427803fe69eb1a159c4c4a7f50534e0cd6c35a5c5bd3f7493f3"
     },
     {
-      "bytes": 2207501,
+      "bytes": 2902061,
       "path": "assets/model/recipient.pt",
-      "sha256": "e1b5c53b8ea26db8bfc7e85b7064f88e18f728152ab8ae9bf6d9bab4802e665d"
+      "sha256": "1c052e659fefe86e5f2247608168d4dc7bd34ff7c56569b5cebed5a564c0ba59"
     },
     {
       "bytes": 7464,
@@ -97,7 +102,7 @@
     }
   ],
   "kind": "frozen_demo_assets",
-  "release": "dendritron-transplant-console-v1.0.0",
+  "release": "dendritron-transplant-console-v1.1.0",
   "schema_version": 1,
-  "total_bytes": 5150828
+  "total_bytes": 5847486
 }

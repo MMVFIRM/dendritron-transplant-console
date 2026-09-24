@@ -9,6 +9,7 @@ from typing import Any
 
 import torch
 from torch import Tensor, nn
+import torch.nn.functional as F
 
 from .config import DendritronRecipientConfig
 from .memory import MemoryPayloads, SparseMemoryFusion
@@ -156,7 +157,16 @@ class DendritronRecipientLM(nn.Module):
             targets,
             cluster_loss_weight=self.config.cluster_loss_weight,
         )
-        return RecipientLoss(total=vocabulary.total, vocabulary=vocabulary)
+        if self.config.training_loss == "sparse":
+            return RecipientLoss(total=vocabulary.total, vocabulary=vocabulary)
+        # Full-vocabulary cross-entropy. Training only against the selected
+        # clusters never pushes down tokens outside them, which leaves the
+        # full-vocabulary distribution badly calibrated.
+        dense = self.vocabulary_head.dense_scores(output.hidden, self.token_embeddings.weight)
+        valid = targets != -100
+        full = F.cross_entropy(dense[valid], targets[valid])
+        total = full + self.config.cluster_loss_weight * vocabulary.cluster_loss
+        return RecipientLoss(total=total, vocabulary=vocabulary)
 
     def parameter_report(self) -> dict[str, int | float]:
         total = sum(parameter.numel() for parameter in self.parameters())

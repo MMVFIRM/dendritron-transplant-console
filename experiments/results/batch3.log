@@ -1,0 +1,8 @@
+{"name": "lr2e-2/prenorm", "seed": 7, "nll": 6.383973671945088, "dense_acc": 0.1359748803827751, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1419.638364000013}
+{"name": "lr5e-2/prenorm", "seed": 7, "nll": 6.2601362602562425, "dense_acc": 0.14560406698564593, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1431.0932352999807}
+{"name": "lr5e-2", "seed": 7, "nll": 6.509723309238562, "dense_acc": 0.12547846889952152, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1434.796978999977}
+{"name": "lr3e-2/prenorm", "seed": 42, "nll": 6.406721722908568, "dense_acc": 0.1360944976076555, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1435.8982761000225}
+{"name": "lr3e-2/prenorm", "seed": 7, "nll": 6.373572522031063, "dense_acc": 0.13738038277511963, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1440.8902992000221}
+{"name": "lr3e-2", "seed": 42, "nll": 6.468285490337171, "dense_acc": 0.1270633971291866, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1442.8299650000117}
+{"name": "lr1e-1", "seed": 7, "nll": 6.75297974216881, "dense_acc": 0.10783492822966508, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1447.3688226999948}
+{"name": "lr1e-1/prenorm", "seed": 7, "nll": 6.4432499351683985, "dense_acc": 0.13017344497607655, "params": 532639, "active_fraction": 0.03041728940892998, "train_seconds": 1461.3779461999948}
