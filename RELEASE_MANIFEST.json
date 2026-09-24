@@ -21,9 +21,9 @@
       "sha256": "45e506e312948df1d72c287f430a6d306410b696f4e59eafe6cf4bcbefbf7c27"
     },
     {
-      "bytes": 3815,
+      "bytes": 3707,
       "path": "ASSET_MANIFEST.json",
-      "sha256": "08f0d31617dd2cda5d8396faebd9b57d809896400fb879823771cbfddb786dc9"
+      "sha256": "9590c10e74a80bb6a0b9b155518ffa074baa194a492debd4a438fee081c69ed4"
     },
     {
       "bytes": 4227,
@@ -671,9 +671,9 @@
       "sha256": "484c53f1c4b94f60498bceef83d94220ca8be986f09f2f3ecfd0ba7de250d12b"
     },
     {
-      "bytes": 2763,
+      "bytes": 2850,
       "path": "scripts/build_manifests.py",
-      "sha256": "5d5babb235683d88b8c05fae8ec3dd30faf1f4466563898f3a557dec3f687b68"
+      "sha256": "d56b8e786b8a863458ebac2411c2a46ec8e0fed31fa0b2495e3f5098cad8eebd"
     },
     {
       "bytes": 2798,
@@ -773,5 +773,5 @@
   ],
   "release": "dendritron-transplant-console-v1.1.0",
   "schema_version": 1,
-  "total_bytes": 6410196
+  "total_bytes": 6410175
 }
